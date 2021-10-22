@@ -1,6 +1,6 @@
-# koala.sk
+# piatok 22. októbra 2021, 15:26
 
-  čas `00:03`
+  čas `00:05`
 
 ## destinations.json
 
