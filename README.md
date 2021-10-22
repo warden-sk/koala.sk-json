@@ -386,7 +386,7 @@
 
   veľkosť `255.92 KB`
 
-  `164` 164 hotelov
+  `164` hotelov
 
 ```
   1. Acapulco Beach (24 termínov)
