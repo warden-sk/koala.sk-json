@@ -4,7 +4,7 @@
 
 ## destinations.json
 
-  veľkosť `224.12 KB`
+  veľkosť `276.41 KB`
 
   `55` destinácií
 
@@ -384,173 +384,173 @@
 
 ## hotels.json
 
-  veľkosť `203.64 KB`
+  veľkosť `255.92 KB`
 
   `164` 164 hotelov
 
 ```
-  1. Acapulco Beach
-  2. Acapulco Beach Family Bungalow Resort
-  3. Adriatic
-  4. Alaiye Resort
-  5. Alba Queen
-  6. Alba Resort
-  7. Alba Royal
-  8. Albanian Star
-  9. Aminess Magal
-  10. Aminess Veya
-  11. Anastasia Beach
-  12. Apartmány Medena Superior
-  13. Apartmány Medena štandard plus
-  14. Apollonia Beach
-  15. Atrium Beach
-  16. Avra Beach
-  17. Azerbajžan - krajina ohňa - poznávací zájazd
-  18. Belconti Resort
-  19. Blue Sea
-  20. Blue Sea Beach Resort I.
-  21. Blue Sea Beach Resort II.
-  22. BM Beach Resort
-  23. Borgo di Fiuzzi
-  24. Brennia Kottefaru Resort
-  25. Brzet
-  26. Caribbean World Soma Bay
-  27. Cinnamon Dhonveli Maldives
-  28. Club Calimera Serra Palace
-  29. Club Hotel Angelini
-  30. Club Mega Saray
-  31. Constantinos the Great
-  32. Corfu Senses Resort
-  33. Delphin Imperial
-  34. Desert Rose
-  35. Dessole Dolphin Bay
-  36. Dessole Malia Beach
-  37. Dhigufaru Island Resort
-  38. Dimitrios Village
-  39. Do srdca nórskych fjordov - Poznávací zájazd
-  40. Dome Beach
-  41. Donat
-  42. Duga Uvala Depandance
-  43. Duga Uvala Hotel
-  44. Dunav
-  45. Ellaidhoo Maldives by Cinnamon
-  46. Eriyadu Island Resort
-  47. Evi
-  48. Falkensteiner Park Punat
-  49. Fatima a Santiago de Compostela  - pútnický zájazd
-  50. Golden Beach Resort
-  51. Grand Atilla
-  52. Gruzínsko a Arménsko De Luxe - poznávací zájazd
-  53. Gruzínsko a Arménsko kolísky kresťanstva - Púť
-  54. Gruzínsko všetkými zmyslami De Luxe - poznávací zájazd
-  55. Hampton by Hilton Marjan Island
-  56. Hedera
-  57. Hilton Double Tree Marjan Island
-  58. Hvar
-  59. Chaika Beach Resort
-  60. Champion Holiday Village
-  61. Iberotel Miramar Al Aqah Beach Resort
-  62. IC Green Palace
-  63. IC Santai Family Resort
-  64. Ilyssion Beach Resort
-  65. Imperial - Klara
-  66. Imperial - Lucija
-  67. Imperial hotel
-  68. Imperial Palace
-  69. Iolida Beach
-  70. Írsky evergreen - poznávací zájazd
-  71. Island - královstvo gejzírov - poznávací zájazd
-  72. Istanbul De Luxe - poznávací zájazd
-  73. Izrael a Mŕtve more - pútnický zájazd letecky
-  74. Izrael a Mŕtve more De Luxe - poznávací zájazd
-  75. Izrael a Petra De Luxe - poznávací zájazd
-  76. Justiniano Park Conti
-  77. Kacjak
-  78. Kaila Beach
-  79. Klenoty Nórska a Islandu - poznávací zájazd
-  80. Kolymbia Sky
-  81. Kornati
-  82. Kotva
-  83. Kyjev a Černobyľ De Luxe - poznávací zájazd
-  84. Labranda Sandy Beach Resort
-  85. Leonardo Cypria Bay
-  86. Leonardo Plaza Cypria Maris Beach
-  87. Libanon Švajčiarsko Blízkeho východu De Luxe - poznávací zájazd
-  88. Limak Lara De Luxe
-  89. Lindos Royal
-  90. Lurdy - pútnický zájazd
-  91. Madeira - ostrovný raj s turistikou  - Poznávací zájazd
-  92. Malahini Kuda Bandos
-  93. Malin
-  94. Marmorata Village
-  95. Maya World Beach
-  96. Medena
-  97. Medena Superior Premium
-  98. Mediteran
-  99. Medžugorie - pútnický zájazd
-  100. MELIÁ Caribe Beach Resort
-  101. Melissa Kleopatra Beach
-  102. Mimosa
-  103. Miramar Calafell
-  104. Moldavsko a Odesa De Luxe - poznávací zájazd
-  105. Moskva a malý zlatý kruh Ruska De Luxe - poznávací zájazd
-  106. Moskva a Petrohrad+Riga De Luxe - Poznávací zájazd
-  107. Mýtický Peloponéz De Luxe - poznávací zájazd
-  108. Najkrajšie miesta a fjordy Nórska - poznávací zájazd
-  109. Nelia Beach
-  110. Nerton
-  111. Nicotera Beach
-  112. Niriides
-  113. Olympia
-  114. Palazzo di Zante
-  115. Palmasera Village
-  116. Paríž KLASIK - poznávací zájazd
-  117. Pegasos Beach
-  118. Petrohrad a Karélia + Riga De Luxe - poznávací zájazd
-  119. Petrohrad De Luxe - poznávací zájazd
-  120. Pinija
-  121. Pizzo Calabro Resort
-  122. Po stopách sv. pátra Pia - pútnický zájazd
-  123. Pohodové Nórsko - Poznávací zájazd
-  124. Pohodový Island - poznávací zájazd
-  125. Polynesia Plava Laguna
-  126. Port River Hotel & Spa
-  127. Portugalsko De Luxe - poznávací zájazd
-  128. Punta
-  129. Rethymno Palace
-  130. Rím De Luxe - poznávací zájazd
-  131. Rím KLASIK - poznávací zájazd
-  132. Royal Park
-  133. Salamis Bay Conti
-  134. Santa Caterina
-  135. Santa Marina
-  136. Sea Star Beau Rivage
-  137. Sedem divov Islandu - poznávací zájazd
-  138. Serra Garden
-  139. Serra Park
-  140. Slaven
-  141. St. Raphael Resort
-  142. Starlight Resort
-  143. Stella Di Mare Beach Resort & Spa
-  144. Sun Beach Park
-  145. Sunny Side
-  146. Sunset Beach
-  147. Sv. Charbel a Libanon - pútnický zájazd
-  148. Swandor Topkapi Palace
-  149. Swiss Inn Resort Hurghada
-  150. Tac Premier
-  151. Talea Beach
-  152. Tropitel Sahl Hasheesh
-  153. Tsokkos Protaras Beach
-  154. TYC
-  155. Uzbekistan De Luxe - poznávací zájazd
-  156. Virginia
-  157. Vrissiana Beach
-  158. Water Side Resort & Spa
-  159. Wyndham Grand Novi Vinodolski Resort de luxe Apartmány
-  160. Wyndham Grand Novi Vinodolski Resort hotel
-  161. Wyndham Grand Novi Vinodolski Resort Premium Apartmány
-  162. Za Pannou Máriou a svätým Jánom do Efezu - pútnický zájazd
-  163. Zante Royal Resort
-  164. Zora
+  1. Acapulco Beach (24 termínov)
+  2. Acapulco Beach Family Bungalow Resort (24 termínov)
+  3. Adriatic (20 termínov)
+  4. Alaiye Resort (26 termínov)
+  5. Alba Queen (26 termínov)
+  6. Alba Resort (26 termínov)
+  7. Alba Royal (26 termínov)
+  8. Albanian Star (8 termínov)
+  9. Aminess Magal (21 termínov)
+  10. Aminess Veya (21 termínov)
+  11. Anastasia Beach (34 termínov)
+  12. Apartmány Medena Superior (37 termínov)
+  13. Apartmány Medena štandard plus (35 termínov)
+  14. Apollonia Beach (41 termínov)
+  15. Atrium Beach (2 termíny)
+  16. Avra Beach (20 termínov)
+  17. Azerbajžan - krajina ohňa - poznávací zájazd (2 termíny)
+  18. Belconti Resort (26 termínov)
+  19. Blue Sea (16 termínov)
+  20. Blue Sea Beach Resort I. (22 termínov)
+  21. Blue Sea Beach Resort II. (21 termínov)
+  22. BM Beach Resort (25 termínov)
+  23. Borgo di Fiuzzi (6 termínov)
+  24. Brennia Kottefaru Resort (3 termíny)
+  25. Brzet (13 termínov)
+  26. Caribbean World Soma Bay (26 termínov)
+  27. Cinnamon Dhonveli Maldives (1 termín)
+  28. Club Calimera Serra Palace (32 termínov)
+  29. Club Hotel Angelini (7 termínov)
+  30. Club Mega Saray (26 termínov)
+  31. Constantinos the Great (52 termínov)
+  32. Corfu Senses Resort (16 termínov)
+  33. Delphin Imperial (1 termín)
+  34. Desert Rose (26 termínov)
+  35. Dessole Dolphin Bay (41 termínov)
+  36. Dessole Malia Beach (41 termínov)
+  37. Dhigufaru Island Resort (2 termíny)
+  38. Dimitrios Village (37 termínov)
+  39. Do srdca nórskych fjordov - Poznávací zájazd (2 termíny)
+  40. Dome Beach (52 termínov)
+  41. Donat (22 termínov)
+  42. Duga Uvala Depandance (20 termínov)
+  43. Duga Uvala Hotel (19 termínov)
+  44. Dunav (53 termínov)
+  45. Ellaidhoo Maldives by Cinnamon (1 termín)
+  46. Eriyadu Island Resort (5 termínov)
+  47. Evi (22 termínov)
+  48. Falkensteiner Park Punat (20 termínov)
+  49. Fatima a Santiago de Compostela  - pútnický zájazd (2 termíny)
+  50. Golden Beach Resort (26 termínov)
+  51. Grand Atilla (26 termínov)
+  52. Gruzínsko a Arménsko De Luxe - poznávací zájazd (3 termíny)
+  53. Gruzínsko a Arménsko kolísky kresťanstva - Púť (2 termíny)
+  54. Gruzínsko všetkými zmyslami De Luxe - poznávací zájazd (2 termíny)
+  55. Hampton by Hilton Marjan Island (19 termínov)
+  56. Hedera (21 termínov)
+  57. Hilton Double Tree Marjan Island (26 termínov)
+  58. Hvar (12 termínov)
+  59. Chaika Beach Resort (53 termínov)
+  60. Champion Holiday Village (26 termínov)
+  61. Iberotel Miramar Al Aqah Beach Resort (25 termínov)
+  62. IC Green Palace (26 termínov)
+  63. IC Santai Family Resort (26 termínov)
+  64. Ilyssion Beach Resort (22 termínov)
+  65. Imperial - Klara (22 termínov)
+  66. Imperial - Lucija (32 termínov)
+  67. Imperial hotel (22 termínov)
+  68. Imperial Palace (53 termínov)
+  69. Iolida Beach (41 termínov)
+  70. Írsky evergreen - poznávací zájazd (2 termíny)
+  71. Island - královstvo gejzírov - poznávací zájazd (3 termíny)
+  72. Istanbul De Luxe - poznávací zájazd (3 termíny)
+  73. Izrael a Mŕtve more - pútnický zájazd letecky (4 termíny)
+  74. Izrael a Mŕtve more De Luxe - poznávací zájazd (2 termíny)
+  75. Izrael a Petra De Luxe - poznávací zájazd (4 termíny)
+  76. Justiniano Park Conti (26 termínov)
+  77. Kacjak (22 termínov)
+  78. Kaila Beach (26 termínov)
+  79. Klenoty Nórska a Islandu - poznávací zájazd (2 termíny)
+  80. Kolymbia Sky (23 termínov)
+  81. Kornati (22 termínov)
+  82. Kotva (46 termínov)
+  83. Kyjev a Černobyľ De Luxe - poznávací zájazd (2 termíny)
+  84. Labranda Sandy Beach Resort (16 termínov)
+  85. Leonardo Cypria Bay (48 termínov)
+  86. Leonardo Plaza Cypria Maris Beach (52 termínov)
+  87. Libanon Švajčiarsko Blízkeho východu De Luxe - poznávací zájazd (2 termíny)
+  88. Limak Lara De Luxe (2 termíny)
+  89. Lindos Royal (21 termínov)
+  90. Lurdy - pútnický zájazd (5 termínov)
+  91. Madeira - ostrovný raj s turistikou  - Poznávací zájazd (3 termíny)
+  92. Malahini Kuda Bandos (2 termíny)
+  93. Malin (25 termínov)
+  94. Marmorata Village (27 termínov)
+  95. Maya World Beach (26 termínov)
+  96. Medena (34 termínov)
+  97. Medena Superior Premium (36 termínov)
+  98. Mediteran (3 termíny)
+  99. Medžugorie - pútnický zájazd (2 termíny)
+  100. MELIÁ Caribe Beach Resort (2 termíny)
+  101. Melissa Kleopatra Beach (26 termínov)
+  102. Mimosa (20 termínov)
+  103. Miramar Calafell (4 termíny)
+  104. Moldavsko a Odesa De Luxe - poznávací zájazd (2 termíny)
+  105. Moskva a malý zlatý kruh Ruska De Luxe - poznávací zájazd (2 termíny)
+  106. Moskva a Petrohrad+Riga De Luxe - Poznávací zájazd (2 termíny)
+  107. Mýtický Peloponéz De Luxe - poznávací zájazd (2 termíny)
+  108. Najkrajšie miesta a fjordy Nórska - poznávací zájazd (3 termíny)
+  109. Nelia Beach (52 termínov)
+  110. Nerton (26 termínov)
+  111. Nicotera Beach (6 termínov)
+  112. Niriides (22 termínov)
+  113. Olympia (22 termínov)
+  114. Palazzo di Zante (5 termínov)
+  115. Palmasera Village (12 termínov)
+  116. Paríž KLASIK - poznávací zájazd (2 termíny)
+  117. Pegasos Beach (26 termínov)
+  118. Petrohrad a Karélia + Riga De Luxe - poznávací zájazd (2 termíny)
+  119. Petrohrad De Luxe - poznávací zájazd (3 termíny)
+  120. Pinija (22 termínov)
+  121. Pizzo Calabro Resort (6 termínov)
+  122. Po stopách sv. pátra Pia - pútnický zájazd (2 termíny)
+  123. Pohodové Nórsko - Poznávací zájazd (2 termíny)
+  124. Pohodový Island - poznávací zájazd (2 termíny)
+  125. Polynesia Plava Laguna (21 termínov)
+  126. Port River Hotel & Spa (26 termínov)
+  127. Portugalsko De Luxe - poznávací zájazd (2 termíny)
+  128. Punta (36 termínov)
+  129. Rethymno Palace (41 termínov)
+  130. Rím De Luxe - poznávací zájazd (2 termíny)
+  131. Rím KLASIK - poznávací zájazd (2 termíny)
+  132. Royal Park (51 termínov)
+  133. Salamis Bay Conti (21 termínov)
+  134. Santa Caterina (6 termínov)
+  135. Santa Marina (41 termínov)
+  136. Sea Star Beau Rivage (26 termínov)
+  137. Sedem divov Islandu - poznávací zájazd (5 termínov)
+  138. Serra Garden (32 termínov)
+  139. Serra Park (26 termínov)
+  140. Slaven (21 termínov)
+  141. St. Raphael Resort (52 termínov)
+  142. Starlight Resort (26 termínov)
+  143. Stella Di Mare Beach Resort & Spa (26 termínov)
+  144. Sun Beach Park (26 termínov)
+  145. Sunny Side (21 termínov)
+  146. Sunset Beach (46 termínov)
+  147. Sv. Charbel a Libanon - pútnický zájazd (2 termíny)
+  148. Swandor Topkapi Palace (26 termínov)
+  149. Swiss Inn Resort Hurghada (27 termínov)
+  150. Tac Premier (26 termínov)
+  151. Talea Beach (41 termínov)
+  152. Tropitel Sahl Hasheesh (26 termínov)
+  153. Tsokkos Protaras Beach (47 termínov)
+  154. TYC (7 termínov)
+  155. Uzbekistan De Luxe - poznávací zájazd (2 termíny)
+  156. Virginia (22 termínov)
+  157. Vrissiana Beach (52 termínov)
+  158. Water Side Resort & Spa (26 termínov)
+  159. Wyndham Grand Novi Vinodolski Resort de luxe Apartmány (21 termínov)
+  160. Wyndham Grand Novi Vinodolski Resort hotel (21 termínov)
+  161. Wyndham Grand Novi Vinodolski Resort Premium Apartmány (20 termínov)
+  162. Za Pannou Máriou a svätým Jánom do Efezu - pútnický zájazd (2 termíny)
+  163. Zante Royal Resort (3 termíny)
+  164. Zora (22 termínov)
 ```
