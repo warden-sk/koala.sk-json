@@ -4,68 +4,68 @@
 
 ## destinations.json
 
-  veľkosť `224.05 KB`
+  veľkosť `224.12 KB`
 
   `55` destinácií
 
 ```
   1. Albánsko
-    1. Durrës
+    1. Durrës (1 hotel)
     2. Shëngjin
     3. Tirana
-  2. Arménsko
-  3. Azerbajdžan
+  2. Arménsko (1 hotel)
+  3. Azerbajdžan (1 hotel)
   4. Belgicko
-  5. Bosna a Hercegovina
+  5. Bosna a Hercegovina (1 hotel)
   6. Bulharsko
-    1. Elenite
+    1. Elenite (2 hotely)
     2. Nesebar
-    3. Pomorie
+    3. Pomorie (1 hotel)
     4. Primorsko
-    5. Slnečné pobrežie
+    5. Slnečné pobrežie (4 hotely)
     6. Sveti Vlas
     7. Zlaté piesky
   7. Cyprus
-    1. Ayia Napa
+    1. Ayia Napa (2 hotely)
     2. Coral Bay
     3. Larnaka
-    4. Limassol
-    5. Paphos
-    6. Protaras
+    4. Limassol (1 hotel)
+    5. Paphos (2 hotely)
+    6. Protaras (4 hotely)
   8. Česká republika
   9. Čierna Hora
     1. Bar
-    2. Bečiči
+    2. Bečiči (1 hotel)
     3. Budva
     4. Sutomore
     5. Sveti Stefan
     6. Tivat
   10. Dánsko
   11. Dominikánska republika
-    1. Playa Bávaro
+    1. Playa Bávaro (1 hotel)
     2. Punta Cana
   12. Egypt
     1. Abu Soma
     2. El Gouna
-    3. Hurghada
-      1. Dahar
-    4. Makadi Bay
+    3. Hurghada (3 hotely)
+      1. Dahar (1 hotel)
+    4. Makadi Bay (1 hotel)
     5. Marsa Alam
-    6. Sahl Hasheesh
+    6. Sahl Hasheesh (1 hotel)
     7. Sharm el Sheikh
-    8. Soma Bay
+    8. Soma Bay (1 hotel)
     9. Taba
   13. Estónsko
   14. Fínsko
   15. Florida
-  16. Francúzsko
-    1. Lurdy
+  16. Francúzsko (1 hotel)
+    1. Lurdy (1 hotel)
     2. Paříž
     3. Toulouse
   17. Grécko a ostrovy
     1. Atény
       1. Marathon Bay
-      2. Peloponéz
+      2. Peloponéz (1 hotel)
         1. Isthmia
         2. Loutraki
         3. Vrachati
@@ -77,10 +77,10 @@
       4. Kriopigi
       5. Nea Potidea
     3. Korfu
-      1. Agios Georgios
+      1. Agios Georgios (2 hotely)
       2. Agios Georgios Pagi
       3. Agios Gordios
-      4. Agios Ioannis Peristeron
+      4. Agios Ioannis Peristeron (1 hotel)
       5. Acharavi
       6. Kerkyra
       7. Lefkimi - Agios Petros
@@ -91,18 +91,18 @@
       2. Mastichari
       3. Tigaki
     5. Kréta
-      1. Adelianos Kampos
-      2. Agia Marina
+      1. Adelianos Kampos (1 hotel)
+      2. Agia Marina (1 hotel)
       3. Agios Nikolaos
-      4. Ammoudara
-      5. Bali
+      4. Ammoudara (3 hotely)
+      5. Bali (1 hotel)
       6. Heraklion
       7. Hersonissos
       8. Ierapetra
       9. Kavros
       10. Kokkini Hani
-      11. Malia
-      12. Missiria
+      11. Malia (1 hotel)
+      12. Missiria (1 hotel)
       13. Panormo
       14. Platanias - Pyrgos Psilonerou
       15. Rethymno
@@ -115,14 +115,14 @@
     7. Olympská riviéra
     8. Rhodos
       1. Afandou
-      2. Faliraki
-      3. Ixia
-      4. Kallithea
+      2. Faliraki (4 hotely)
+      3. Ixia (1 hotel)
+      4. Kallithea (1 hotel)
       5. Kiotari
-      6. Kolymbia
+      6. Kolymbia (2 hotely)
       7. Lardos
-      8. Lindos
-      9. Pefki
+      8. Lindos (1 hotel)
+      9. Pefki (1 hotel)
       10. Rhodos Town
     9. Santorini
     10. Thessaloniki
@@ -131,13 +131,13 @@
       2. Agios Sostis - Laganas
       3. Argassi
       4. Laganas
-      5. Vassilikos
+      5. Vassilikos (2 hotely)
       6. Zakynthos mesto
-  18. Gruzínsko
+  18. Gruzínsko (2 hotely)
   19. Holandsko
   20. Chorvátsko
     1. Dalmácia
-      1. Južná Dalmácia
+      1. Južná Dalmácia (2 hotely)
         1. Baška Voda
         2. Baško Polje
         3. Dubrovnik
@@ -150,7 +150,7 @@
         7. Orebič
         8. Podgora
         9. Živogošče
-      2. Stredná Dalmácia
+      2. Stredná Dalmácia (15 hotelov)
         1. Biograd na Moru
         2. Kukljica - Ugljan
         3. Murter
@@ -163,41 +163,41 @@
         10. Vodice
         11. Zadar
     2. Istria
-      1. Crikvenica
-      2. Duga Uvala
-      3. Krk, Malinska
-      4. Krk, Punat
-      5. Krk,Njivice
+      1. Crikvenica (1 hotel)
+      2. Duga Uvala (2 hotely)
+      3. Krk, Malinska (1 hotel)
+      4. Krk, Punat (1 hotel)
+      5. Krk,Njivice (2 hotely)
       6. Medulin
       7. Medveja
-      8. Novi Vinodolski
+      8. Novi Vinodolski (3 hotely)
       9. Opatija
       10. ostrov Rab
       11. Pula
       12. Pula-Verudela
-      13. Rabac
+      13. Rabac (2 hotely)
       14. Rovinj
-      15. Selce
-      16. Umag
+      15. Selce (1 hotel)
+      16. Umag (1 hotel)
   21. Irán
-  22. Írsko
-  23. Island
-  24. Izrael
+  22. Írsko (1 hotel)
+  23. Island (3 hotely)
+  24. Izrael (3 hotely)
     1. Eilat
     2. Jeruzalém
     3. Netanya
     4. Tel Aviv
-  25. Libanon
+  25. Libanon (2 hotely)
   26. Litva
   27. Lotyšsko
   28. Maďarsko
   29. Maldivy
-    1. Atol Baa - Dhigufaru
-    2. Atol Raa Kottefaru
-    3. Atol Severný Ari - Ellaidhoo
-    4. Atol Severný Male - Dhonveli
-    5. Atol Severný Male - Eriyadu
-    6. Male
+    1. Atol Baa - Dhigufaru (1 hotel)
+    2. Atol Raa Kottefaru (1 hotel)
+    3. Atol Severný Ari - Ellaidhoo (1 hotel)
+    4. Atol Severný Male - Dhonveli (1 hotel)
+    5. Atol Severný Male - Eriyadu (1 hotel)
+    6. Male (1 hotel)
     7. South Ari Atol
   30. Malta
     1. Cirkewwa
@@ -206,10 +206,10 @@
     4. ostrov Comino
   31. Maroko
     1. Larache
-  32. Moldavsko
-  33. Nórsko
+  32. Moldavsko (1 hotel)
+  33. Nórsko (4 hotely)
   34. Poľsko
-  35. Portugalsko
+  35. Portugalsko (3 hotely)
     1. Algarve
     2. Fatima
   36. Rakúsko
@@ -219,11 +219,11 @@
     2. Eforie Nord
     3. Mamaia
     4. Mangalia-Jupiter
-  38. Rusko
+  38. Rusko (5 hotelov)
   39. Severný Cyprus
     1. Bafra
-    2. Famagusta
-    3. Kyrenia
+    2. Famagusta (1 hotel)
+    3. Kyrenia (2 hotely)
   40. Slovensko
   41. Slovinsko
     1. Izola
@@ -232,8 +232,8 @@
   42. Spojené arabské emiráty
     1. Abu Dhabi
     2. Dubaj
-    3. Fujairah
-    4. Ras Al Khaimah
+    3. Fujairah (1 hotel)
+    4. Ras Al Khaimah (3 hotely)
   43. Spojené kráľovstvo
     1. Londýn
   44. Srí Lanka
@@ -270,7 +270,7 @@
     6. Španielsko pevnina
       1. Barcelona
       2. Benidorm
-      3. Calafell
+      3. Calafell (1 hotel)
       4. Calella
       5. Girona
       6. La Manga
@@ -282,9 +282,9 @@
       12. Salou
       13. Santa Susanna
   47. Švédsko
-  48. Taliansko
+  48. Taliansko (3 hotely)
     1. Jadranské pobrežie
-      1. Bellaria
+      1. Bellaria (1 hotel)
       2. Bellaria - Igea Marina
       3. Bibione
         1. Pineda
@@ -298,7 +298,7 @@
       10. Milano Marittima
       11. Pesaro
       12. Riccione
-      13. Rimini
+      13. Rimini (1 hotel)
         1. Bellariva
         2. Marebello
         3. Marina Centro
@@ -311,11 +311,11 @@
       1. Capo Rizzuto
       2. Capo Vaticano S.Maria di Ricadi
       3. Marinella di Cutro
-      4. Nicotera Marina
-      5. Pizzo
-      6. Praia a Mare
+      4. Nicotera Marina (1 hotel)
+      5. Pizzo (1 hotel)
+      6. Praia a Mare (1 hotel)
       7. Rossano Calabro
-      8. Scalea
+      8. Scalea (1 hotel)
       9. Simeri Mare
     3. Kampánia
       1. Baia Domizia
@@ -323,11 +323,11 @@
     5. Rím
     6. Sardínia
       1. Arborea
-      2. Cala Gonone
+      2. Cala Gonone (1 hotel)
       3. Golfo Aranci
       4. Chia
       5. Marina di Sorso
-      6. Santa Teresa Gallura
+      6. Santa Teresa Gallura (1 hotel)
     7. Sicília
       1. Campofelice di Roccella
       2. Cefalú
@@ -353,40 +353,40 @@
     8. Port El Kantaoui
     9. Sousse
     10. Tabarka
-  51. Turecko
-    1. Alanya
+  51. Turecko (1 hotel)
+    1. Alanya (5 hotelov)
       1. Alara
-      2. Avsallar
+      2. Avsallar (1 hotel)
       3. Mahmutlar
-      4. Okurcalar
+      4. Okurcalar (1 hotel)
     2. Antalya
-      1. Lara
-      2. Lara-Kundu
-    3. Belek
-    4. Istanbul
+      1. Lara (3 hotely)
+      2. Lara-Kundu (1 hotel)
+    3. Belek (3 hotely)
+    4. Istanbul (1 hotel)
     5. Izmir
     6. Kemer
-      1. Beldibi
+      1. Beldibi (1 hotel)
       2. Göynük
     7. Konakli
-    8. Side
-      1. Colakli
+    8. Side (5 hotelov)
+      1. Colakli (3 hotely)
       2. Evrenseki
-      3. Kizilagac
-      4. Kizilot
+      3. Kizilagac (1 hotel)
+      4. Kizilot (1 hotel)
       5. Manavgat
-      6. Titreyengol
+      6. Titreyengol (1 hotel)
   52. Ukrajina
   53. USA
-  54. Uzbekistan
+  54. Uzbekistan (1 hotel)
   55. Veľká Británia
 ```
 
 ## hotels.json
 
-  veľkosť `203.59 KB`
+  veľkosť `203.64 KB`
 
-  `164` hotelov
+  `164` 164 hotelov
 
 ```
   1. Acapulco Beach
