@@ -1,6 +1,6 @@
 Jeden `JSON` súbor vytvorený z viacerých koncových bodov služby `istour` prostredníctvom zložitého algoritmu.
 
-utorok 26. októbra 2021, 10:30:31
+utorok 26. októbra 2021, 10:35:24
 
 čas `00:06`
 
@@ -8,7 +8,7 @@ utorok 26. októbra 2021, 10:30:31
 
   veľkosť `276.28 KB`
 
-  `55` destinácií
+  `371` destinácií
 
 ```
   1. Albánsko
