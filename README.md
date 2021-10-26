@@ -1,8 +1,10 @@
 Jeden `JSON` súbor vytvorený z viacerých koncových bodov služby `istour` prostredníctvom zložitého algoritmu.
 
-utorok 26. októbra 2021, 11:10:08
+utorok 26. októbra 2021, 11:11:20
 
-čas `00:06`
+čas `00:05`
+
+# Súbory
 
 ## destinations `JSON`
 
