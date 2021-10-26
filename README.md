@@ -1,6 +1,6 @@
 Jeden `JSON` súbor vytvorený z viacerých koncových bodov služby `istour` prostredníctvom zložitého algoritmu.
 
-utorok 26. októbra 2021, 11:15:59
+utorok 26. októbra 2021, 11:16:48
 
 čas `00:06`
 
