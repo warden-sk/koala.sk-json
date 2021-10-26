@@ -1,10 +1,10 @@
-piatok 22. októbra 2021, 15:28
+utorok 26. októbra 2021, 9:41
 
 čas `00:05`
 
 ## destinations.json
 
-  veľkosť `276.41 KB`
+  veľkosť `276.19 KB`
 
   `55` destinácií
 
@@ -229,7 +229,7 @@ piatok 22. októbra 2021, 15:28
     1. Izola
     2. Portorož
     3. Strunjan-Piran
-  42. Spojené arabské emiráty
+  42. Spojené arabské emir��ty
     1. Abu Dhabi
     2. Dubaj
     3. Fujairah (1 hotel)
@@ -384,7 +384,7 @@ piatok 22. októbra 2021, 15:28
 
 ## hotels.json
 
-  veľkosť `255.92 KB`
+  veľkosť `255.71 KB`
 
   `164` hotelov
 
