@@ -1,6 +1,8 @@
-utorok 26. októbra 2021, 10:08
+Jeden `JSON` súbor vytvorený z viacerých koncových bodov služby `istour` prostredníctvom zložitého algoritmu.
 
-čas `00:06`
+utorok 26. októbra 2021, 10:23
+
+čas `00:07`
 
 ## destinations.json
 
@@ -229,7 +231,7 @@ utorok 26. októbra 2021, 10:08
     1. Izola
     2. Portorož
     3. Strunjan-Piran
-  42. Spojené arabské emir��ty
+  42. Spojené arabské emiráty
     1. Abu Dhabi
     2. Dubaj
     3. Fujairah (1 hotel)
