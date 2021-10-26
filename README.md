@@ -1,6 +1,6 @@
-utorok 26. októbra 2021, 9:41
+utorok 26. októbra 2021, 9:56
 
-čas `00:05`
+čas `00:06`
 
 ## destinations.json
 
