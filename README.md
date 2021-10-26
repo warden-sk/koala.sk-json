@@ -1,9 +1,5 @@
 [Súbor](#tree-json) vytvorený z viacerých koncových bodov služby `istour` prostredníctvom zložitého algoritmu.
 
-utorok 26. októbra 2021, 11:23:32
-
-čas `00:07`
-
 # Súbory
 
 ## destinations `JSON`
