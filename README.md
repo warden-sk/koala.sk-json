@@ -1,12 +1,12 @@
 Jeden `JSON` súbor vytvorený z viacerých koncových bodov služby `istour` prostredníctvom zložitého algoritmu.
 
-utorok 26. októbra 2021, 10:23
+utorok 26. októbra 2021, 10:30:31
 
-čas `00:07`
+čas `00:06`
 
 ## destinations.json
 
-  veľkosť `276.19 KB`
+  veľkosť `276.28 KB`
 
   `55` destinácií
 
@@ -386,7 +386,7 @@ utorok 26. októbra 2021, 10:23
 
 ## hotels.json
 
-  veľkosť `255.71 KB`
+  veľkosť `255.78 KB`
 
   `164` hotelov
 
@@ -542,7 +542,7 @@ utorok 26. októbra 2021, 10:23
   149. Swiss Inn Resort Hurghada (27 termínov)
   150. Tac Premier (26 termínov)
   151. Talea Beach (41 termínov)
-  152. Tropitel Sahl Hasheesh (26 termínov)
+  152. Tropitel Sahl Hasheesh (27 termínov)
   153. Tsokkos Protaras Beach (47 termínov)
   154. TYC (7 termínov)
   155. Uzbekistan De Luxe - poznávací zájazd (2 termíny)
