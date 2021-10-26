@@ -1,10 +1,10 @@
 Jeden `JSON` súbor vytvorený z viacerých koncových bodov služby `istour` prostredníctvom zložitého algoritmu.
 
-utorok 26. októbra 2021, 11:08:05
+utorok 26. októbra 2021, 11:10:08
 
 čas `00:06`
 
-## destinations.json
+## destinations `JSON`
 
   veľkosť `20.96 KB`
 
@@ -384,7 +384,7 @@ utorok 26. októbra 2021, 11:08:05
   371. Živogošče
 ```
 
-## hotels.json
+## hotels `JSON`
 
   veľkosť `255.78 KB`
 
@@ -557,7 +557,7 @@ utorok 26. októbra 2021, 11:08:05
   164. Zora (22 termínov)
 ```
 
-## tree.json
+## tree `JSON`
 
   veľkosť `276.26 KB`
 
