@@ -1,8 +1,8 @@
 Jeden `JSON` súbor vytvorený z viacerých koncových bodov služby `istour` prostredníctvom zložitého algoritmu.
 
-utorok 26. októbra 2021, 11:11:20
+utorok 26. októbra 2021, 11:15:59
 
-čas `00:05`
+čas `00:06`
 
 # Súbory
 
@@ -585,16 +585,16 @@ utorok 26. októbra 2021, 11:11:20
       I. Sunset Beach (46 termínov)
     4. Primorsko
     5. Slnečné pobrežie (4 hotely)
-      I. Kotva (46 termínov)
-      II. Dunav (53 termínov)
-      III. Chaika Beach Resort (53 termínov)
-      IV. Imperial Palace (53 termínov)
+      I. Dunav (53 termínov)
+      II. Chaika Beach Resort (53 termínov)
+      III. Imperial Palace (53 termínov)
+      IV. Kotva (46 termínov)
     6. Sveti Vlas
     7. Zlaté piesky
   7. Cyprus
     1. Ayia Napa (2 hotely)
-      I. Nelia Beach (52 termínov)
-      II. Dome Beach (52 termínov)
+      I. Dome Beach (52 termínov)
+      II. Nelia Beach (52 termínov)
     2. Coral Bay
     3. Larnaka
     4. Limassol (1 hotel)
@@ -603,10 +603,10 @@ utorok 26. októbra 2021, 11:11:20
       I. Leonardo Cypria Bay (48 termínov)
       II. Leonardo Plaza Cypria Maris Beach (52 termínov)
     6. Protaras (4 hotely)
-      I. Tsokkos Protaras Beach (47 termínov)
+      I. Anastasia Beach (34 termínov)
       II. Constantinos the Great (52 termínov)
-      III. Vrissiana Beach (52 termínov)
-      IV. Anastasia Beach (34 termínov)
+      III. Tsokkos Protaras Beach (47 termínov)
+      IV. Vrissiana Beach (52 termínov)
   8. Česká republika
   9. Čierna Hora
     1. Bar
@@ -625,9 +625,9 @@ utorok 26. októbra 2021, 11:11:20
     1. Abu Soma
     2. El Gouna
     3. Hurghada (3 hotely)
-      I. Swiss Inn Resort Hurghada (27 termínov)
+      I. Desert Rose (26 termínov)
       II. Golden Beach Resort (26 termínov)
-      III. Desert Rose (26 termínov)
+      III. Swiss Inn Resort Hurghada (27 termínov)
       1. Dahar (1 hotel)
         I. Sea Star Beau Rivage (26 termínov)
     4. Makadi Bay (1 hotel)
@@ -687,9 +687,9 @@ utorok 26. októbra 2021, 11:11:20
         I. Iolida Beach (41 termínov)
       3. Agios Nikolaos
       4. Ammoudara (3 hotely)
-        I. Santa Marina (41 termínov)
-        II. Apollonia Beach (41 termínov)
-        III. Dessole Dolphin Bay (41 termínov)
+        I. Apollonia Beach (41 termínov)
+        II. Dessole Dolphin Bay (41 termínov)
+        III. Santa Marina (41 termínov)
       5. Bali (1 hotel)
         I. Talea Beach (41 termínov)
       6. Heraklion
@@ -714,18 +714,18 @@ utorok 26. októbra 2021, 11:11:20
     8. Rhodos
       1. Afandou
       2. Faliraki (4 hotely)
-        I. Evi (22 termínov)
-        II. Pegasos Beach (26 termínov)
-        III. Blue Sea Beach Resort I. (22 termínov)
-        IV. Blue Sea Beach Resort II. (21 termínov)
+        I. Blue Sea Beach Resort I. (22 termínov)
+        II. Blue Sea Beach Resort II. (21 termínov)
+        III. Evi (22 termínov)
+        IV. Pegasos Beach (26 termínov)
       3. Ixia (1 hotel)
         I. Avra Beach (20 termínov)
       4. Kallithea (1 hotel)
         I. Virginia (22 termínov)
       5. Kiotari
       6. Kolymbia (2 hotely)
-        I. Niriides (22 termínov)
-        II. Kolymbia Sky (23 termínov)
+        I. Kolymbia Sky (23 termínov)
+        II. Niriides (22 termínov)
       7. Lardos
       8. Lindos (1 hotel)
         I. Lindos Royal (21 termínov)
@@ -744,14 +744,14 @@ utorok 26. októbra 2021, 11:11:20
         II. Zante Royal Resort (3 termíny)
       6. Zakynthos mesto
   18. Gruzínsko (2 hotely)
-    I. Gruzínsko všetkými zmyslami De Luxe - poznávací zájazd (2 termíny)
-    II. Gruzínsko a Arménsko kolísky kresťanstva - Púť (2 termíny)
+    I. Gruzínsko a Arménsko kolísky kresťanstva - Púť (2 termíny)
+    II. Gruzínsko všetkými zmyslami De Luxe - poznávací zájazd (2 termíny)
   19. Holandsko
   20. Chorvátsko
     1. Dalmácia
       1. Južná Dalmácia (2 hotely)
-        I. Hvar (12 termínov)
-        II. Brzet (13 termínov)
+        I. Brzet (13 termínov)
+        II. Hvar (12 termínov)
         1. Baška Voda
         2. Baško Polje
         3. Dubrovnik
@@ -765,21 +765,21 @@ utorok 26. októbra 2021, 11:11:20
         8. Podgora
         9. Živogošče
       2. Stredná Dalmácia (15 hotelov)
-        I. Donat (22 termínov)
-        II. Pinija (22 termínov)
-        III. Adriatic (20 termínov)
-        IV. Kornati (22 termínov)
-        V. Zora (22 termínov)
-        VI. Olympia (22 termínov)
+        I. Adriatic (20 termínov)
+        II. Apartmány Medena Superior (37 termínov)
+        III. Apartmány Medena štandard plus (35 termínov)
+        IV. Donat (22 termínov)
+        V. Imperial - Klara (22 termínov)
+        VI. Imperial - Lucija (32 termínov)
         VII. Imperial hotel (22 termínov)
-        VIII. Imperial - Klara (22 termínov)
+        VIII. Kornati (22 termínov)
         IX. Medena (34 termínov)
-        X. Apartmány Medena štandard plus (35 termínov)
-        XI. Imperial - Lucija (32 termínov)
-        XII. Sunny Side (21 termínov)
-        XIII. Apartmány Medena Superior (37 termínov)
-        XIV. Medena Superior Premium (36 termínov)
-        XV. Punta (36 termínov)
+        X. Medena Superior Premium (36 termínov)
+        XI. Olympia (22 termínov)
+        XII. Pinija (22 termínov)
+        XIII. Punta (36 termínov)
+        XIV. Sunny Side (21 termínov)
+        XV. Zora (22 termínov)
         1. Biograd na Moru
         2. Kukljica - Ugljan
         3. Murter
@@ -802,21 +802,21 @@ utorok 26. októbra 2021, 11:11:20
       4. Krk, Punat (1 hotel)
         I. Falkensteiner Park Punat (20 termínov)
       5. Krk,Njivice (2 hotely)
-        I. Aminess Veya (21 termínov)
-        II. Aminess Magal (21 termínov)
+        I. Aminess Magal (21 termínov)
+        II. Aminess Veya (21 termínov)
       6. Medulin
       7. Medveja
       8. Novi Vinodolski (3 hotely)
-        I. Wyndham Grand Novi Vinodolski Resort Premium Apartmány (20 termínov)
-        II. Wyndham Grand Novi Vinodolski Resort de luxe Apartmány (21 termínov)
-        III. Wyndham Grand Novi Vinodolski Resort hotel (21 termínov)
+        I. Wyndham Grand Novi Vinodolski Resort de luxe Apartmány (21 termínov)
+        II. Wyndham Grand Novi Vinodolski Resort hotel (21 termínov)
+        III. Wyndham Grand Novi Vinodolski Resort Premium Apartmány (20 termínov)
       9. Opatija
       10. ostrov Rab
       11. Pula
       12. Pula-Verudela
       13. Rabac (2 hotely)
-        I. Mimosa (20 termínov)
-        II. Hedera (21 termínov)
+        I. Hedera (21 termínov)
+        II. Mimosa (20 termínov)
       14. Rovinj
       15. Selce (1 hotel)
         I. Slaven (21 termínov)
@@ -826,20 +826,20 @@ utorok 26. októbra 2021, 11:11:20
   22. Írsko (1 hotel)
     I. Írsky evergreen - poznávací zájazd (2 termíny)
   23. Island (3 hotely)
-    I. Sedem divov Islandu - poznávací zájazd (5 termínov)
-    II. Island - královstvo gejzírov - poznávací zájazd (3 termíny)
-    III. Pohodový Island - poznávací zájazd (2 termíny)
+    I. Island - královstvo gejzírov - poznávací zájazd (3 termíny)
+    II. Pohodový Island - poznávací zájazd (2 termíny)
+    III. Sedem divov Islandu - poznávací zájazd (5 termínov)
   24. Izrael (3 hotely)
-    I. Izrael a Mŕtve more De Luxe - poznávací zájazd (2 termíny)
-    II. Izrael a Petra De Luxe - poznávací zájazd (4 termíny)
-    III. Izrael a Mŕtve more - pútnický zájazd letecky (4 termíny)
+    I. Izrael a Mŕtve more - pútnický zájazd letecky (4 termíny)
+    II. Izrael a Mŕtve more De Luxe - poznávací zájazd (2 termíny)
+    III. Izrael a Petra De Luxe - poznávací zájazd (4 termíny)
     1. Eilat
     2. Jeruzalém
     3. Netanya
     4. Tel Aviv
   25. Libanon (2 hotely)
-    I. Sv. Charbel a Libanon - pútnický zájazd (2 termíny)
-    II. Libanon Švajčiarsko Blízkeho východu De Luxe - poznávací zájazd (2 termíny)
+    I. Libanon Švajčiarsko Blízkeho východu De Luxe - poznávací zájazd (2 termíny)
+    II. Sv. Charbel a Libanon - pútnický zájazd (2 termíny)
   26. Litva
   27. Lotyšsko
   28. Maďarsko
@@ -867,10 +867,10 @@ utorok 26. októbra 2021, 11:11:20
   32. Moldavsko (1 hotel)
     I. Moldavsko a Odesa De Luxe - poznávací zájazd (2 termíny)
   33. Nórsko (4 hotely)
-    I. Najkrajšie miesta a fjordy Nórska - poznávací zájazd (3 termíny)
+    I. Do srdca nórskych fjordov - Poznávací zájazd (2 termíny)
     II. Klenoty Nórska a Islandu - poznávací zájazd (2 termíny)
-    III. Pohodové Nórsko - Poznávací zájazd (2 termíny)
-    IV. Do srdca nórskych fjordov - Poznávací zájazd (2 termíny)
+    III. Najkrajšie miesta a fjordy Nórska - poznávací zájazd (3 termíny)
+    IV. Pohodové Nórsko - Poznávací zájazd (2 termíny)
   34. Poľsko
   35. Portugalsko (3 hotely)
     I. Fatima a Santiago de Compostela  - pútnický zájazd (2 termíny)
@@ -886,18 +886,18 @@ utorok 26. októbra 2021, 11:11:20
     3. Mamaia
     4. Mangalia-Jupiter
   38. Rusko (5 hotelov)
-    I. Petrohrad De Luxe - poznávací zájazd (3 termíny)
+    I. Kyjev a Černobyľ De Luxe - poznávací zájazd (2 termíny)
     II. Moskva a malý zlatý kruh Ruska De Luxe - poznávací zájazd (2 termíny)
     III. Moskva a Petrohrad+Riga De Luxe - Poznávací zájazd (2 termíny)
-    IV. Kyjev a Černobyľ De Luxe - poznávací zájazd (2 termíny)
-    V. Petrohrad a Karélia + Riga De Luxe - poznávací zájazd (2 termíny)
+    IV. Petrohrad a Karélia + Riga De Luxe - poznávací zájazd (2 termíny)
+    V. Petrohrad De Luxe - poznávací zájazd (3 termíny)
   39. Severný Cyprus
     1. Bafra
     2. Famagusta (1 hotel)
       I. Salamis Bay Conti (21 termínov)
     3. Kyrenia (2 hotely)
-      I. Acapulco Beach Family Bungalow Resort (24 termínov)
-      II. Acapulco Beach (24 termínov)
+      I. Acapulco Beach (24 termínov)
+      II. Acapulco Beach Family Bungalow Resort (24 termínov)
   40. Slovensko
   41. Slovinsko
     1. Izola
@@ -909,9 +909,9 @@ utorok 26. októbra 2021, 11:11:20
     3. Fujairah (1 hotel)
       I. Iberotel Miramar Al Aqah Beach Resort (25 termínov)
     4. Ras Al Khaimah (3 hotely)
-      I. Hilton Double Tree Marjan Island (26 termínov)
-      II. BM Beach Resort (25 termínov)
-      III. Hampton by Hilton Marjan Island (19 termínov)
+      I. BM Beach Resort (25 termínov)
+      II. Hampton by Hilton Marjan Island (19 termínov)
+      III. Hilton Double Tree Marjan Island (26 termínov)
   43. Spojené kráľovstvo
     1. Londýn
   44. Srí Lanka
@@ -962,9 +962,9 @@ utorok 26. októbra 2021, 11:11:20
       13. Santa Susanna
   47. Švédsko
   48. Taliansko (3 hotely)
-    I. Rím KLASIK - poznávací zájazd (2 termíny)
+    I. Po stopách sv. pátra Pia - pútnický zájazd (2 termíny)
     II. Rím De Luxe - poznávací zájazd (2 termíny)
-    III. Po stopách sv. pátra Pia - pútnický zájazd (2 termíny)
+    III. Rím KLASIK - poznávací zájazd (2 termíny)
     1. Jadranské pobrežie
       1. Bellaria (1 hotel)
         I. Club Hotel Angelini (7 termínov)
@@ -1046,11 +1046,11 @@ utorok 26. októbra 2021, 11:11:20
   51. Turecko (1 hotel)
     I. Za Pannou Máriou a svätým Jánom do Efezu - pútnický zájazd (2 termíny)
     1. Alanya (5 hotelov)
-      I. Melissa Kleopatra Beach (26 termínov)
-      II. Grand Atilla (26 termínov)
-      III. Tac Premier (26 termínov)
-      IV. Maya World Beach (26 termínov)
-      V. Kaila Beach (26 termínov)
+      I. Grand Atilla (26 termínov)
+      II. Kaila Beach (26 termínov)
+      III. Maya World Beach (26 termínov)
+      IV. Melissa Kleopatra Beach (26 termínov)
+      V. Tac Premier (26 termínov)
       1. Alara
       2. Avsallar (1 hotel)
         I. Alaiye Resort (26 termínov)
@@ -1060,14 +1060,14 @@ utorok 26. októbra 2021, 11:11:20
     2. Antalya
       1. Lara (3 hotely)
         I. Delphin Imperial (1 termín)
-        II. Swandor Topkapi Palace (26 termínov)
-        III. Limak Lara De Luxe (2 termíny)
+        II. Limak Lara De Luxe (2 termíny)
+        III. Swandor Topkapi Palace (26 termínov)
       2. Lara-Kundu (1 hotel)
         I. IC Green Palace (26 termínov)
     3. Belek (3 hotely)
-      I. IC Santai Family Resort (26 termínov)
-      II. Belconti Resort (26 termínov)
-      III. Club Mega Saray (26 termínov)
+      I. Belconti Resort (26 termínov)
+      II. Club Mega Saray (26 termínov)
+      III. IC Santai Family Resort (26 termínov)
     4. Istanbul (1 hotel)
       I. Istanbul De Luxe - poznávací zájazd (3 termíny)
     5. Izmir
@@ -1077,14 +1077,14 @@ utorok 26. októbra 2021, 11:11:20
       2. Göynük
     7. Konakli
     8. Side (5 hotelov)
-      I. Serra Garden (32 termínov)
-      II. Nerton (26 termínov)
-      III. Sun Beach Park (26 termínov)
-      IV. Serra Park (26 termínov)
+      I. Nerton (26 termínov)
+      II. Serra Garden (32 termínov)
+      III. Serra Park (26 termínov)
+      IV. Sun Beach Park (26 termínov)
       V. Water Side Resort & Spa (26 termínov)
       1. Colakli (3 hotely)
-        I. Alba Resort (26 termínov)
-        II. Alba Queen (26 termínov)
+        I. Alba Queen (26 termínov)
+        II. Alba Resort (26 termínov)
         III. Alba Royal (26 termínov)
       2. Evrenseki
       3. Kizilagac (1 hotel)
