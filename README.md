@@ -1,8 +1,8 @@
-Jeden `JSON` súbor vytvorený z viacerých koncových bodov služby `istour` prostredníctvom zložitého algoritmu.
+[Súbor](#tree-json) vytvorený z viacerých koncových bodov služby `istour` prostredníctvom zložitého algoritmu.
 
-utorok 26. októbra 2021, 11:16:48
+utorok 26. októbra 2021, 11:23:32
 
-čas `00:06`
+čas `00:07`
 
 # Súbory
 
