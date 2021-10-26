@@ -1,8 +1,8 @@
 Jeden `JSON` súbor vytvorený z viacerých koncových bodov služby `istour` prostredníctvom zložitého algoritmu.
 
-utorok 26. októbra 2021, 10:53:56
+utorok 26. októbra 2021, 11:04:18
 
-čas `00:08`
+čas `00:06`
 
 ## destinations.json
 
@@ -564,31 +564,52 @@ utorok 26. októbra 2021, 10:53:56
 ```
   1. Albánsko
     1. Durrës (1 hotel)
+      I. Albanian Star
     2. Shëngjin
     3. Tirana
   2. Arménsko (1 hotel)
+    I. Gruzínsko a Arménsko De Luxe - poznávací zájazd
   3. Azerbajdžan (1 hotel)
+    I. Azerbajžan - krajina ohňa - poznávací zájazd
   4. Belgicko
   5. Bosna a Hercegovina (1 hotel)
+    I. Medžugorie - pútnický zájazd
   6. Bulharsko
     1. Elenite (2 hotely)
+      I. Atrium Beach
+      II. Royal Park
     2. Nesebar
     3. Pomorie (1 hotel)
+      I. Sunset Beach
     4. Primorsko
     5. Slnečné pobrežie (4 hotely)
+      I. Kotva
+      II. Dunav
+      III. Chaika Beach Resort
+      IV. Imperial Palace
     6. Sveti Vlas
     7. Zlaté piesky
   7. Cyprus
     1. Ayia Napa (2 hotely)
+      I. Nelia Beach
+      II. Dome Beach
     2. Coral Bay
     3. Larnaka
     4. Limassol (1 hotel)
+      I. St. Raphael Resort
     5. Paphos (2 hotely)
+      I. Leonardo Cypria Bay
+      II. Leonardo Plaza Cypria Maris Beach
     6. Protaras (4 hotely)
+      I. Tsokkos Protaras Beach
+      II. Constantinos the Great
+      III. Vrissiana Beach
+      IV. Anastasia Beach
   8. Česká republika
   9. Čierna Hora
     1. Bar
     2. Bečiči (1 hotel)
+      I. Mediteran
     3. Budva
     4. Sutomore
     5. Sveti Stefan
@@ -596,29 +617,40 @@ utorok 26. októbra 2021, 10:53:56
   10. Dánsko
   11. Dominikánska republika
     1. Playa Bávaro (1 hotel)
+      I. MELIÁ Caribe Beach Resort
     2. Punta Cana
   12. Egypt
     1. Abu Soma
     2. El Gouna
     3. Hurghada (3 hotely)
+      I. Swiss Inn Resort Hurghada
+      II. Golden Beach Resort
+      III. Desert Rose
       1. Dahar (1 hotel)
+        I. Sea Star Beau Rivage
     4. Makadi Bay (1 hotel)
+      I. Stella Di Mare Beach Resort & Spa
     5. Marsa Alam
     6. Sahl Hasheesh (1 hotel)
+      I. Tropitel Sahl Hasheesh
     7. Sharm el Sheikh
     8. Soma Bay (1 hotel)
+      I. Caribbean World Soma Bay
     9. Taba
   13. Estónsko
   14. Fínsko
   15. Florida
   16. Francúzsko (1 hotel)
+    I. Paríž KLASIK - poznávací zájazd
     1. Lurdy (1 hotel)
+      I. Lurdy - pútnický zájazd
     2. Paříž
     3. Toulouse
   17. Grécko a ostrovy
     1. Atény
       1. Marathon Bay
       2. Peloponéz (1 hotel)
+        I. Mýtický Peloponéz De Luxe - poznávací zájazd
         1. Isthmia
         2. Loutraki
         3. Vrachati
@@ -631,9 +663,12 @@ utorok 26. októbra 2021, 10:53:56
       5. Nea Potidea
     3. Korfu
       1. Agios Georgios (2 hotely)
+        I. Blue Sea
+        II. Labranda Sandy Beach Resort
       2. Agios Georgios Pagi
       3. Agios Gordios
       4. Agios Ioannis Peristeron (1 hotel)
+        I. Corfu Senses Resort
       5. Acharavi
       6. Kerkyra
       7. Lefkimi - Agios Petros
@@ -645,17 +680,25 @@ utorok 26. októbra 2021, 10:53:56
       3. Tigaki
     5. Kréta
       1. Adelianos Kampos (1 hotel)
+        I. Rethymno Palace
       2. Agia Marina (1 hotel)
+        I. Iolida Beach
       3. Agios Nikolaos
       4. Ammoudara (3 hotely)
+        I. Santa Marina
+        II. Apollonia Beach
+        III. Dessole Dolphin Bay
       5. Bali (1 hotel)
+        I. Talea Beach
       6. Heraklion
       7. Hersonissos
       8. Ierapetra
       9. Kavros
       10. Kokkini Hani
       11. Malia (1 hotel)
+        I. Dessole Malia Beach
       12. Missiria (1 hotel)
+        I. Dimitrios Village
       13. Panormo
       14. Platanias - Pyrgos Psilonerou
       15. Rethymno
@@ -669,13 +712,23 @@ utorok 26. októbra 2021, 10:53:56
     8. Rhodos
       1. Afandou
       2. Faliraki (4 hotely)
+        I. Evi
+        II. Pegasos Beach
+        III. Blue Sea Beach Resort I.
+        IV. Blue Sea Beach Resort II.
       3. Ixia (1 hotel)
+        I. Avra Beach
       4. Kallithea (1 hotel)
+        I. Virginia
       5. Kiotari
       6. Kolymbia (2 hotely)
+        I. Niriides
+        II. Kolymbia Sky
       7. Lardos
       8. Lindos (1 hotel)
+        I. Lindos Royal
       9. Pefki (1 hotel)
+        I. Ilyssion Beach Resort
       10. Rhodos Town
     9. Santorini
     10. Thessaloniki
@@ -685,12 +738,18 @@ utorok 26. októbra 2021, 10:53:56
       3. Argassi
       4. Laganas
       5. Vassilikos (2 hotely)
+        I. Palazzo di Zante
+        II. Zante Royal Resort
       6. Zakynthos mesto
   18. Gruzínsko (2 hotely)
+    I. Gruzínsko všetkými zmyslami De Luxe - poznávací zájazd
+    II. Gruzínsko a Arménsko kolísky kresťanstva - Púť
   19. Holandsko
   20. Chorvátsko
     1. Dalmácia
       1. Južná Dalmácia (2 hotely)
+        I. Hvar
+        II. Brzet
         1. Baška Voda
         2. Baško Polje
         3. Dubrovnik
@@ -704,6 +763,21 @@ utorok 26. októbra 2021, 10:53:56
         8. Podgora
         9. Živogošče
       2. Stredná Dalmácia (15 hotelov)
+        I. Donat
+        II. Pinija
+        III. Adriatic
+        IV. Kornati
+        V. Zora
+        VI. Olympia
+        VII. Imperial hotel
+        VIII. Imperial - Klara
+        IX. Medena
+        X. Apartmány Medena štandard plus
+        XI. Imperial - Lucija
+        XII. Sunny Side
+        XIII. Apartmány Medena Superior
+        XIV. Medena Superior Premium
+        XV. Punta
         1. Biograd na Moru
         2. Kukljica - Ugljan
         3. Murter
@@ -717,40 +791,69 @@ utorok 26. októbra 2021, 10:53:56
         11. Zadar
     2. Istria
       1. Crikvenica (1 hotel)
+        I. Kacjak
       2. Duga Uvala (2 hotely)
+        I. Duga Uvala Depandance
+        II. Duga Uvala Hotel
       3. Krk, Malinska (1 hotel)
+        I. Malin
       4. Krk, Punat (1 hotel)
+        I. Falkensteiner Park Punat
       5. Krk,Njivice (2 hotely)
+        I. Aminess Veya
+        II. Aminess Magal
       6. Medulin
       7. Medveja
       8. Novi Vinodolski (3 hotely)
+        I. Wyndham Grand Novi Vinodolski Resort Premium Apartmány
+        II. Wyndham Grand Novi Vinodolski Resort de luxe Apartmány
+        III. Wyndham Grand Novi Vinodolski Resort hotel
       9. Opatija
       10. ostrov Rab
       11. Pula
       12. Pula-Verudela
       13. Rabac (2 hotely)
+        I. Mimosa
+        II. Hedera
       14. Rovinj
       15. Selce (1 hotel)
+        I. Slaven
       16. Umag (1 hotel)
+        I. Polynesia Plava Laguna
   21. Irán
   22. Írsko (1 hotel)
+    I. Írsky evergreen - poznávací zájazd
   23. Island (3 hotely)
+    I. Sedem divov Islandu - poznávací zájazd
+    II. Island - královstvo gejzírov - poznávací zájazd
+    III. Pohodový Island - poznávací zájazd
   24. Izrael (3 hotely)
+    I. Izrael a Mŕtve more De Luxe - poznávací zájazd
+    II. Izrael a Petra De Luxe - poznávací zájazd
+    III. Izrael a Mŕtve more - pútnický zájazd letecky
     1. Eilat
     2. Jeruzalém
     3. Netanya
     4. Tel Aviv
   25. Libanon (2 hotely)
+    I. Sv. Charbel a Libanon - pútnický zájazd
+    II. Libanon Švajčiarsko Blízkeho východu De Luxe - poznávací zájazd
   26. Litva
   27. Lotyšsko
   28. Maďarsko
   29. Maldivy
     1. Atol Baa - Dhigufaru (1 hotel)
+      I. Dhigufaru Island Resort
     2. Atol Raa Kottefaru (1 hotel)
+      I. Brennia Kottefaru Resort
     3. Atol Severný Ari - Ellaidhoo (1 hotel)
+      I. Ellaidhoo Maldives by Cinnamon
     4. Atol Severný Male - Dhonveli (1 hotel)
+      I. Cinnamon Dhonveli Maldives
     5. Atol Severný Male - Eriyadu (1 hotel)
+      I. Eriyadu Island Resort
     6. Male (1 hotel)
+      I. Malahini Kuda Bandos
     7. South Ari Atol
   30. Malta
     1. Cirkewwa
@@ -760,9 +863,17 @@ utorok 26. októbra 2021, 10:53:56
   31. Maroko
     1. Larache
   32. Moldavsko (1 hotel)
+    I. Moldavsko a Odesa De Luxe - poznávací zájazd
   33. Nórsko (4 hotely)
+    I. Najkrajšie miesta a fjordy Nórska - poznávací zájazd
+    II. Klenoty Nórska a Islandu - poznávací zájazd
+    III. Pohodové Nórsko - Poznávací zájazd
+    IV. Do srdca nórskych fjordov - Poznávací zájazd
   34. Poľsko
   35. Portugalsko (3 hotely)
+    I. Fatima a Santiago de Compostela  - pútnický zájazd
+    II. Madeira - ostrovný raj s turistikou  - Poznávací zájazd
+    III. Portugalsko De Luxe - poznávací zájazd
     1. Algarve
     2. Fatima
   36. Rakúsko
@@ -773,10 +884,18 @@ utorok 26. októbra 2021, 10:53:56
     3. Mamaia
     4. Mangalia-Jupiter
   38. Rusko (5 hotelov)
+    I. Petrohrad De Luxe - poznávací zájazd
+    II. Moskva a malý zlatý kruh Ruska De Luxe - poznávací zájazd
+    III. Moskva a Petrohrad+Riga De Luxe - Poznávací zájazd
+    IV. Kyjev a Černobyľ De Luxe - poznávací zájazd
+    V. Petrohrad a Karélia + Riga De Luxe - poznávací zájazd
   39. Severný Cyprus
     1. Bafra
     2. Famagusta (1 hotel)
+      I. Salamis Bay Conti
     3. Kyrenia (2 hotely)
+      I. Acapulco Beach Family Bungalow Resort
+      II. Acapulco Beach
   40. Slovensko
   41. Slovinsko
     1. Izola
@@ -786,7 +905,11 @@ utorok 26. októbra 2021, 10:53:56
     1. Abu Dhabi
     2. Dubaj
     3. Fujairah (1 hotel)
+      I. Iberotel Miramar Al Aqah Beach Resort
     4. Ras Al Khaimah (3 hotely)
+      I. Hilton Double Tree Marjan Island
+      II. BM Beach Resort
+      III. Hampton by Hilton Marjan Island
   43. Spojené kráľovstvo
     1. Londýn
   44. Srí Lanka
@@ -824,6 +947,7 @@ utorok 26. októbra 2021, 10:53:56
       1. Barcelona
       2. Benidorm
       3. Calafell (1 hotel)
+        I. Miramar Calafell
       4. Calella
       5. Girona
       6. La Manga
@@ -836,8 +960,12 @@ utorok 26. októbra 2021, 10:53:56
       13. Santa Susanna
   47. Švédsko
   48. Taliansko (3 hotely)
+    I. Rím KLASIK - poznávací zájazd
+    II. Rím De Luxe - poznávací zájazd
+    III. Po stopách sv. pátra Pia - pútnický zájazd
     1. Jadranské pobrežie
       1. Bellaria (1 hotel)
+        I. Club Hotel Angelini
       2. Bellaria - Igea Marina
       3. Bibione
         1. Pineda
@@ -852,6 +980,7 @@ utorok 26. októbra 2021, 10:53:56
       11. Pesaro
       12. Riccione
       13. Rimini (1 hotel)
+        I. TYC
         1. Bellariva
         2. Marebello
         3. Marina Centro
@@ -865,10 +994,14 @@ utorok 26. októbra 2021, 10:53:56
       2. Capo Vaticano S.Maria di Ricadi
       3. Marinella di Cutro
       4. Nicotera Marina (1 hotel)
+        I. Nicotera Beach
       5. Pizzo (1 hotel)
+        I. Pizzo Calabro Resort
       6. Praia a Mare (1 hotel)
+        I. Borgo di Fiuzzi
       7. Rossano Calabro
       8. Scalea (1 hotel)
+        I. Santa Caterina
       9. Simeri Mare
     3. Kampánia
       1. Baia Domizia
@@ -877,10 +1010,12 @@ utorok 26. októbra 2021, 10:53:56
     6. Sardínia
       1. Arborea
       2. Cala Gonone (1 hotel)
+        I. Palmasera Village
       3. Golfo Aranci
       4. Chia
       5. Marina di Sorso
       6. Santa Teresa Gallura (1 hotel)
+        I. Marmorata Village
     7. Sicília
       1. Campofelice di Roccella
       2. Cefalú
@@ -907,30 +1042,59 @@ utorok 26. októbra 2021, 10:53:56
     9. Sousse
     10. Tabarka
   51. Turecko (1 hotel)
+    I. Za Pannou Máriou a svätým Jánom do Efezu - pútnický zájazd
     1. Alanya (5 hotelov)
+      I. Melissa Kleopatra Beach
+      II. Grand Atilla
+      III. Tac Premier
+      IV. Maya World Beach
+      V. Kaila Beach
       1. Alara
       2. Avsallar (1 hotel)
+        I. Alaiye Resort
       3. Mahmutlar
       4. Okurcalar (1 hotel)
+        I. Justiniano Park Conti
     2. Antalya
       1. Lara (3 hotely)
+        I. Delphin Imperial
+        II. Swandor Topkapi Palace
+        III. Limak Lara De Luxe
       2. Lara-Kundu (1 hotel)
+        I. IC Green Palace
     3. Belek (3 hotely)
+      I. IC Santai Family Resort
+      II. Belconti Resort
+      III. Club Mega Saray
     4. Istanbul (1 hotel)
+      I. Istanbul De Luxe - poznávací zájazd
     5. Izmir
     6. Kemer
       1. Beldibi (1 hotel)
+        I. Champion Holiday Village
       2. Göynük
     7. Konakli
     8. Side (5 hotelov)
+      I. Serra Garden
+      II. Nerton
+      III. Sun Beach Park
+      IV. Serra Park
+      V. Water Side Resort & Spa
       1. Colakli (3 hotely)
+        I. Alba Resort
+        II. Alba Queen
+        III. Alba Royal
       2. Evrenseki
       3. Kizilagac (1 hotel)
+        I. Starlight Resort
       4. Kizilot (1 hotel)
+        I. Club Calimera Serra Palace
       5. Manavgat
       6. Titreyengol (1 hotel)
+        I. Port River Hotel & Spa
   52. Ukrajina
   53. USA
   54. Uzbekistan (1 hotel)
+    I. Uzbekistan De Luxe - poznávací zájazd
   55. Veľká Británia
 ```
