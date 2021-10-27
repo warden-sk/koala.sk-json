@@ -4,7 +4,7 @@
 
 ## destinations `JSON`
 
-  veľkosť `20.96 KB`
+  veľkosť `28.29 KB`
 
   `371` destinácií
 
@@ -557,7 +557,7 @@
 
 ## tree `JSON`
 
-  veľkosť `276.44 KB`
+  veľkosť `282.72 KB`
 
 ```
   1. Albánsko
