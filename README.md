@@ -4,7 +4,7 @@
 
 ## destinations `JSON`
 
-  veľkosť `28.75 KB`
+  veľkosť `28.74 KB`
 
   `376` destinácií
 
@@ -389,7 +389,7 @@
 
 ## hotels `JSON`
 
-  veľkosť `257.74 KB`
+  veľkosť `257.89 KB`
 
   `164` hotelov
 
@@ -562,7 +562,7 @@
 
 ## tree `JSON`
 
-  veľkosť `286.34 KB`
+  veľkosť `286.48 KB`
 
 ```
   1. Albánsko
