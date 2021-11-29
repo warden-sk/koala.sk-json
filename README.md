@@ -4,7 +4,7 @@
 
 ## destinations `JSON`
 
-  veľkosť `28.79 KB`
+  veľkosť `28.77 KB`
 
   `376` destinácií
 
@@ -447,9 +447,9 @@
   51. Gruzínsko a Arménsko De Luxe - poznávací zájazd (8 termínov)
   52. Gruzínsko a Arménsko kolísky kresťanstva - Púť (4 termíny)
   53. Gruzínsko všetkými zmyslami De Luxe - poznávací zájazd (4 termíny)
-  54. Hampton by Hilton Marjan Island (76 termínov)
+  54. Hampton by Hilton Marjan Island (80 termínov)
   55. Hedera (268 termínov)
-  56. Hilton Double Tree Marjan Island (132 termínov)
+  56. Hilton Double Tree Marjan Island (131 termínov)
   57. Hvar (36 termínov)
   58. Chaika Beach Resort (293 termínov)
   59. Champion Holiday Village (368 termínov)
@@ -916,8 +916,8 @@
       I. Iberotel Miramar Al Aqah Beach Resort (52 termínov)
     4. Ras Al Khaimah (3 hotely)
       I. BM Beach Resort (51 termínov)
-      II. Hampton by Hilton Marjan Island (76 termínov)
-      III. Hilton Double Tree Marjan Island (132 termínov)
+      II. Hampton by Hilton Marjan Island (80 termínov)
+      III. Hilton Double Tree Marjan Island (131 termínov)
   44. Spojené kráľovstvo
     1. Londýn
   45. Srí Lanka
