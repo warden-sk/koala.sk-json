@@ -154,9 +154,9 @@
 ```
   1. Acapulco Beach (781 termínov)
   2. Acapulco Beach Family Bungalow Resort (781 termínov)
-  3. Adaaran Club Rannalhi (32 termínov)
-  4. Adaaran Select Hudhuran Fushi (32 termínov)
-  5. Adora Resort (440 termínov)
+  3. Adaaran Club Rannalhi (32 termínov) 🆕
+  4. Adaaran Select Hudhuran Fushi (32 termínov) 🆕
+  5. Adora Resort (440 termínov) 🆕
   6. Adriatic (66 termínov)
   7. Alaiye Resort (196 termínov)
   8. Alba Queen (1056 termínov)
@@ -169,25 +169,25 @@
   15. Apartmány Medena Superior (63 termínov)
   16. Apartmány Medena štandard plus (128 termínov)
   17. Apollonia Beach (308 termínov)
-  18. Aquila Rithymna Beach (231 termínov)
+  18. Aquila Rithymna Beach (231 termínov) 🆕
   19. Aristoteles Beach (200 termínov)
   20. Arménsko a jeho krásy De Luxe - poznávací zájazd (4 termíny)
   21. Aska Just in Beach (196 termínov)
-  22. Aurora (119 termínov)
-  23. Bakour Garbi (108 termínov)
-  24. BARCELÓ Maya Grand Resort (16 termínov)
+  22. Aurora (119 termínov) 🆕
+  23. Bakour Garbi (108 termínov) 🆕
+  24. BARCELÓ Maya Grand Resort (16 termínov) 🆕
   25. Belconti Resort (792 termínov)
   26. Blue Sea (252 termínov)
   27. Blue Sea Beach Resort I. (513 termínov)
   28. Blue Sea Beach Resort II. (342 termínov)
   29. Borgo di Fiuzzi (138 termínov)
   30. Brzet (44 termínov)
-  31. Callisto Holiday Village (1562 termínov)
+  31. Callisto Holiday Village (1562 termínov) 🆕
   32. Caribbean World Soma Bay (118 termínov)
   33. Club Calimera Serra Palace (528 termínov)
   34. Club Hotel Angelini (54 termínov)
   35. Club Mega Saray (1320 termínov)
-  36. Condesa (108 termínov)
+  36. Condesa (108 termínov) 🆕
   37. Constantinos the Great (3124 termínov)
   38. Corfu Senses Resort (242 termínov)
   39. Delphin Imperial (528 termínov)
@@ -201,23 +201,23 @@
   47. Dunav (154 termínov)
   48. Evi (342 termínov)
   49. Faerské ostrovy severský raj - poznávací zájazd (4 termíny)
-  50. Fafa Premium Resort (258 termínov)
-  51. Falkensteiner Club Funimation Borik (78 termínov)
+  50. Fafa Premium Resort (258 termínov) 🆕
+  51. Falkensteiner Club Funimation Borik (78 termínov) 🆕
   52. Falkensteiner Park Punat (116 termínov)
   53. Fatima a Santiago de Compostela  - pútnický zájazd (4 termíny)
-  54. Fllad Resort & Spa (129 termínov)
+  54. Fllad Resort & Spa (129 termínov) 🆕
   55. Golden Beach Resort (59 termínov)
-  56. Gran Europe (75 termínov)
-  57. Gran Garbí (75 termínov)
+  56. Gran Europe (75 termínov) 🆕
+  57. Gran Garbí (75 termínov) 🆕
   58. Grand Atilla (196 termínov)
-  59. Grand Blue Fafa Resort (172 termínov)
+  59. Grand Blue Fafa Resort (172 termínov) 🆕
   60. Gruzínsko a Arménsko De Luxe - poznávací zájazd (6 termínov)
   61. Hampton by Hilton Marjan Island (60 termínov)
   62. Hedera (87 termínov)
   63. Hilton Double Tree Marjan Island (75 termínov)
   64. Chaika Beach Resort (396 termínov)
   65. Champion Holiday Village (392 termínov)
-  66. Checkin Garbí (75 termínov)
+  66. Checkin Garbí (75 termínov) 🆕
   67. Chrysomare Beach Hotel & Resort (3124 termínov)
   68. Iberostar Diar El Andalous (58 termínov)
   69. Iberostar Royal El Mansour (58 termínov)
@@ -243,13 +243,13 @@
   89. Kaila Beach (196 termínov)
   90. Kaila City (196 termínov)
   91. Kemal Bay (392 termínov)
-  92. Kihaa Maldives (32 termínov)
+  92. Kihaa Maldives (32 termínov) 🆕
   93. King Saron (65 termínov)
   94. Kolymbia Sky (751 termínov)
   95. Korali (70 termínov)
   96. Kotva (71 termínov)
-  97. Labranda Blue Bay (112 termínov)
-  98. Labranda Kiotari Miraluna (596 termínov)
+  97. Labranda Blue Bay (112 termínov) 🆕
+  98. Labranda Kiotari Miraluna (596 termínov) 🆕
   99. Labranda Sandy Beach Resort (340 termínov)
   100. Labranda Senses Resort (20 termínov)
   101. Lake River Side Hotel & Spa (264 termínov)
@@ -263,11 +263,11 @@
   109. Maya World Beach (352 termínov)
   110. Medena (332 termínov)
   111. Medena Superior Premium (128 termínov)
-  112. Mediteran (140 termínov)
-  113. Mediterraneo (36 termínov)
+  112. Mediteran (140 termínov) 🆕
+  113. Mediterraneo (36 termínov) 🆕
   114. Medžugorie - pútnický zájazd (4 termíny)
   115. Melissa Kleopatra Beach (386 termínov)
-  116. Messonghi Beach (204 termínov)
+  116. Messonghi Beach (204 termínov) 🆕
   117. Mimosa (29 termínov)
   118. Miramar Calafell (75 termínov)
   119. Moskva a Petrohrad+Riga De Luxe - Poznávací zájazd (6 termínov)
@@ -281,7 +281,7 @@
   127. Olympia (54 termínov)
   128. Olympian Bay Grand Resort (400 termínov)
   129. Olympos Beach (453 termínov)
-  130. Out Of The Blue (231 termínov)
+  130. Out Of The Blue (231 termínov) 🆕
   131. Palazzo di Zante (52 termínov)
   132. Palmasera Village (200 termínov)
   133. Paríž KLASIK - poznávací zájazd (6 termínov)
@@ -296,11 +296,11 @@
   142. Port River Hotel & Spa (264 termínov)
   143. Portes Beach (150 termínov)
   144. Portugalsko De Luxe - poznávací zájazd (4 termíny)
-  145. Premier Le Reve Hotel & Spa (118 termínov)
+  145. Premier Le Reve Hotel & Spa (118 termínov) 🆕
   146. Primasol El Mehdi (174 termínov)
   147. Punta (38 termínov)
   148. Queen Nelly (390 termínov)
-  149. Relax (447 termínov)
+  149. Relax (447 termínov) 🆕
   150. Rethymno Palace (231 termínov)
   151. Riadh Palms (58 termínov)
   152. Rím De Luxe - poznávací zájazd (4 termíny)
@@ -309,22 +309,22 @@
   155. Sahara Sunny by Valamar (20 termínov)
   156. Salamis Bay Conti (2608 termínov)
   157. Santa Caterina (552 termínov)
-  158. Santandrea Resort (138 termínov)
+  158. Santandrea Resort (138 termínov) 🆕
   159. Sea Breeze (77 termínov)
   160. Sea Star Beau Rivage (59 termínov)
   161. Sedem divov Islandu - poznávací zájazd (12 termínov)
-  162. Sentido Sandy Beach (781 termínov)
-  163. Serene Village (230 termínov)
+  162. Sentido Sandy Beach (781 termínov) 🆕
+  163. Serene Village (230 termínov) 🆕
   164. Serra Garden (528 termínov)
   165. Serra Park (528 termínov)
-  166. Sol by Melia (172 termínov)
-  167. Sol Palmanova (108 termínov)
-  168. Sorgun Akadia Luxury (264 termínov)
+  166. Sol by Melia (172 termínov) 🆕
+  167. Sol Palmanova (108 termínov) 🆕
+  168. Sorgun Akadia Luxury (264 termínov) 🆕
   169. St. Raphael Resort (1562 termínov)
   170. Starlight Resort (184 termínov)
   171. Stella Di Mare Beach Resort & Spa (236 termínov)
-  172. Strofades (52 termínov)
-  173. Summer Beach Hotel (154 termínov)
+  172. Strofades (52 termínov) 🆕
+  173. Summer Beach Hotel (154 termínov) 🆕
   174. Sun Beach Park (196 termínov)
   175. Sunny Side (106 termínov)
   176. Sunset Resort (408 termínov)
@@ -338,8 +338,8 @@
   184. TYC (36 termínov)
   185. Vrissiana Beach (2343 termínov)
   186. Water Side Resort & Spa (528 termínov)
-  187. White Olive Elite Laganas (26 termínov)
-  188. White Olive Premium Cameo (39 termínov)
+  187. White Olive Elite Laganas (26 termínov) 🆕
+  188. White Olive Premium Cameo (39 termínov) 🆕
   189. Wyndham Grand Novi Vinodolski Resort de luxe Apartmány (29 termínov)
   190. Wyndham Grand Novi Vinodolski Resort hotel (80 termínov)
   191. Wyndham Grand Novi Vinodolski Resort Premium Apartmány (87 termínov)
