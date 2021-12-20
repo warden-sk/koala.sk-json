@@ -4,7 +4,7 @@
 
 ## destinations `JSON`
 
-  veľkosť `30.80 KB`
+  veľkosť `30.84 KB`
 
   `388` destinácií
 
@@ -536,7 +536,7 @@
   128. Olympian Bay Grand Resort (400 termínov)
   129. Olympos Beach (453 termínov)
   130. Out Of The Blue (231 termínov)
-  131. Palazzo di Zante (48 termínov)
+  131. Palazzo di Zante (52 termínov)
   132. Palmasera Village (200 termínov)
   133. Paríž KLASIK - poznávací zájazd (6 termínov)
   134. Pegasos Beach (855 termínov)
@@ -577,7 +577,7 @@
   169. St. Raphael Resort (1562 termínov)
   170. Starlight Resort (184 termínov)
   171. Stella Di Mare Beach Resort & Spa (236 termínov)
-  172. Strofades (48 termínov)
+  172. Strofades (52 termínov)
   173. Summer Beach Hotel (154 termínov)
   174. Sun Beach Park (196 termínov)
   175. Sunny Side (106 termínov)
@@ -592,13 +592,13 @@
   184. TYC (36 termínov)
   185. Vrissiana Beach (2343 termínov)
   186. Water Side Resort & Spa (528 termínov)
-  187. White Olive Elite Laganas (24 termínov)
-  188. White Olive Premium Cameo (36 termínov)
+  187. White Olive Elite Laganas (26 termínov)
+  188. White Olive Premium Cameo (39 termínov)
   189. Wyndham Grand Novi Vinodolski Resort de luxe Apartmány (29 termínov)
   190. Wyndham Grand Novi Vinodolski Resort hotel (80 termínov)
   191. Wyndham Grand Novi Vinodolski Resort Premium Apartmány (87 termínov)
-  192. Zante Imperial Beach (60 termínov)
-  193. Zante Royal Resort (24 termínov)
+  192. Zante Imperial Beach (65 termínov)
+  193. Zante Royal Resort (26 termínov)
   194. Zora (80 termínov)
 ```
 
@@ -801,17 +801,17 @@
     10. Thessaloniki
     11. Zakynthos
       1. Agios Sostis (1 hotel)
-        I. White Olive Premium Cameo (36 termínov)
+        I. White Olive Premium Cameo (39 termínov)
       2. Agios Sostis - Laganas
       3. Argassi
       4. Laganas (1 hotel)
-        I. White Olive Elite Laganas (24 termínov)
+        I. White Olive Elite Laganas (26 termínov)
       5. Tsilivi (1 hotel)
-        I. Strofades (48 termínov)
+        I. Strofades (52 termínov)
       6. Vassilikos (3 hotely)
-        I. Palazzo di Zante (48 termínov)
-        II. Zante Imperial Beach (60 termínov)
-        III. Zante Royal Resort (24 termínov)
+        I. Palazzo di Zante (52 termínov)
+        II. Zante Imperial Beach (65 termínov)
+        III. Zante Royal Resort (26 termínov)
       7. Zakynthos mesto
   19. Gruzínsko
   20. Holandsko
