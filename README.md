@@ -252,7 +252,7 @@
   98. Labranda Blue Bay (356 termínov) 🆕
   99. Labranda Kiotari Miraluna (596 termínov) 🆕
   100. Labranda Sandy Beach Resort (340 termínov)
-  101. Labranda Senses Resort (20 termínov)
+  101. Labranda Senses Resort (20 termínov) 🆕
   102. Lake River Side Hotel & Spa (264 termínov)
   103. Limak Lara De Luxe (264 termínov)
   104. Lindos Royal (302 termínov)
@@ -489,7 +489,7 @@
       1. Južná Dalmácia (3 hotely)
         I. Aurora (119 termínov) 🆕
         II. Brzet (44 termínov)
-        III. Labranda Senses Resort (20 termínov)
+        III. Labranda Senses Resort (20 termínov) 🆕
       2. Stredná Dalmácia (16 hotelov)
         I. Adriatic (64 termínov)
         II. Apartmány Medena Superior (62 termínov)
