@@ -174,7 +174,7 @@
   19. Aristoteles Beach (200 termínov)
   20. Arménsko a jeho krásy De Luxe - poznávací zájazd (4 termíny)
   21. Aska Just in Beach (196 termínov)
-  22. Aurora (119 termínov) 🆕
+  22. Aurora (106 termínov) 🆕
   23. Bakour Garbi (108 termínov) 🆕
   24. BARCELÓ Maya Grand Resort (16 termínov) 🆕
   25. Belconti Resort (792 termínov)
@@ -489,7 +489,7 @@
   10. Chorvátsko
     1. Dalmácia
       1. Južná Dalmácia (3 hotely)
-        I. Aurora (119 termínov) 🆕
+        I. Aurora (106 termínov) 🆕
         II. Brzet (44 termínov)
         III. Labranda Senses Resort (20 termínov) 🆕
       2. Stredná Dalmácia (16 hotelov)
