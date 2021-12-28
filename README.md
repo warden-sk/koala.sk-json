@@ -148,7 +148,7 @@
 
 ## hotels `JSON`
 
-  veľkosť `4.83 MB`
+  veľkosť `4.85 MB`
 
   `195` hotelov
 
@@ -285,7 +285,7 @@
   130. Olympian Bay Grand Resort (400 termínov)
   131. Olympos Beach (453 termínov)
   132. Out Of The Blue (231 termínov) 🆕
-  133. Palazzo di Zante (52 termínov)
+  133. Palazzo di Zante (100 termínov)
   134. Paríž KLASIK - poznávací zájazd (6 termínov)
   135. Pegasos Beach (855 termínov)
   136. Petrohrad De Luxe - poznávací zájazd (12 termínov)
@@ -325,7 +325,7 @@
   170. St. Raphael Resort (1562 termínov)
   171. Starlight Resort (184 termínov)
   172. Stella Di Mare Beach Resort & Spa (236 termínov)
-  173. Strofades (52 termínov) 🆕
+  173. Strofades (100 termínov) 🆕
   174. Summer Beach Hotel (154 termínov) 🆕
   175. Sun Beach Park (196 termínov)
   176. Sunny Side (103 termínov)
@@ -340,19 +340,19 @@
   185. TYC (36 termínov)
   186. Vrissiana Beach (2995 termínov)
   187. Water Side Resort & Spa (528 termínov)
-  188. White Olive Elite Laganas (26 termínov) 🆕
-  189. White Olive Premium Cameo (39 termínov) 🆕
+  188. White Olive Elite Laganas (50 termínov) 🆕
+  189. White Olive Premium Cameo (75 termínov) 🆕
   190. Wyndham Grand Novi Vinodolski Resort de luxe Apartmány (29 termínov)
   191. Wyndham Grand Novi Vinodolski Resort hotel (80 termínov)
   192. Wyndham Grand Novi Vinodolski Resort Premium Apartmány (87 termínov)
-  193. Zante Imperial Beach (65 termínov)
-  194. Zante Royal Resort (52 termínov)
+  193. Zante Imperial Beach (125 termínov)
+  194. Zante Royal Resort (100 termínov)
   195. Zora (78 termínov)
 ```
 
 ## tree `JSON`
 
-  veľkosť `4.84 MB`
+  veľkosť `4.86 MB`
 
 ```
   1. Albánsko
@@ -477,15 +477,15 @@
         I. Ilyssion Beach Resort (745 termínov)
     7. Zakynthos
       1. Agios Sostis (1 hotel)
-        I. White Olive Premium Cameo (39 termínov) 🆕
+        I. White Olive Premium Cameo (75 termínov) 🆕
       2. Laganas (1 hotel)
-        I. White Olive Elite Laganas (26 termínov) 🆕
+        I. White Olive Elite Laganas (50 termínov) 🆕
       3. Tsilivi (1 hotel)
-        I. Strofades (52 termínov) 🆕
+        I. Strofades (100 termínov) 🆕
       4. Vassilikos (3 hotely)
-        I. Palazzo di Zante (52 termínov)
-        II. Zante Imperial Beach (65 termínov)
-        III. Zante Royal Resort (52 termínov)
+        I. Palazzo di Zante (100 termínov)
+        II. Zante Imperial Beach (125 termínov)
+        III. Zante Royal Resort (100 termínov)
   10. Chorvátsko
     1. Dalmácia
       1. Južná Dalmácia (3 hotely)
