@@ -4,7 +4,7 @@
 
 ## destinations `JSON`
 
-  veľkosť `10.69 KB`
+  veľkosť `9.51 KB`
 
   `135` destinácií
 
