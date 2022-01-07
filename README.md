@@ -148,7 +148,7 @@
 
 ## hotels `JSON`
 
-  veľkosť `3.67 MB`
+  veľkosť `3.68 MB`
 
   `195` hotelov
 
@@ -303,7 +303,7 @@
   148. Punta (38 termínov)
   149. Queen Nelly (390 termínov)
   150. Relax (447 termínov) 🆕
-  151. Rethymno Palace (231 termínov)
+  151. Rethymno Palace (308 termínov)
   152. Riadh Palms (58 termínov)
   153. Rím De Luxe - poznávací zájazd (4 termíny)
   154. Rím KLASIK - poznávací zájazd (4 termíny)
@@ -352,7 +352,7 @@
 
 ## tree `JSON`
 
-  veľkosť `3.68 MB`
+  veľkosť `3.69 MB`
 
 ```
   1. Albánsko
@@ -445,7 +445,7 @@
     4. Kréta
       1. Adelianos Kampos (2 hotely)
         I. Aquila Rithymna Beach (231 termínov) 🆕
-        II. Rethymno Palace (231 termínov)
+        II. Rethymno Palace (308 termínov)
       2. Agia Pelagia (1 hotel)
         I. Out Of The Blue (231 termínov) 🆕
       3. Ammoudara (2 hotely)
