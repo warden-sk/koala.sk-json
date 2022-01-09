@@ -4,9 +4,9 @@
 
 ## destinations `JSON`
 
-  veľkosť `9.51 KB`
+  veľkosť `9.61 KB`
 
-  `135` destinácií
+  `136` destinácií
 
 ```
   1. Adelianos Kampos
@@ -31,119 +31,120 @@
   20. Beldibi
   21. Belek
   22. Bellaria
-  23. Bulharsko
-  24. Cala Gonone
-  25. Cala Millor
-  26. Calafell
-  27. Calella
-  28. Cancún - RIVIERA MAYA
-  29. Cesenatico
-  30. Colakli
-  31. Coma-Ruga
-  32. Crikvenica
-  33. Cyprus
-  34. Čierna Hora
-  35. Dahar
-  36. Dalmácia
-  37. Durrës
-  38. Egypt
-  39. Elenite
-  40. Faerské ostrovy
-  41. Faliraki
-  42. Famagusta
-  43. Francúzsko
-  44. Fujairah
-  45. Georgioupolis
-  46. Grécko a ostrovy
-  47. Hurghada
-  48. Chalkidiki
-  49. Chorvátsko
-  50. Ialyssos
-  51. Írsko
-  52. Island
-  53. Istanbul
-  54. Istria
-  55. Izrael
-  56. Jadranské pobrežie
-  57. Jordánsko
-  58. Južná Dalmácia
-  59. Kalábria
-  60. Kemer
-  61. Kiotari
-  62. Kizilagac
-  63. Kizilot
-  64. Kolymbia
-  65. Korfu
-  66. Kréta
-  67. Krk, Malinska
-  68. Krk, Punat
-  69. Krk,Njivice
-  70. Kyrenia
-  71. Laganas
-  72. Lara
-  73. Lara-Kundu
-  74. Larnaka
-  75. Libanon
-  76. Limassol
-  77. Lindos
-  78. Lloret de Mar
-  79. Lurdy
-  80. Mahdia
-  81. Makadi Bay
-  82. Maldivy
-  83. Male
-  84. Malia
-  85. Malorka
-  86. Marinella di Cutro
-  87. Mexiko
-  88. Moraitika / Messonghi
-  89. Nea Potidea
-  90. Nicotera Marina
-  91. Nórsko
-  92. Novi Vinodolski
-  93. Okurcalar
-  94. Olympská riviéra
-  95. ostrov Rab
-  96. Palmanova
-  97. Pefki
-  98. Peloponéz
-  99. Playa de Muro - Alcúdia
-  100. Pomorie
-  101. Portugalsko
-  102. Praia a Mare
-  103. Primorsko
-  104. Protaras
-  105. Rabac
-  106. Ras Al Khaimah
-  107. Rhodos
-  108. Rimini
-  109. Rusko
-  110. S‘Illot
-  111. Sahl Hasheesh
-  112. Sant‘Andrea Apostolo dello Ionio
-  113. Santa Teresa Gallura
-  114. Sardínia
-  115. Scalea
-  116. Severný Cyprus
-  117. Side
-  118. Slnečné pobrežie
-  119. Soma Bay
-  120. Sorgun Titreyengol
-  121. Sousse
-  122. Spojené arabské emiráty
-  123. Stredná Dalmácia
-  124. Sutomore
-  125. Sveti Vlas
-  126. Španielsko
-  127. Španielsko pevnina
-  128. Taliansko
-  129. Titreyengol
-  130. Tsilivi
-  131. Tunisko
-  132. Turecko
-  133. Umag
-  134. Vassilikos
-  135. Zakynthos
+  23. Bosna a Hercegovina
+  24. Bulharsko
+  25. Cala Gonone
+  26. Cala Millor
+  27. Calafell
+  28. Calella
+  29. Cancún - RIVIERA MAYA
+  30. Cesenatico
+  31. Colakli
+  32. Coma-Ruga
+  33. Crikvenica
+  34. Cyprus
+  35. Čierna Hora
+  36. Dahar
+  37. Dalmácia
+  38. Durrës
+  39. Egypt
+  40. Elenite
+  41. Faerské ostrovy
+  42. Faliraki
+  43. Famagusta
+  44. Francúzsko
+  45. Fujairah
+  46. Georgioupolis
+  47. Grécko a ostrovy
+  48. Hurghada
+  49. Chalkidiki
+  50. Chorvátsko
+  51. Ialyssos
+  52. Írsko
+  53. Island
+  54. Istanbul
+  55. Istria
+  56. Izrael
+  57. Jadranské pobrežie
+  58. Jordánsko
+  59. Južná Dalmácia
+  60. Kalábria
+  61. Kemer
+  62. Kiotari
+  63. Kizilagac
+  64. Kizilot
+  65. Kolymbia
+  66. Korfu
+  67. Kréta
+  68. Krk, Malinska
+  69. Krk, Punat
+  70. Krk,Njivice
+  71. Kyrenia
+  72. Laganas
+  73. Lara
+  74. Lara-Kundu
+  75. Larnaka
+  76. Libanon
+  77. Limassol
+  78. Lindos
+  79. Lloret de Mar
+  80. Lurdy
+  81. Mahdia
+  82. Makadi Bay
+  83. Maldivy
+  84. Male
+  85. Malia
+  86. Malorka
+  87. Marinella di Cutro
+  88. Mexiko
+  89. Moraitika / Messonghi
+  90. Nea Potidea
+  91. Nicotera Marina
+  92. Nórsko
+  93. Novi Vinodolski
+  94. Okurcalar
+  95. Olympská riviéra
+  96. ostrov Rab
+  97. Palmanova
+  98. Pefki
+  99. Peloponéz
+  100. Playa de Muro - Alcúdia
+  101. Pomorie
+  102. Portugalsko
+  103. Praia a Mare
+  104. Primorsko
+  105. Protaras
+  106. Rabac
+  107. Ras Al Khaimah
+  108. Rhodos
+  109. Rimini
+  110. Rusko
+  111. S‘Illot
+  112. Sahl Hasheesh
+  113. Sant‘Andrea Apostolo dello Ionio
+  114. Santa Teresa Gallura
+  115. Sardínia
+  116. Scalea
+  117. Severný Cyprus
+  118. Side
+  119. Slnečné pobrežie
+  120. Soma Bay
+  121. Sorgun Titreyengol
+  122. Sousse
+  123. Spojené arabské emiráty
+  124. Stredná Dalmácia
+  125. Sutomore
+  126. Sveti Vlas
+  127. Španielsko
+  128. Španielsko pevnina
+  129. Taliansko
+  130. Titreyengol
+  131. Tsilivi
+  132. Tunisko
+  133. Turecko
+  134. Umag
+  135. Vassilikos
+  136. Zakynthos
 ```
 
 ## hotels `JSON`
@@ -366,7 +367,9 @@
   2. Arménsko (2 hotely)
     I. Arménsko a jeho krásy De Luxe - poznávací zájazd (4 termíny)
     II. Gruzínsko a Arménsko De Luxe - poznávací zájazd (6 termínov)
-  3. Bulharsko
+  3. Bosna a Hercegovina (1 hotel)
+    I. Medžugorie - pútnický zájazd (4 termíny)
+  4. Bulharsko
     1. Elenite (1 hotel)
       I. Royal Park (361 termínov)
     2. Pomorie (1 hotel)
@@ -383,7 +386,7 @@
       V. Sea Breeze (77 termínov)
     5. Sveti Vlas (1 hotel)
       I. Tiva del Mar (390 termínov)
-  4. Cyprus
+  5. Cyprus
     1. Ayia Napa (4 hotely)
       I. Callisto Holiday Village (1562 termínov) 🆕
       II. Dome Beach (2343 termínov)
@@ -398,13 +401,13 @@
       II. Constantinos the Great (3124 termínov)
       III. Tsokkos Protaras Beach (3124 termínov)
       IV. Vrissiana Beach (2995 termínov)
-  5. Čierna Hora
+  6. Čierna Hora
     1. Bečiči (2 hotely)
       I. Mediteran (140 termínov) 🆕
       II. Tara (280 termínov)
     2. Sutomore (1 hotel)
       I. Korali (70 termínov)
-  6. Egypt
+  7. Egypt
     1. Hurghada (3 hotely)
       I. Desert Rose (236 termínov)
       II. Golden Beach Resort (59 termínov)
@@ -418,13 +421,13 @@
       II. Tropitel Sahl Hasheesh (236 termínov)
     4. Soma Bay (1 hotel)
       I. Caribbean World Soma Bay (118 termínov)
-  7. Faerské ostrovy (1 hotel)
+  8. Faerské ostrovy (1 hotel)
     I. Faerské ostrovy severský raj - poznávací zájazd (4 termíny)
-  8. Francúzsko (1 hotel)
+  9. Francúzsko (1 hotel)
     I. Paríž KLASIK - poznávací zájazd (6 termínov)
     1. Lurdy (1 hotel)
       I. Lurdy - pútnický zájazd (10 termínov)
-  9. Grécko a ostrovy
+  10. Grécko a ostrovy
     1. Atény
       1. Peloponéz (2 hotely)
         I. King Saron (65 termínov)
@@ -486,7 +489,7 @@
         I. Palazzo di Zante (100 termínov)
         II. Zante Imperial Beach (125 termínov)
         III. Zante Royal Resort (100 termínov)
-  10. Chorvátsko
+  11. Chorvátsko
     1. Dalmácia
       1. Južná Dalmácia (3 hotely)
         I. Aurora (106 termínov) 🆕
@@ -530,21 +533,21 @@
         II. Mimosa (29 termínov)
       8. Umag (1 hotel)
         I. Polynesia Plava Laguna (73 termínov)
-  11. Írsko (1 hotel)
+  12. Írsko (1 hotel)
     I. Írsko zelený ostrov - poznávací zájazd (4 termíny)
-  12. Island (3 hotely)
+  13. Island (3 hotely)
     I. Island - královstvo gejzírov - poznávací zájazd (6 termínov)
     II. Pohodový Island - poznávací zájazd (6 termínov)
     III. Sedem divov Islandu - poznávací zájazd (12 termínov)
-  13. Izrael (3 hotely)
+  14. Izrael (3 hotely)
     I. Izrael a Mŕtve more - pútnický zájazd letecky (8 termínov)
     II. Izrael a Mŕtve more De Luxe - poznávací zájazd (4 termíny)
     III. Izrael a Petra De Luxe - poznávací zájazd (8 termínov)
-  14. Jordánsko (1 hotel)
+  15. Jordánsko (1 hotel)
     I. Jordánsko a jeho skvosty De Luxe - poznávací zájazd (4 termíny)
-  15. Libanon (1 hotel)
+  16. Libanon (1 hotel)
     I. Libanon Švajčiarsko Blízkeho východu De Luxe - poznávací zájazd (4 termíny)
-  16. Maldivy
+  17. Maldivy
     1. Atol Baa - Dhigufaru (1 hotel)
       I. Dhigufaru Island Resort (48 termínov)
     2. Atol Baa - Kidhaadhufaaru (1 hotel)
@@ -555,31 +558,31 @@
       I. Adaaran Select Hudhuran Fushi (32 termínov) 🆕
     5. Male (1 hotel)
       I. Malahini Kuda Bandos (32 termínov)
-  17. Mexiko
+  18. Mexiko
     1. Cancún - RIVIERA MAYA (1 hotel)
       I. BARCELÓ Maya Grand Resort (16 termínov) 🆕
-  18. Nórsko (2 hotely)
+  19. Nórsko (2 hotely)
     I. Do srdca nórskych fjordov - Poznávací zájazd (9 termínov)
     II. Najkrajšie miesta a fjordy Nórska - poznávací zájazd (12 termínov)
-  19. Portugalsko (2 hotely)
+  20. Portugalsko (2 hotely)
     I. Fatima a Santiago de Compostela  - pútnický zájazd (4 termíny)
     II. Portugalsko De Luxe - poznávací zájazd (4 termíny)
-  20. Rusko (2 hotely)
+  21. Rusko (2 hotely)
     I. Moskva a Petrohrad+Riga De Luxe - Poznávací zájazd (6 termínov)
     II. Petrohrad De Luxe - poznávací zájazd (12 termínov)
-  21. Severný Cyprus
+  22. Severný Cyprus
     1. Famagusta (1 hotel)
       I. Salamis Bay Conti (3124 termínov)
     2. Kyrenia (2 hotely)
       I. Acapulco Beach (781 termínov)
       II. Acapulco Beach Family Bungalow Resort (781 termínov)
-  22. Spojené arabské emiráty
+  23. Spojené arabské emiráty
     1. Fujairah (1 hotel)
       I. Iberotel Miramar Al Aqah Beach Resort (30 termínov)
     2. Ras Al Khaimah (2 hotely)
       I. Hampton by Hilton Marjan Island (60 termínov)
       II. Hilton Double Tree Marjan Island (75 termínov)
-  23. Španielsko
+  24. Španielsko
     1. Malorka
       1. Cala Millor (1 hotel)
         I. Bakour Garbi (108 termínov) 🆕
@@ -598,7 +601,7 @@
         I. Gran Europe (75 termínov) 🆕
       4. Lloret de Mar (1 hotel)
         I. Gran Garbí (75 termínov) 🆕
-  24. Taliansko (3 hotely)
+  25. Taliansko (3 hotely)
     I. Po stopách sv. pátra Pia - pútnický zájazd (4 termíny)
     II. Rím De Luxe - poznávací zájazd (4 termíny)
     III. Rím KLASIK - poznávací zájazd (4 termíny)
@@ -625,7 +628,7 @@
         I. Club Esse Palmasera (200 termínov)
       2. Santa Teresa Gallura (1 hotel)
         I. Marmorata Sea View Resort (200 termínov)
-  25. Tunisko
+  26. Tunisko
     1. Mahdia (2 hotely)
       I. Iberostar Royal El Mansour (58 termínov)
       II. Primasol El Mehdi (174 termínov)
@@ -633,7 +636,7 @@
       I. Iberostar Diar El Andalous (58 termínov)
       II. Marhaba Resort (174 termínov)
       III. Riadh Palms (58 termínov)
-  26. Turecko
+  27. Turecko
     1. Alanya (7 hotelov)
       I. Grand Atilla (196 termínov)
       II. Kaila Beach (196 termínov)
