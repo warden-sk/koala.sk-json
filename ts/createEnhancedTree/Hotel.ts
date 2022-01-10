@@ -3,7 +3,7 @@
  */
 
 import Destination from './Destination';
-import { Hotel as H } from '../hotels';
+import { Hotel as H } from '../createHotel';
 import HotelTerm from './HotelTerm';
 
 class Hotel implements Omit<H, 'terms'> {

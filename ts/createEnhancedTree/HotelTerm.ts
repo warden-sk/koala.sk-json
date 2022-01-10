@@ -2,7 +2,7 @@
  * Copyright 2022 Marek Kobida
  */
 
-import { HotelTerm as HT } from '../hotels';
+import { HotelTerm as HT } from '../createHotel';
 import Hotel from './Hotel';
 
 class HotelTerm implements Omit<HT, 'date'> {

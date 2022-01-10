@@ -2,12 +2,12 @@
  * Copyright 2022 Marek Kobida
  */
 
+import { Destination as D } from '../createDestination';
 import Hotel from './Hotel';
 import HotelTerm from './HotelTerm';
 import SearchInput from './SearchInput';
-import { Tree as T } from '../tree';
 
-class Destination implements Omit<T, 'destinations' | 'hotels'> {
+class Destination implements Omit<D, 'destinations' | 'hotels'> {
   #hotels: Hotel[];
 
   category: number[];
@@ -20,18 +20,18 @@ class Destination implements Omit<T, 'destinations' | 'hotels'> {
   parent?: Destination;
   parentId: number;
 
-  constructor(tree: T, parent?: Destination) {
-    this.#hotels = tree.hotels.map(hotel => new Hotel(hotel, this));
+  constructor(destination: D, parent?: Destination) {
+    this.#hotels = destination.hotels.map(hotel => new Hotel(hotel, this));
 
-    this.category = tree.category;
-    this.destinations = tree.destinations.map(destination => new Destination(destination, this));
-    this.id = tree.id;
-    this.latitude = tree.latitude || 0;
-    this.level = tree.level;
-    this.longitude = tree.longitude || 0;
-    this.name = tree.name;
+    this.category = destination.category;
+    this.destinations = destination.destinations.map(destination => new Destination(destination, this));
+    this.id = destination.id;
+    this.latitude = destination.latitude || 0;
+    this.level = destination.level;
+    this.longitude = destination.longitude || 0;
+    this.name = destination.name;
     this.parent = parent;
-    this.parentId = tree.parentId;
+    this.parentId = destination.parentId;
   }
 
   hotels(_1 = false): Hotel[] {
