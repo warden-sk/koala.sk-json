@@ -4,14 +4,8 @@
 
 import Hotel from './Hotel';
 import HotelTerm from './HotelTerm';
+import SearchInput from './SearchInput';
 import { Tree as T } from '../tree';
-
-export interface SearchInput {
-  days?: [from: number, to: number];
-  price?: [from: number, to: number];
-  stars?: number[] | number;
-  transportationId?: number[] | number;
-}
 
 class Destination implements Omit<T, 'destinations' | 'hotels'> {
   #hotels: Hotel[];

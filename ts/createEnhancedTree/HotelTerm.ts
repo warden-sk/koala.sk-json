@@ -14,14 +14,14 @@ class HotelTerm implements Omit<HT, 'date'> {
   price: number;
   transportationId: number;
 
-  constructor(hotelTerm: HT, parent?: Hotel) {
-    this.date = [this.decodeDate(hotelTerm.date[0]), this.decodeDate(hotelTerm.date[1])];
-    this.days = hotelTerm.days;
-    this.discount = hotelTerm.discount || 0;
-    this.id = hotelTerm.id;
+  constructor(term: HT, parent?: Hotel) {
+    this.date = [this.decodeDate(term.date[0]), this.decodeDate(term.date[1])];
+    this.days = term.days;
+    this.discount = term.discount || 0;
+    this.id = term.id;
     this.parent = parent;
-    this.price = hotelTerm.price;
-    this.transportationId = hotelTerm.transportationId;
+    this.price = term.price;
+    this.transportationId = term.transportationId;
   }
 
   decodeDate(date: number | string): Date {
