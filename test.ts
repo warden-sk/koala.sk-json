@@ -2,11 +2,12 @@
  * Copyright 2022 Marek Kobida
  */
 
-import createDestination from './ts/createDestination';
-import createEnhancedTree from './ts/createTree';
+import createTree from './ts/createTree';
+import decodedTree from './decoded/tree.json';
 
-const enhancedTree = createEnhancedTree(Array.from({ length: 2 }, () => createDestination(2)));
+// @ts-ignore
+const tree = createTree(decodedTree);
 
-const search = enhancedTree.search();
+const search = tree.search();
 
 console.dir(search, { color: true, depth: null });

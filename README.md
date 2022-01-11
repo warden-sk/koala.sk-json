@@ -196,7 +196,7 @@
   44. Dhigufaru Island Resort (48 termínov)
   45. Do srdca nórskych fjordov - Poznávací zájazd (9 termínov)
   46. Dome Beach (3124 termínov)
-  47. Donat (220 termínov)
+  47. Donat (234 termínov)
   48. Dunav (154 termínov)
   49. Evi (342 termínov)
   50. Faerské ostrovy severský raj - poznávací zájazd (4 termíny)
@@ -493,7 +493,7 @@
         I. Adriatic (64 termínov)
         II. Apartmány Medena Superior (62 termínov)
         III. Apartmány Medena štandard plus (126 termínov)
-        IV. Donat (220 termínov)
+        IV. Donat (234 termínov)
         V. Falkensteiner Club Funimation Borik (75 termínov) 🆕
         VI. Imperial - Lucija (126 termínov)
         VII. Imperial – Flora/Madera depandance (39 termínov)

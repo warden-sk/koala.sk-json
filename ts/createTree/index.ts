@@ -7,7 +7,7 @@ import EnhancedDestination from './EnhancedDestination';
 import EnhancedHotel from './EnhancedHotel';
 import EnhancedHotelTerm from './EnhancedHotelTerm';
 
-export interface Conditions {
+export interface FilterConditions {
   hotel: ((hotel: EnhancedHotel) => boolean)[];
   hotelTerm: ((hotelTerm: EnhancedHotelTerm) => boolean)[];
 }
@@ -20,7 +20,7 @@ export interface SearchInput {
   transportationId?: number[] | number;
 }
 
-class EnhancedTree {
+class Tree {
   destinations: EnhancedDestination[];
 
   constructor(destinations: Destination[]) {
@@ -28,7 +28,7 @@ class EnhancedTree {
   }
 
   search({ days, name, price, stars, transportationId }: SearchInput = {}): EnhancedHotel[] {
-    const conditions: Conditions = {
+    const filterConditions: FilterConditions = {
       hotel: [
         // has name
         hotel => (name ? new RegExp(name).test(hotel.name) : true),
@@ -52,19 +52,21 @@ class EnhancedTree {
     };
 
     return this.destinations.flatMap(destination =>
-      destination
-        .hotels(true)
-        .filter(
-          hotel =>
-            conditions.hotel.every(condition => condition(hotel)) &&
-            hotel.terms.filter(hotelTerm => conditions.hotelTerm.every(condition => condition(hotelTerm))).length > 0
-        )
+      destination.hotels(true).filter(
+        hotel =>
+          // hotel
+          filterConditions.hotel.every(filterCondition => filterCondition(hotel)) &&
+          // hotelTerm
+          hotel.terms.filter(hotelTerm =>
+            filterConditions.hotelTerm.every(filterCondition => filterCondition(hotelTerm))
+          ).length
+      )
     );
   }
 }
 
-function createEnhancedTree(destinations: Destination[]): EnhancedTree {
-  return new EnhancedTree(destinations);
+function createTree(destinations: Destination[]): Tree {
+  return new Tree(destinations);
 }
 
-export default createEnhancedTree;
+export default createTree;
