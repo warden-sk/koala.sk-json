@@ -2,9 +2,9 @@
  * Copyright 2022 Marek Kobida
  */
 
+import { Hotel, HotelTerm } from '../createHotel';
 import EnhancedDestination from './EnhancedDestination';
 import EnhancedHotelTerm from './EnhancedHotelTerm';
-import { Hotel } from '../createHotel';
 
 class EnhancedHotel implements Omit<Hotel, 'terms'> {
   category: number;
@@ -32,10 +32,14 @@ class EnhancedHotel implements Omit<Hotel, 'terms'> {
     this.photoId = hotel.photoId;
     this.serviceId = hotel.serviceId;
     this.stars = hotel.stars;
-    this.terms = hotel.terms.map(term => new EnhancedHotelTerm(term, this));
+    this.terms = hotel.terms.map(this.#createEnhancedHotelTerm);
     this.type = hotel.type;
     this.videoId = hotel.videoId;
   }
+
+  #createEnhancedHotelTerm = (hotelTerm: HotelTerm): EnhancedHotelTerm => {
+    return new EnhancedHotelTerm(hotelTerm, this);
+  };
 
   firstTerm(): EnhancedHotelTerm | undefined {
     return this.terms[0];

@@ -1,17 +1,14 @@
 /*
- * Copyright 2021 Marek Kobida
+ * Copyright 2022 Marek Kobida
  */
 
-import EnhancedDestination from './ts/createTree/EnhancedDestination';
-import createDestination from './ts/createDestination';
 import createEnhancedTree from './ts/createTree';
-import tree from './decoded/tree.json';
+import fs from 'fs';
 
-const searchInput: EnhancedDestination.SearchInput = { stars: 6 };
+const tree = JSON.parse(fs.readFileSync('./decoded/tree.json').toString());
 
-// @ts-ignore
 const enhancedTree = createEnhancedTree(tree);
 
-// console.log(searchInput, enhancedTree);
+const search = enhancedTree.search({ name: 'Faerské ostrovy', stars: 4 });
 
-console.log(createDestination(3));
+console.dir(search, { color: true, depth: null });

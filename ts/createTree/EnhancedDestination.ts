@@ -4,7 +4,7 @@
 
 import { Destination } from '../createDestination';
 import EnhancedHotel from './EnhancedHotel';
-import EnhancedHotelTerm from './EnhancedHotelTerm';
+import { Hotel } from '../createHotel';
 
 class EnhancedDestination implements Omit<Destination, 'destinations' | 'hotels'> {
   #hotels: EnhancedHotel[];
@@ -20,10 +20,10 @@ class EnhancedDestination implements Omit<Destination, 'destinations' | 'hotels'
   parentId: number;
 
   constructor(destination: Destination, parent?: EnhancedDestination) {
-    this.#hotels = destination.hotels.map(hotel => new EnhancedHotel(hotel, this));
+    this.#hotels = destination.hotels.map(this.#createEnhancedHotel);
 
     this.category = destination.category;
-    this.destinations = destination.destinations.map(destination => new EnhancedDestination(destination, this));
+    this.destinations = destination.destinations.map(this.#createEnhancedDestination);
     this.id = destination.id;
     this.latitude = destination.latitude || 0;
     this.level = destination.level;
@@ -32,6 +32,14 @@ class EnhancedDestination implements Omit<Destination, 'destinations' | 'hotels'
     this.parent = parent;
     this.parentId = destination.parentId;
   }
+
+  #createEnhancedDestination = (destination: Destination): EnhancedDestination => {
+    return new EnhancedDestination(destination, this);
+  };
+
+  #createEnhancedHotel = (hotel: Hotel): EnhancedHotel => {
+    return new EnhancedHotel(hotel, this);
+  };
 
   hotels(recursion = false): EnhancedHotel[] {
     if (recursion) {
@@ -49,37 +57,6 @@ class EnhancedDestination implements Omit<Destination, 'destinations' | 'hotels'
     }
 
     return this.#hotels;
-  }
-
-  search({ days, price, stars, transportationId }: EnhancedDestination.SearchInput = {}): EnhancedHotel[] {
-    const hasDays = (term: EnhancedHotelTerm) => (days ? term.hasDays(days[0], days[1]) : true);
-
-    const hasPrice = (term: EnhancedHotelTerm) => (price ? term.hasPrice(price[0], price[1]) : true);
-
-    const hasStars = (hotel: EnhancedHotel) =>
-      stars ? (Array.isArray(stars) ? stars.findIndex($ => hotel.hasStars($)) !== -1 : hotel.hasStars(stars)) : true;
-
-    const hasTransportationId = (term: EnhancedHotelTerm) =>
-      transportationId
-        ? Array.isArray(transportationId)
-          ? transportationId.findIndex($ => term.hasTransportationId($)) !== -1
-          : term.hasTransportationId(transportationId)
-        : true;
-
-    return this.hotels(true).filter(
-      hotel =>
-        hasStars(hotel) &&
-        hotel.terms.filter(term => hasDays(term) && hasPrice(term) && hasTransportationId(term)).length > 0
-    );
-  }
-}
-
-namespace EnhancedDestination {
-  export interface SearchInput {
-    days?: [from: number, to: number];
-    price?: [from: number, to: number];
-    stars?: number[] | number;
-    transportationId?: number[] | number;
   }
 }
 

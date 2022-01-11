@@ -2,14 +2,7 @@
  * Copyright 2022 Marek Kobida
  */
 
-export interface HotelTerm {
-  date: [from: number, to: number];
-  days: number;
-  discount?: number;
-  id: number;
-  price: number;
-  transportationId: number;
-}
+import createHotelTerm, { HotelTerm } from './createHotelTerm';
 
 export interface Hotel {
   category: number;
@@ -24,17 +17,6 @@ export interface Hotel {
   terms: HotelTerm[];
   type: number;
   videoId?: string;
-}
-
-function createHotelTerm(): HotelTerm {
-  return {
-    date: [19700101, 19700101],
-    days: 0,
-    discount: 50,
-    id: 0,
-    price: 500,
-    transportationId: 0,
-  };
 }
 
 function createHotel(): Hotel {

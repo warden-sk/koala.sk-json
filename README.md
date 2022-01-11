@@ -306,7 +306,7 @@
   154. Rím KLASIK - poznávací zájazd (4 termíny)
   155. Royal Park (361 termínov)
   156. Sahara Sunny by Valamar (20 termínov)
-  157. Salamis Bay Conti (3869 termínov)
+  157. Salamis Bay Conti (4650 termínov)
   158. Santa Caterina (552 termínov)
   159. Santandrea Resort (138 termínov) 🆕
   160. Sea Breeze (77 termínov)
@@ -566,7 +566,7 @@
     II. Petrohrad De Luxe - poznávací zájazd (12 termínov)
   22. Severný Cyprus
     1. Famagusta (1 hotel)
-      I. Salamis Bay Conti (3869 termínov)
+      I. Salamis Bay Conti (4650 termínov)
     2. Kyrenia (2 hotely)
       I. Acapulco Beach (781 termínov)
       II. Acapulco Beach Family Bungalow Resort (781 termínov)
