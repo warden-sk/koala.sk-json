@@ -3,7 +3,7 @@
  */
 
 import EnhancedHotel from './EnhancedHotel';
-import { HotelTerm } from '../createHotel';
+import { HotelTerm } from '../createHotelTerm';
 
 class EnhancedHotelTerm implements Omit<HotelTerm, 'date'> {
   date: [from: Date, to: Date];
@@ -27,9 +27,9 @@ class EnhancedHotelTerm implements Omit<HotelTerm, 'date'> {
   decodeDate(date: number | string): Date {
     date = date.toString();
 
-    const year = date[0] + date[1] + date[2] + date[3];
-    const month = date[4] + date[5];
-    const day = date[6] + date[7];
+    const year = '20' + date[0] + date[1];
+    const month = date[2] + date[3];
+    const day = date[4] + date[5];
 
     return new Date(+year, +month, +day);
   }
