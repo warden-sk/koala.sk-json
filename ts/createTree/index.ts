@@ -54,9 +54,9 @@ class Tree {
     return this.destinations.flatMap(destination =>
       destination.hotels(true).filter(
         hotel =>
-          // hotel
+          // 1
           filterConditions.hotel.every(filterCondition => filterCondition(hotel)) &&
-          // hotelTerm
+          // 2
           hotel.terms.filter(hotelTerm =>
             filterConditions.hotelTerm.every(filterCondition => filterCondition(hotelTerm))
           ).length

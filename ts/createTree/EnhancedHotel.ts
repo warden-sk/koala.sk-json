@@ -55,7 +55,7 @@ class EnhancedHotel implements Omit<Hotel, 'terms'> {
   }
 
   hasStars(stars: number): boolean {
-    return this.stars >= stars && this.stars < stars + 1;
+    return this.stars === stars || this.stars === stars + 0.5;
   }
 
   hasTerms(): boolean {
