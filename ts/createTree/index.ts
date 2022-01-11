@@ -72,13 +72,11 @@ class Tree {
       return destination ? [...createBreadcrumbs(destination.parent), destination.id] : [];
     };
 
-    return hotels.filter(hotel => {
-      const breadcrumbs = createBreadcrumbs(hotel.parent);
-
-      console.log(hotel.name, breadcrumbs);
-
-      return destinationId ? breadcrumbs.findIndex(breadcrumb => breadcrumb === destinationId) !== -1 : true;
-    });
+    return hotels.filter(hotel =>
+      destinationId
+        ? createBreadcrumbs(hotel.parent).findIndex(breadcrumb => breadcrumb === destinationId) !== -1
+        : true
+    );
   }
 }
 

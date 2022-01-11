@@ -8,6 +8,14 @@ import decodedTree from './decoded/tree.json';
 // @ts-ignore
 const tree = createTree(decodedTree);
 
-const search = tree.search({ destinationId: 174 });
+const search = tree.search();
 
-console.dir(search, { depth: null });
+let $ = '';
+let i = 1;
+
+search.forEach(hotel => {
+  $ += `${i++}. (${hotel.id}) ${hotel.name}`;
+  $ += '\n';
+});
+
+console.log($);
