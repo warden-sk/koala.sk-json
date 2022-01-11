@@ -14,6 +14,7 @@ export interface FilterConditions {
 
 export interface SearchInput {
   days?: [from: number, to: number];
+  destinationId?: number;
   name?: string;
   price?: [from: number, to: number];
   stars?: number[] | number;
@@ -24,10 +25,14 @@ class Tree {
   destinations: EnhancedDestination[];
 
   constructor(destinations: Destination[]) {
-    this.destinations = destinations.map(destination => new EnhancedDestination(destination));
+    this.destinations = destinations.map(this.#createEnhancedDestination);
   }
 
-  search({ days, name, price, stars, transportationId }: SearchInput = {}): EnhancedHotel[] {
+  #createEnhancedDestination = (destination: Destination): EnhancedDestination => {
+    return new EnhancedDestination(destination);
+  };
+
+  search({ days, destinationId, name, price, stars, transportationId }: SearchInput = {}): EnhancedHotel[] {
     const filterConditions: FilterConditions = {
       hotel: [
         // has name
@@ -51,7 +56,7 @@ class Tree {
       ],
     };
 
-    return this.destinations.flatMap(destination =>
+    const hotels = this.destinations.flatMap(destination =>
       destination.hotels(true).filter(
         hotel =>
           // 1
@@ -62,6 +67,18 @@ class Tree {
           ).length
       )
     );
+
+    const createBreadcrumbs = (destination: EnhancedDestination | undefined): number[] => {
+      return destination ? [...createBreadcrumbs(destination.parent), destination.id] : [];
+    };
+
+    return hotels.filter(hotel => {
+      const breadcrumbs = createBreadcrumbs(hotel.parent);
+
+      console.log(hotel.name, breadcrumbs);
+
+      return destinationId ? breadcrumbs.findIndex(breadcrumb => breadcrumb === destinationId) !== -1 : true;
+    });
   }
 }
 

@@ -8,6 +8,6 @@ import decodedTree from './decoded/tree.json';
 // @ts-ignore
 const tree = createTree(decodedTree);
 
-const search = tree.search();
+const search = tree.search({ destinationId: 174 });
 
-console.dir(search, { color: true, depth: null });
+console.dir(search, { depth: null });
