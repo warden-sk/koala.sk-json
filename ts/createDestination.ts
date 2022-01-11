@@ -16,12 +16,14 @@ export interface Destination {
   parentId: number;
 }
 
+let id = 0;
+
 function createDestination(hotelsLength: number): Destination {
   return {
     category: [],
     destinations: [],
     hotels: Array.from({ length: hotelsLength }, createHotel),
-    id: 0,
+    id: id++,
     level: 0,
     name: 'Test Destination',
     parentId: 0,

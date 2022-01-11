@@ -11,12 +11,14 @@ export interface HotelTerm {
   transportationId: number;
 }
 
+let id = 0;
+
 function createHotelTerm(): HotelTerm {
   return {
     date: [19700101, 19700101],
     days: 0,
     discount: 50,
-    id: 0,
+    id: id++,
     price: 500,
     transportationId: 0,
   };

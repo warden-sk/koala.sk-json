@@ -19,11 +19,14 @@ export interface Hotel {
   videoId?: string;
 }
 
+let id = 0;
+
 function createHotel(): Hotel {
   return {
     category: 1,
     equipment: [],
-    id: 0,
+    id: id++,
+    isNew: true,
     name: 'Test Hotel',
     parentId: 0,
     photoId: 0,
