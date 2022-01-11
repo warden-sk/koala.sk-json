@@ -6,7 +6,7 @@ import SearchInput from './ts/createTree/SearchInput';
 import createEnhancedTree from './ts/createTree';
 import fs from 'fs';
 
-const TREE = JSON.parse(fs.readFileSync('./raw/tree.json').toString());
+const TREE = JSON.parse(fs.readFileSync('./decoded/tree.json').toString());
 
 const SEARCH_INPUT: SearchInput = { stars: 6 };
 

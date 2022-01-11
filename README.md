@@ -187,7 +187,7 @@
   35. Club Hotel Angelini (54 termínov)
   36. Club Mega Saray (1320 termínov)
   37. Condesa (108 termínov) 🆕
-  38. Constantinos the Great (3124 termínov)
+  38. Constantinos the Great (3905 termínov)
   39. Corfu Senses Resort (242 termínov)
   40. Delphin Imperial (528 termínov)
   41. Desert Rose (236 termínov)
@@ -195,7 +195,7 @@
   43. Dessole Malia Beach (231 termínov)
   44. Dhigufaru Island Resort (48 termínov)
   45. Do srdca nórskych fjordov - Poznávací zájazd (9 termínov)
-  46. Dome Beach (2343 termínov)
+  46. Dome Beach (3124 termínov)
   47. Donat (220 termínov)
   48. Dunav (154 termínov)
   49. Evi (342 termínov)
@@ -217,7 +217,7 @@
   65. Chaika Beach Resort (396 termínov)
   66. Champion Holiday Village (392 termínov)
   67. Checkin Garbí (75 termínov) 🆕
-  68. Chrysomare Beach Hotel & Resort (3124 termínov)
+  68. Chrysomare Beach Hotel & Resort (3905 termínov)
   69. Iberostar Diar El Andalous (58 termínov)
   70. Iberostar Royal El Mansour (58 termínov)
   71. Iberotel Miramar Al Aqah Beach Resort (30 termínov)
@@ -306,7 +306,7 @@
   154. Rím KLASIK - poznávací zájazd (4 termíny)
   155. Royal Park (361 termínov)
   156. Sahara Sunny by Valamar (20 termínov)
-  157. Salamis Bay Conti (3124 termínov)
+  157. Salamis Bay Conti (3869 termínov)
   158. Santa Caterina (552 termínov)
   159. Santandrea Resort (138 termínov) 🆕
   160. Sea Breeze (77 termínov)
@@ -335,7 +335,7 @@
   183. Tropitel Sahl Hasheesh (236 termínov)
   184. Tsokkos Protaras Beach (3124 termínov)
   185. TYC (36 termínov)
-  186. Vrissiana Beach (2995 termínov)
+  186. Vrissiana Beach (3776 termínov)
   187. Water Side Resort & Spa (528 termínov)
   188. White Olive Elite Laganas (50 termínov) 🆕
   189. White Olive Premium Cameo (75 termínov) 🆕
@@ -383,8 +383,8 @@
   5. Cyprus
     1. Ayia Napa (4 hotely)
       I. Callisto Holiday Village (1562 termínov) 🆕
-      II. Dome Beach (2343 termínov)
-      III. Chrysomare Beach Hotel & Resort (3124 termínov)
+      II. Dome Beach (3124 termínov)
+      III. Chrysomare Beach Hotel & Resort (3905 termínov)
       IV. Nelia Beach (1956 termínov)
     2. Larnaka (1 hotel)
       I. Sentido Sandy Beach (781 termínov) 🆕
@@ -392,9 +392,9 @@
       I. St. Raphael Resort (1562 termínov)
     4. Protaras (4 hotely)
       I. Anastasia Beach (3124 termínov)
-      II. Constantinos the Great (3124 termínov)
+      II. Constantinos the Great (3905 termínov)
       III. Tsokkos Protaras Beach (3124 termínov)
-      IV. Vrissiana Beach (2995 termínov)
+      IV. Vrissiana Beach (3776 termínov)
   6. Čierna Hora
     1. Bečiči (2 hotely)
       I. Mediteran (140 termínov) 🆕
@@ -566,7 +566,7 @@
     II. Petrohrad De Luxe - poznávací zájazd (12 termínov)
   22. Severný Cyprus
     1. Famagusta (1 hotel)
-      I. Salamis Bay Conti (3124 termínov)
+      I. Salamis Bay Conti (3869 termínov)
     2. Kyrenia (2 hotely)
       I. Acapulco Beach (781 termínov)
       II. Acapulco Beach Family Bungalow Resort (781 termínov)
