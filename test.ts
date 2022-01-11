@@ -2,8 +2,8 @@
  * Copyright 2021 Marek Kobida
  */
 
-import SearchInput from './ts/createEnhancedTree/SearchInput';
-import createEnhancedTree from './ts/createEnhancedTree';
+import SearchInput from './ts/createTree/SearchInput';
+import createEnhancedTree from './ts/createTree';
 import fs from 'fs';
 
 const TREE = JSON.parse(fs.readFileSync('./raw/tree.json').toString());
