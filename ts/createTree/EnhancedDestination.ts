@@ -5,7 +5,6 @@
 import { Destination } from '../createDestination';
 import EnhancedHotel from './EnhancedHotel';
 import EnhancedHotelTerm from './EnhancedHotelTerm';
-import SearchInput from './SearchInput';
 
 class EnhancedDestination implements Omit<Destination, 'destinations' | 'hotels'> {
   #hotels: EnhancedHotel[];
@@ -34,15 +33,15 @@ class EnhancedDestination implements Omit<Destination, 'destinations' | 'hotels'
     this.parentId = destination.parentId;
   }
 
-  hotels(_1 = false): EnhancedHotel[] {
-    if (_1) {
+  hotels(recursion = false): EnhancedHotel[] {
+    if (recursion) {
       //           | copy
       let hotels = [...this.#hotels];
 
-      return (function _2(destination: EnhancedDestination): EnhancedHotel[] {
+      return (function $(destination: EnhancedDestination): EnhancedHotel[] {
         destination.destinations.forEach(destination => {
           hotels = [...hotels, ...destination.#hotels];
-          _2(destination);
+          $(destination);
         });
 
         return hotels;
@@ -52,7 +51,7 @@ class EnhancedDestination implements Omit<Destination, 'destinations' | 'hotels'
     return this.#hotels;
   }
 
-  search({ days, price, stars, transportationId }: SearchInput = {}): EnhancedHotel[] {
+  search({ days, price, stars, transportationId }: EnhancedDestination.SearchInput = {}): EnhancedHotel[] {
     const hasDays = (term: EnhancedHotelTerm) => (days ? term.hasDays(days[0], days[1]) : true);
 
     const hasPrice = (term: EnhancedHotelTerm) => (price ? term.hasPrice(price[0], price[1]) : true);
@@ -72,6 +71,15 @@ class EnhancedDestination implements Omit<Destination, 'destinations' | 'hotels'
         hasStars(hotel) &&
         hotel.terms.filter(term => hasDays(term) && hasPrice(term) && hasTransportationId(term)).length > 0
     );
+  }
+}
+
+namespace EnhancedDestination {
+  export interface SearchInput {
+    days?: [from: number, to: number];
+    price?: [from: number, to: number];
+    stars?: number[] | number;
+    transportationId?: number[] | number;
   }
 }
 

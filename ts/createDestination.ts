@@ -20,7 +20,7 @@ function createDestination(hotelsLength: number): Destination {
   return {
     category: [],
     destinations: [],
-    hotels: [...new Array(hotelsLength)].map(createHotel),
+    hotels: Array.from({ length: hotelsLength }, createHotel),
     id: 0,
     level: 0,
     name: 'Test Destination',
