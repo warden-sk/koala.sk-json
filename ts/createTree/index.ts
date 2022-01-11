@@ -2,18 +2,18 @@
  * Copyright 2022 Marek Kobida
  */
 
-import { Destination as D } from '../createDestination';
-import Destination from './Destination';
+import { Destination } from '../createDestination';
+import EnhancedDestination from './EnhancedDestination';
 
 class EnhancedTree {
-  destinations: Destination[];
+  destinations: EnhancedDestination[];
 
-  constructor(destinations: D[]) {
-    this.destinations = destinations.map(destination => new Destination(destination));
+  constructor(destinations: Destination[]) {
+    this.destinations = destinations.map(destination => new EnhancedDestination(destination));
   }
 }
 
-function createEnhancedTree(destinations: D[]): EnhancedTree {
+function createEnhancedTree(destinations: Destination[]): EnhancedTree {
   return new EnhancedTree(destinations);
 }
 

@@ -2,19 +2,19 @@
  * Copyright 2022 Marek Kobida
  */
 
-import { HotelTerm as HT } from '../createHotel';
-import Hotel from './Hotel';
+import EnhancedHotel from './EnhancedHotel';
+import { HotelTerm } from '../createHotel';
 
-class HotelTerm implements Omit<HT, 'date'> {
+class EnhancedHotelTerm implements Omit<HotelTerm, 'date'> {
   date: [from: Date, to: Date];
   days: number;
   discount: number;
   id: number;
-  parent?: Hotel;
+  parent?: EnhancedHotel;
   price: number;
   transportationId: number;
 
-  constructor(term: HT, parent?: Hotel) {
+  constructor(term: HotelTerm, parent?: EnhancedHotel) {
     this.date = [this.decodeDate(term.date[0]), this.decodeDate(term.date[1])];
     this.days = term.days;
     this.discount = term.discount || 0;
@@ -51,4 +51,4 @@ class HotelTerm implements Omit<HT, 'date'> {
   }
 }
 
-export default HotelTerm;
+export default EnhancedHotelTerm;

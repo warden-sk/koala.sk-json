@@ -2,26 +2,26 @@
  * Copyright 2022 Marek Kobida
  */
 
-import Destination from './Destination';
-import { Hotel as H } from '../createHotel';
-import HotelTerm from './HotelTerm';
+import EnhancedDestination from './EnhancedDestination';
+import EnhancedHotelTerm from './EnhancedHotelTerm';
+import { Hotel } from '../createHotel';
 
-class Hotel implements Omit<H, 'terms'> {
+class EnhancedHotel implements Omit<Hotel, 'terms'> {
   category: number;
   equipment: number[];
   id: number;
   isNew: boolean;
   name: string;
-  parent?: Destination;
+  parent?: EnhancedDestination;
   parentId: number;
   photoId: number;
   serviceId: number;
   stars: number;
-  terms: HotelTerm[];
+  terms: EnhancedHotelTerm[];
   type: number;
   videoId?: string;
 
-  constructor(hotel: H, parent?: Destination) {
+  constructor(hotel: Hotel, parent?: EnhancedDestination) {
     this.category = hotel.category;
     this.equipment = hotel.equipment;
     this.id = hotel.id;
@@ -32,16 +32,16 @@ class Hotel implements Omit<H, 'terms'> {
     this.photoId = hotel.photoId;
     this.serviceId = hotel.serviceId;
     this.stars = hotel.stars;
-    this.terms = hotel.terms.map(term => new HotelTerm(term, this));
+    this.terms = hotel.terms.map(term => new EnhancedHotelTerm(term, this));
     this.type = hotel.type;
     this.videoId = hotel.videoId;
   }
 
-  firstTerm(): HotelTerm | undefined {
+  firstTerm(): EnhancedHotelTerm | undefined {
     return this.terms[0];
   }
 
-  firstTermWithDiscount(): HotelTerm | undefined {
+  firstTermWithDiscount(): EnhancedHotelTerm | undefined {
     return this.terms.filter(term => term.hasDiscount())[0];
   }
 
@@ -58,4 +58,4 @@ class Hotel implements Omit<H, 'terms'> {
   }
 }
 
-export default Hotel;
+export default EnhancedHotel;
