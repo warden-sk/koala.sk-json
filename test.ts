@@ -14,7 +14,9 @@ let $ = '';
 let i = 1;
 
 search.forEach(hotel => {
-  $ += `${i++}. (${hotel.id}) ${hotel.name}`;
+  const line = [`${i++}.`, `(${hotel.id})`, hotel.name, `(${hotel.breadcrumbs(hotel.parent).join(', ')})`];
+
+  $ += line.join(' ');
   $ += '\n';
 });
 
