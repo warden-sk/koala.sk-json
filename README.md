@@ -328,7 +328,7 @@
   175. (1738) Summer Beach Hotel (154 termínov) 🆕 ****
   176. (1511) Sun Beach Park (211 termínov) ****+
   177. (1684) Sunny Side (103 termínov) ****+
-  178. (84) Sunset Resort (414 termínov) ******
+  178. (84) Sunset Resort (420 termínov) ******
   179. (1588) Swandor Topkapi Palace (837 termínov) ******
   180. (410) Tac Premier (211 termínov) ****+
   181. (337) Tara (280 termínov) ****+
@@ -369,7 +369,7 @@
     1. (170) Elenite (1 hotel)
       I. (1615) Royal Park (361 termínov) *****
     2. (602) Pomorie (1 hotel)
-      I. (84) Sunset Resort (414 termínov) ******
+      I. (84) Sunset Resort (420 termínov) ******
     3. (3703) Primorsko (3 hotely)
       I. (454) Plovdiv (224 termínov) ***
       II. (458) Queen Nelly (390 termínov) ***+
