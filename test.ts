@@ -9,15 +9,3 @@ import decodedTree from './decoded/tree.json';
 const tree = createTree(decodedTree);
 
 const search = tree.search();
-
-let $ = '';
-let i = 1;
-
-search.forEach(hotel => {
-  const line = [`${i++}.`, `(${hotel.id})`, hotel.name, `(${hotel.breadcrumbs(hotel.parent).join(', ')})`];
-
-  $ += line.join(' ');
-  $ += '\n';
-});
-
-console.log($);
