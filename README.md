@@ -148,7 +148,7 @@
 
 ## hotels `JSON`
 
-  `196` hotelov
+  `195` hotelov
 
 ```
   1. (216) Acapulco Beach (781 termínov) *****+
@@ -334,19 +334,18 @@
   181. (337) Tara (280 termínov) ****+
   182. (457) Tishina (260 termínov) ***+
   183. (294) Tiva del Mar (390 termínov) ****+
-  184. (1642) Tropitel Sahl Hasheesh (236 termínov) ******
-  185. (1597) Tsokkos Protaras Beach (3124 termínov) ****+
-  186. (1691) TYC (36 termínov) ***+
-  187. (1703) Vrissiana Beach (3776 termínov) *****
-  188. (1513) Water Side Resort & Spa (558 termínov) *****
-  189. (1735) White Olive Elite Laganas (50 termínov) 🆕 *****+
-  190. (1734) White Olive Premium Cameo (75 termínov) 🆕 ****+
-  191. (276) Wyndham Grand Novi Vinodolski Resort de luxe Apartmány (29 termínov) ****
-  192. (277) Wyndham Grand Novi Vinodolski Resort hotel (80 termínov) *****
-  193. (69) Wyndham Grand Novi Vinodolski Resort Premium Apartmány (87 termínov) ****
-  194. (60) Zante Imperial Beach (125 termínov) ****
-  195. (496) Zante Royal Resort (100 termínov) ****
-  196. (112) Zora (78 termínov) ****
+  184. (1597) Tsokkos Protaras Beach (3124 termínov) ****+
+  185. (1691) TYC (36 termínov) ***+
+  186. (1703) Vrissiana Beach (3776 termínov) *****
+  187. (1513) Water Side Resort & Spa (558 termínov) *****
+  188. (1735) White Olive Elite Laganas (50 termínov) 🆕 *****+
+  189. (1734) White Olive Premium Cameo (75 termínov) 🆕 ****+
+  190. (276) Wyndham Grand Novi Vinodolski Resort de luxe Apartmány (29 termínov) ****
+  191. (277) Wyndham Grand Novi Vinodolski Resort hotel (80 termínov) *****
+  192. (69) Wyndham Grand Novi Vinodolski Resort Premium Apartmány (87 termínov) ****
+  193. (60) Zante Imperial Beach (125 termínov) ****
+  194. (496) Zante Royal Resort (100 termínov) ****
+  195. (112) Zora (78 termínov) ****
 ```
 
 ## tree `JSON`
@@ -412,9 +411,8 @@
         I. (1646) Sea Star Beau Rivage (59 termínov) *****
     2. (596) Makadi Bay (1 hotel)
       I. (1675) Stella Di Mare Beach Resort & Spa (236 termínov) *****
-    3. (1915) Sahl Hasheesh (2 hotely)
+    3. (1915) Sahl Hasheesh (1 hotel)
       I. (1747) Premier Le Reve Hotel & Spa (118 termínov) 🆕 ******
-      II. (1642) Tropitel Sahl Hasheesh (236 termínov) ******
     4. (105) Soma Bay (1 hotel)
       I. (1608) Caribbean World Soma Bay (118 termínov) *****
   8. (3819) Faerské ostrovy (1 hotel)
