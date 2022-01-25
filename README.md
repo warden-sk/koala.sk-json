@@ -185,7 +185,7 @@
   32. (1608) Caribbean World Soma Bay (118 termínov) *****
   33. (162) Club Calimera Serra Palace (558 termínov) ******
   34. (1546) Club Esse Palmasera (200 termínov) ****+
-  35. (376) Club Hotel Angelini (54 termínov) ****
+  35. (376) Club Hotel Angelini (51 termínov) ****
   36. (1661) Club Mega Saray (1395 termínov) ******
   37. (1751) Condesa (108 termínov) 🆕 *****
   38. (1598) Constantinos the Great (3905 termínov) *****+
@@ -266,7 +266,7 @@
   113. (1545) Medena (328 termínov) ****
   114. (1686) Medena Superior Premium (126 termínov) ****
   115. (1672) Mediteran (140 termínov) 🆕 *****
-  116. (1744) Mediterraneo (36 termínov) 🆕 ***+
+  116. (1744) Mediterraneo (34 termínov) 🆕 ***+
   117. (326) Medžugorie - pútnický zájazd (4 termíny) **+
   118. (146) Melissa Kleopatra Beach (416 termínov) ***+
   119. (1752) Messonghi Beach (204 termínov) 🆕 ****
@@ -308,7 +308,7 @@
   155. (177) Rím KLASIK - poznávací zájazd (4 termíny) **
   156. (1615) Royal Park (361 termínov) *****
   157. (1707) Sahara Sunny by Valamar (20 termínov) ***+
-  158. (215) Salamis Bay Conti (4650 termínov) *****+
+  158. (215) Salamis Bay Conti (4686 termínov) *****+
   159. (1590) Santa Caterina (552 termínov) ****
   160. (1745) Santandrea Resort (138 termínov) 🆕 ****+
   161. (456) Sea Breeze (77 termínov) ***+
@@ -335,7 +335,7 @@
   182. (457) Tishina (260 termínov) ***+
   183. (294) Tiva del Mar (390 termínov) ****+
   184. (1597) Tsokkos Protaras Beach (3124 termínov) ****+
-  185. (1691) TYC (36 termínov) ***+
+  185. (1691) TYC (34 termínov) ***+
   186. (1703) Vrissiana Beach (3776 termínov) *****
   187. (1513) Water Side Resort & Spa (558 termínov) *****
   188. (1735) White Olive Elite Laganas (50 termínov) 🆕 *****+
@@ -568,7 +568,7 @@
     II. (176) Petrohrad De Luxe - poznávací zájazd (12 termínov) ***
   23. (1928) Severný Cyprus
     1. (1943) Famagusta (1 hotel)
-      I. (215) Salamis Bay Conti (4650 termínov) *****+
+      I. (215) Salamis Bay Conti (4686 termínov) *****+
     2. (1944) Kyrenia (2 hotely)
       I. (216) Acapulco Beach (781 termínov) *****+
       II. (1583) Acapulco Beach Family Bungalow Resort (781 termínov) *****+
@@ -603,11 +603,11 @@
     III. (177) Rím KLASIK - poznávací zájazd (4 termíny) **
     1. (1927) Jadranské pobrežie
       1. (3653) Bellaria (1 hotel)
-        I. (376) Club Hotel Angelini (54 termínov) ****
+        I. (376) Club Hotel Angelini (51 termínov) ****
       2. (3704) Cesenatico (1 hotel)
-        I. (1744) Mediterraneo (36 termínov) 🆕 ***+
+        I. (1744) Mediterraneo (34 termínov) 🆕 ***+
       3. (3651) Rimini (1 hotel)
-        I. (1691) TYC (36 termínov) ***+
+        I. (1691) TYC (34 termínov) ***+
     2. (79) Kalábria
       1. (1988) Marinella di Cutro (1 hotel)
         I. (1746) Serene Village (230 termínov) 🆕 ****+
