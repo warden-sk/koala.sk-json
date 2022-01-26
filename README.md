@@ -148,13 +148,13 @@
 
 ## hotels `JSON`
 
-  `195` hotelov
+  `196` hotelov
 
 ```
   1. (216) Acapulco Beach (781 termínov) *****+
   2. (1583) Acapulco Beach Family Bungalow Resort (781 termínov) *****+
-  3. (1729) Adaaran Club Rannalhi (32 termínov) 🆕 ****
-  4. (1730) Adaaran Select Hudhuran Fushi (32 termínov) 🆕 ****
+  3. (1729) Adaaran Club Rannalhi (8 termínov) 🆕 ****
+  4. (1730) Adaaran Select Hudhuran Fushi (8 termínov) 🆕 ****
   5. (1758) Adora Resort (470 termínov) 🆕 ******
   6. (108) Adriatic (64 termínov) ****
   7. (1587) Alaiye Resort (211 termínov) *****+
@@ -194,7 +194,7 @@
   41. (1676) Desert Rose (236 termínov) *****
   42. (1662) Dessole Dolphin Bay (231 termínov) ****+
   43. (313) Dessole Malia Beach (231 termínov) *****
-  44. (1732) Dhigufaru Island Resort (48 termínov) *****
+  44. (1732) Dhigufaru Island Resort (12 termínov) *****
   45. (1639) Do srdca nórskych fjordov - Poznávací zájazd (9 termínov) ***
   46. (1677) Dome Beach (3124 termínov) ****+
   47. (92) Donat (234 termínov) ***+
@@ -244,7 +244,7 @@
   91. (1657) Kaila Beach (211 termínov) *****
   92. (1655) Kaila City (211 termínov) ****
   93. (415) Kemal Bay (422 termínov) *****
-  94. (1728) Kihaa Maldives (32 termínov) 🆕 *****
+  94. (1728) Kihaa Maldives (8 termínov) 🆕 *****
   95. (1524) King Saron (52 termínov) ****+
   96. (1667) Kolymbia Sky (751 termínov) ****+
   97. (272) Korali (70 termínov) ***
@@ -258,7 +258,7 @@
   105. (1589) Limak Lara De Luxe (279 termínov) ******
   106. (345) Lindos Royal (302 termínov) *****
   107. (194) Lurdy - pútnický zájazd (10 termínov) ***
-  108. (1731) Malahini Kuda Bandos (32 termínov) ****
+  108. (1731) Malahini Kuda Bandos (8 termínov) ****
   109. (465) Malin (87 termínov) ****+
   110. (283) Marhaba Resort (174 termínov) ****
   111. (436) Marmorata Sea View Resort (200 termínov) ****
@@ -334,18 +334,19 @@
   181. (337) Tara (280 termínov) ****+
   182. (457) Tishina (260 termínov) ***+
   183. (294) Tiva del Mar (390 termínov) ****+
-  184. (1597) Tsokkos Protaras Beach (3124 termínov) ****+
-  185. (1691) TYC (34 termínov) ***+
-  186. (1703) Vrissiana Beach (3776 termínov) *****
-  187. (1513) Water Side Resort & Spa (558 termínov) *****
-  188. (1735) White Olive Elite Laganas (50 termínov) 🆕 *****+
-  189. (1734) White Olive Premium Cameo (75 termínov) 🆕 ****+
-  190. (276) Wyndham Grand Novi Vinodolski Resort de luxe Apartmány (29 termínov) ****
-  191. (277) Wyndham Grand Novi Vinodolski Resort hotel (80 termínov) *****
-  192. (69) Wyndham Grand Novi Vinodolski Resort Premium Apartmány (87 termínov) ****
-  193. (60) Zante Imperial Beach (125 termínov) ****
-  194. (496) Zante Royal Resort (100 termínov) ****
-  195. (112) Zora (78 termínov) ****
+  184. (1642) Tropitel Sahl Hasheesh (236 termínov) ******
+  185. (1597) Tsokkos Protaras Beach (3124 termínov) ****+
+  186. (1691) TYC (34 termínov) ***+
+  187. (1703) Vrissiana Beach (3776 termínov) *****
+  188. (1513) Water Side Resort & Spa (558 termínov) *****
+  189. (1735) White Olive Elite Laganas (50 termínov) 🆕 *****+
+  190. (1734) White Olive Premium Cameo (75 termínov) 🆕 ****+
+  191. (276) Wyndham Grand Novi Vinodolski Resort de luxe Apartmány (29 termínov) ****
+  192. (277) Wyndham Grand Novi Vinodolski Resort hotel (80 termínov) *****
+  193. (69) Wyndham Grand Novi Vinodolski Resort Premium Apartmány (87 termínov) ****
+  194. (60) Zante Imperial Beach (125 termínov) ****
+  195. (496) Zante Royal Resort (100 termínov) ****
+  196. (112) Zora (78 termínov) ****
 ```
 
 ## tree `JSON`
@@ -411,8 +412,9 @@
         I. (1646) Sea Star Beau Rivage (59 termínov) *****
     2. (596) Makadi Bay (1 hotel)
       I. (1675) Stella Di Mare Beach Resort & Spa (236 termínov) *****
-    3. (1915) Sahl Hasheesh (1 hotel)
+    3. (1915) Sahl Hasheesh (2 hotely)
       I. (1747) Premier Le Reve Hotel & Spa (118 termínov) 🆕 ******
+      II. (1642) Tropitel Sahl Hasheesh (236 termínov) ******
     4. (105) Soma Bay (1 hotel)
       I. (1608) Caribbean World Soma Bay (118 termínov) *****
   8. (3819) Faerské ostrovy (1 hotel)
@@ -545,15 +547,15 @@
     I. (1634) Libanon Švajčiarsko Blízkeho východu De Luxe - poznávací zájazd (4 termíny) ***
   18. (3786) Maldivy
     1. (3796) Atol Baa - Dhigufaru (1 hotel)
-      I. (1732) Dhigufaru Island Resort (48 termínov) *****
+      I. (1732) Dhigufaru Island Resort (12 termínov) *****
     2. (3800) Atol Baa - Kidhaadhufaaru (1 hotel)
-      I. (1728) Kihaa Maldives (32 termínov) 🆕 *****
+      I. (1728) Kihaa Maldives (8 termínov) 🆕 *****
     3. (3801) Atol Južný Male - Ran-naalhi (1 hotel)
-      I. (1729) Adaaran Club Rannalhi (32 termínov) 🆕 ****
+      I. (1729) Adaaran Club Rannalhi (8 termínov) 🆕 ****
     4. (3802) Atol Severný Male - Lhohifushi (1 hotel)
-      I. (1730) Adaaran Select Hudhuran Fushi (32 termínov) 🆕 ****
+      I. (1730) Adaaran Select Hudhuran Fushi (8 termínov) 🆕 ****
     5. (3787) Male (1 hotel)
-      I. (1731) Malahini Kuda Bandos (32 termínov) ****
+      I. (1731) Malahini Kuda Bandos (8 termínov) ****
   19. (3803) Mexiko
     1. (3804) Cancún - RIVIERA MAYA (1 hotel)
       I. (1733) BARCELÓ Maya Grand Resort (16 termínov) 🆕 ******
