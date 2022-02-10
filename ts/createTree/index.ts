@@ -21,7 +21,7 @@ export interface SearchInput {
   transportationId?: number[] | number;
 }
 
-class Tree {
+export class Tree {
   destinations: EnhancedDestination[];
 
   constructor(destinations: Destination[]) {
