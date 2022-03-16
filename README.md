@@ -4,7 +4,7 @@
 
 ## destinations `JSON`
 
-  `134` destinácií
+  `133` destinácií
 
 ```
   1. (3781) Adelianos Kampos
@@ -101,51 +101,50 @@
   92. (1985) Novi Vinodolski
   93. (1947) Okurcalar
   94. (3764) Olympská riviéra
-  95. (3789) ostrov Rab
-  96. (142) Palmanova
-  97. (3567) Pefki
-  98. (3731) Peloponéz
-  99. (3785) Playa Bávaro
-  100. (3817) Playa de Muro - Alcúdia
-  101. (602) Pomorie
-  102. (69) Portugalsko
-  103. (3746) Praia a Mare
-  104. (3703) Primorsko
-  105. (3727) Protaras
-  106. (1929) Rabac
-  107. (2002) Ras Al Khaimah
-  108. (88) Rhodos
-  109. (3651) Rimini
-  110. (3689) S‘Illot
-  111. (1915) Sahl Hasheesh
-  112. (3813) Sant‘Andrea Apostolo dello Ionio
-  113. (3695) Santa Teresa Gallura
-  114. (1925) Sardínia
-  115. (3766) Scalea
-  116. (1928) Severný Cyprus
-  117. (158) Side
-  118. (573) Slnečné pobrežie
-  119. (105) Soma Bay
-  120. (3818) Sorgun Titreyengol
-  121. (600) Sousse
-  122. (1922) Spojené arabské emiráty
-  123. (173) Stredná Dalmácia
-  124. (100) Sutomore
-  125. (572) Sveti Vlas
-  126. (70) Španielsko
-  127. (1926) Španielsko pevnina
-  128. (78) Taliansko
-  129. (3765) Titreyengol
-  130. (3809) Tsilivi
-  131. (71) Tunisko
-  132. (72) Turecko
-  133. (1924) Vassilikos
-  134. (90) Zakynthos
+  95. (142) Palmanova
+  96. (3567) Pefki
+  97. (3731) Peloponéz
+  98. (3785) Playa Bávaro
+  99. (3817) Playa de Muro - Alcúdia
+  100. (602) Pomorie
+  101. (69) Portugalsko
+  102. (3746) Praia a Mare
+  103. (3703) Primorsko
+  104. (3727) Protaras
+  105. (1929) Rabac
+  106. (2002) Ras Al Khaimah
+  107. (88) Rhodos
+  108. (3651) Rimini
+  109. (3689) S‘Illot
+  110. (1915) Sahl Hasheesh
+  111. (3813) Sant‘Andrea Apostolo dello Ionio
+  112. (3695) Santa Teresa Gallura
+  113. (1925) Sardínia
+  114. (3766) Scalea
+  115. (1928) Severný Cyprus
+  116. (158) Side
+  117. (573) Slnečné pobrežie
+  118. (105) Soma Bay
+  119. (3818) Sorgun Titreyengol
+  120. (600) Sousse
+  121. (1922) Spojené arabské emiráty
+  122. (173) Stredná Dalmácia
+  123. (100) Sutomore
+  124. (572) Sveti Vlas
+  125. (70) Španielsko
+  126. (1926) Španielsko pevnina
+  127. (78) Taliansko
+  128. (3765) Titreyengol
+  129. (3809) Tsilivi
+  130. (71) Tunisko
+  131. (72) Turecko
+  132. (1924) Vassilikos
+  133. (90) Zakynthos
 ```
 
 ## hotels `JSON`
 
-  `198` hotelov
+  `197` hotelov
 
 ```
   1. (216) Acapulco Beach (781 termínov) *****+
@@ -306,46 +305,45 @@
   156. (178) Rím De Luxe - poznávací zájazd (4 termíny) ***
   157. (177) Rím KLASIK - poznávací zájazd (4 termíny) **
   158. (1615) Royal Park (361 termínov) *****
-  159. (1707) Sahara Sunny by Valamar (20 termínov) ***+
-  160. (215) Salamis Bay Conti (4686 termínov) *****+
-  161. (1590) Santa Caterina (552 termínov) ****
-  162. (1745) Santandrea Resort (138 termínov) 🆕 ****+
-  163. (456) Sea Breeze (77 termínov) ***+
-  164. (1646) Sea Star Beau Rivage (30 termínov) *****
-  165. (175) Sedem divov Islandu - poznávací zájazd (12 termínov) 
-  166. (1760) Sentido Sandy Beach (748 termínov) 🆕 ****+
-  167. (1746) Serene Village (230 termínov) 🆕 ****+
-  168. (153) Serra Garden (882 termínov) *****
-  169. (1512) Serra Park (882 termínov) ****+
-  170. (1756) Sol by Melia (168 termínov) 🆕 *****
-  171. (1709) Sol Palmanova (108 termínov) 🆕 ****+
-  172. (1757) Sorgun Akadia Luxury (441 termínov) 🆕 ******
-  173. (1679) St. Raphael Resort (1496 termínov) *****+
-  174. (1675) Stella Di Mare Beach Resort & Spa (120 termínov) *****
-  175. (1736) Strofades (100 termínov) 🆕 ****
-  176. (1738) Summer Beach Hotel (154 termínov) 🆕 ****
-  177. (1511) Sun Beach Park (441 termínov) ****+
-  178. (1684) Sunny Side (97 termínov) ****+
-  179. (84) Sunset Resort (420 termínov) ******
-  180. (1626) Sv. Charbel a Libanon - pútnický zájazd (2 termíny) ***
-  181. (1588) Swandor Topkapi Palace (1254 termínov) ******
-  182. (410) Tac Premier (441 termínov) ****+
-  183. (337) Tara (280 termínov) ****+
-  184. (457) Tishina (260 termínov) ***+
-  185. (294) Tiva del Mar (390 termínov) ****+
-  186. (1642) Tropitel Sahl Hasheesh (120 termínov) ******
-  187. (1597) Tsokkos Protaras Beach (2992 termínov) ****+
-  188. (1691) TYC (32 termínov) ***+
-  189. (1703) Vrissiana Beach (3611 termínov) *****
-  190. (1513) Water Side Resort & Spa (752 termínov) *****
-  191. (1735) White Olive Elite Laganas (100 termínov) 🆕 *****+
-  192. (1734) White Olive Premium Cameo (75 termínov) 🆕 ****+
-  193. (276) Wyndham Grand Novi Vinodolski Resort de luxe Apartmány (29 termínov) ****
-  194. (277) Wyndham Grand Novi Vinodolski Resort hotel (80 termínov) *****
-  195. (69) Wyndham Grand Novi Vinodolski Resort Premium Apartmány (87 termínov) ****
-  196. (60) Zante Imperial Beach (125 termínov) ****
-  197. (496) Zante Royal Resort (100 termínov) ****
-  198. (112) Zora (74 termínov) ****
+  159. (215) Salamis Bay Conti (4686 termínov) *****+
+  160. (1590) Santa Caterina (552 termínov) ****
+  161. (1745) Santandrea Resort (138 termínov) 🆕 ****+
+  162. (456) Sea Breeze (77 termínov) ***+
+  163. (1646) Sea Star Beau Rivage (30 termínov) *****
+  164. (175) Sedem divov Islandu - poznávací zájazd (12 termínov) 
+  165. (1760) Sentido Sandy Beach (748 termínov) 🆕 ****+
+  166. (1746) Serene Village (230 termínov) 🆕 ****+
+  167. (153) Serra Garden (882 termínov) *****
+  168. (1512) Serra Park (882 termínov) ****+
+  169. (1756) Sol by Melia (168 termínov) 🆕 *****
+  170. (1709) Sol Palmanova (108 termínov) 🆕 ****+
+  171. (1757) Sorgun Akadia Luxury (441 termínov) 🆕 ******
+  172. (1679) St. Raphael Resort (1496 termínov) *****+
+  173. (1675) Stella Di Mare Beach Resort & Spa (120 termínov) *****
+  174. (1736) Strofades (100 termínov) 🆕 ****
+  175. (1738) Summer Beach Hotel (154 termínov) 🆕 ****
+  176. (1511) Sun Beach Park (441 termínov) ****+
+  177. (1684) Sunny Side (97 termínov) ****+
+  178. (84) Sunset Resort (420 termínov) ******
+  179. (1626) Sv. Charbel a Libanon - pútnický zájazd (2 termíny) ***
+  180. (1588) Swandor Topkapi Palace (1254 termínov) ******
+  181. (410) Tac Premier (441 termínov) ****+
+  182. (337) Tara (280 termínov) ****+
+  183. (457) Tishina (260 termínov) ***+
+  184. (294) Tiva del Mar (390 termínov) ****+
+  185. (1642) Tropitel Sahl Hasheesh (120 termínov) ******
+  186. (1597) Tsokkos Protaras Beach (2992 termínov) ****+
+  187. (1691) TYC (32 termínov) ***+
+  188. (1703) Vrissiana Beach (3611 termínov) *****
+  189. (1513) Water Side Resort & Spa (752 termínov) *****
+  190. (1735) White Olive Elite Laganas (100 termínov) 🆕 *****+
+  191. (1734) White Olive Premium Cameo (75 termínov) 🆕 ****+
+  192. (276) Wyndham Grand Novi Vinodolski Resort de luxe Apartmány (29 termínov) ****
+  193. (277) Wyndham Grand Novi Vinodolski Resort hotel (80 termínov) *****
+  194. (69) Wyndham Grand Novi Vinodolski Resort Premium Apartmány (87 termínov) ****
+  195. (60) Zante Imperial Beach (125 termínov) ****
+  196. (496) Zante Royal Resort (100 termínov) ****
+  197. (112) Zora (74 termínov) ****
 ```
 
 ## tree `JSON`
@@ -531,9 +529,7 @@
         I. (276) Wyndham Grand Novi Vinodolski Resort de luxe Apartmány (29 termínov) ****
         II. (277) Wyndham Grand Novi Vinodolski Resort hotel (80 termínov) *****
         III. (69) Wyndham Grand Novi Vinodolski Resort Premium Apartmány (87 termínov) ****
-      6. (3789) ostrov Rab (1 hotel)
-        I. (1707) Sahara Sunny by Valamar (20 termínov) ***+
-      7. (1929) Rabac (2 hotely)
+      6. (1929) Rabac (2 hotely)
         I. (88) Hedera (60 termínov) ****
         II. (87) Mimosa (20 termínov) ****
   14. (562) Írsko (1 hotel)
