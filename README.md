@@ -273,21 +273,21 @@
   124. (1752) Messonghi Beach (204 termínov) 🆕 ****
   125. (87) Mimosa (20 termínov) ****
   126. (444) Miramar Calafell (75 termínov) ****
-  127. (1637) Mýtický Peloponéz De Luxe - poznávací zájazd (4 termíny) ***
-  128. (470) Najkrajšie miesta a fjordy Nórska - poznávací zájazd (12 termínov) 
-  129. (404) Nelia Beach (1857 termínov) ****+
-  130. (412) Nerton (441 termínov) *****
-  131. (231) Nicotera Beach (184 termínov) ****+
-  132. (348) Nubia Aqua Beach Resort (60 termínov) *****
-  133. (1515) Numa Bay Exclusive (441 termínov) *****+
-  134. (113) Olympia (70 termínov) *****
-  135. (1580) Olympian Bay Grand Resort (400 termínov) *****
-  136. (344) Olympos Beach (453 termínov) *****
-  137. (1740) Out Of The Blue (231 termínov) 🆕 *****+
-  138. (61) Palazzo di Zante (100 termínov) ****
-  139. (173) Paríž KLASIK - poznávací zájazd (6 termínov) ***
-  140. (143) Pegasos Beach (1026 termínov) *****
-  141. (431) Peymar (135 termínov) ***+
+  127. (431) Mix Peymar (135 termínov) ***+
+  128. (1637) Mýtický Peloponéz De Luxe - poznávací zájazd (4 termíny) ***
+  129. (470) Najkrajšie miesta a fjordy Nórska - poznávací zájazd (12 termínov) 
+  130. (404) Nelia Beach (1857 termínov) ****+
+  131. (412) Nerton (441 termínov) *****
+  132. (231) Nicotera Beach (184 termínov) ****+
+  133. (348) Nubia Aqua Beach Resort (60 termínov) *****
+  134. (1515) Numa Bay Exclusive (441 termínov) *****+
+  135. (113) Olympia (70 termínov) *****
+  136. (1580) Olympian Bay Grand Resort (400 termínov) *****
+  137. (344) Olympos Beach (453 termínov) *****
+  138. (1740) Out Of The Blue (231 termínov) 🆕 *****+
+  139. (61) Palazzo di Zante (100 termínov) ****
+  140. (173) Paríž KLASIK - poznávací zájazd (6 termínov) ***
+  141. (143) Pegasos Beach (1026 termínov) *****
   142. (107) Pinija (110 termínov) ****+
   143. (454) Plovdiv (224 termínov) ***
   144. (257) Po stopách sv. pátra Pia - pútnický zájazd (4 termíny) ***
@@ -585,7 +585,7 @@
       3. (3817) Playa de Muro - Alcúdia (1 hotel)
         I. (1751) Condesa (108 termínov) 🆕 *****
       4. (3689) S‘Illot (1 hotel)
-        I. (431) Peymar (135 termínov) ***+
+        I. (431) Mix Peymar (135 termínov) ***+
     2. (1926) Španielsko pevnina
       1. (3700) Calafell (1 hotel)
         I. (444) Miramar Calafell (75 termínov) ****
