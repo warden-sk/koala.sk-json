@@ -38,10 +38,7 @@ class EnhancedHotel implements Omit<Hotel, 'terms'> {
     this.videoId = hotel.videoId;
   }
 
-  breadcrumbs<T>(
-    destination: EnhancedDestination | undefined,
-    on: (destination: EnhancedDestination) => number = destination => destination.id
-  ): number[] {
+  breadcrumbs<T>(destination: EnhancedDestination | undefined, on: (destination: EnhancedDestination) => T): T[] {
     return destination ? [...this.breadcrumbs(destination.parent, on), on(destination)] : [];
   }
 
