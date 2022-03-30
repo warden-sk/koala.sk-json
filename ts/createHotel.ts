@@ -30,10 +30,10 @@ function createHotel(): Hotel {
     name: 'Test Hotel',
     parentId: 0,
     photoId: 0,
-    serviceId: 0,
+    serviceId: 672,
     stars: 2.5,
     terms: [createHotelTerm()],
-    type: 0,
+    type: 3,
   };
 }
 
