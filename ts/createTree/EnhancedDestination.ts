@@ -43,7 +43,7 @@ class EnhancedDestination implements Omit<Destination, 'destinations' | 'hotels'
 
   hotels(recursion = false): EnhancedHotel[] {
     if (recursion) {
-      let hotels = [...this.#hotels];
+      let hotels: EnhancedHotel[] = [...this.#hotels];
 
       return (function $(destination: EnhancedDestination): EnhancedHotel[] {
         destination.destinations.forEach(destination => {
