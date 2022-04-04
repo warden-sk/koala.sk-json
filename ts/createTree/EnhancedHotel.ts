@@ -46,6 +46,33 @@ class EnhancedHotel implements Omit<Hotel, 'terms'> {
     return new EnhancedHotelTerm(hotelTerm, this);
   };
 
+  decodeServiceId(): string {
+    const ids: { [id: number]: string } = {
+      403: 'raňajky',
+      406: 'All Inclusive',
+      672: 'Ultra All Inclusive',
+      1043: 'All Inclusive Light',
+      1109: 'polpenzia ULTRA',
+    };
+
+    return ids[this.serviceId];
+  }
+
+  decodeType(): string {
+    const types: { [type: number]: string } = {
+      3: 'hotel',
+      4: 'penzión',
+      11: 'hotelový komplex',
+      13: 'pavilóny',
+      15: 'vilky hotela',
+      17: 'dependance hotela',
+      48: 'apartmány',
+      51: 'turistický hotel',
+    };
+
+    return types[this.type];
+  }
+
   firstTerm(): EnhancedHotelTerm | undefined {
     return this.terms[0];
   }
