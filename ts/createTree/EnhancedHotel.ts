@@ -49,6 +49,7 @@ class EnhancedHotel implements Omit<Hotel, 'terms'> {
   decodeServiceId(): string {
     const ids: { [id: number]: string } = {
       403: 'raňajky',
+      404: 'polpenzia',
       406: 'All Inclusive',
       672: 'Ultra All Inclusive',
       1043: 'All Inclusive Light',
