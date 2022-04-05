@@ -157,7 +157,7 @@
   17. (407) Aristoteles Beach (200 termínov) ****
   18. (1624) Arménsko a jeho krásy De Luxe - poznávací zájazd (4 termíny) ***
   19. (158) Aska Just in Beach (441 termínov) *****+
-  20. (1764) Aurora (81 termínov) 🆕 ***
+  20. (1764) Aurora (80 termínov) 🆕 ***
   21. (1750) Bakour Garbi (108 termínov) 🆕 ****+
   22. (1560) Belconti Resort (1323 termínov) ******
   23. (119) Blue Sea (250 termínov) ***
@@ -227,7 +227,7 @@
   87. (1524) King Saron (52 termínov) ****+
   88. (1667) Kolymbia Sky (751 termínov) ****+
   89. (272) Korali (70 termínov) ***
-  90. (76) Kotva (71 termínov) ****+
+  90. (76) Kotva (124 termínov) ****+
   91. (1742) Labranda Blue Bay (356 termínov) 🆕 *****
   92. (1743) Labranda Kiotari Miraluna (596 termínov) 🆕 *****
   93. (121) Labranda Sandy Beach Resort (335 termínov) *****
@@ -353,7 +353,7 @@
       I. (81) Dunav (154 termínov) ****
       II. (82) Chaika Beach Resort (396 termínov) ****
       III. (1695) Imperial Palace (432 termínov) *****
-      IV. (76) Kotva (71 termínov) ****+
+      IV. (76) Kotva (124 termínov) ****+
       V. (456) Sea Breeze (77 termínov) ***+
     5. (572) Sveti Vlas (1 hotel)
       I. (294) Tiva del Mar (390 termínov) ****+
@@ -463,7 +463,7 @@
   12. (65) Chorvátsko
     1. (1963) Dalmácia
       1. (174) Južná Dalmácia (3 hotely)
-        I. (1764) Aurora (81 termínov) 🆕 ***
+        I. (1764) Aurora (80 termínov) 🆕 ***
         II. (114) Brzet (44 termínov) ***+
         III. (1762) Labranda Senses Resort (18 termínov) 🆕 ****
       2. (173) Stredná Dalmácia (15 hotelov)
