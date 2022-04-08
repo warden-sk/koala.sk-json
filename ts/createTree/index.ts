@@ -70,7 +70,9 @@ export class Tree {
 
     return hotels.filter(hotel =>
       destinationId
-        ? hotel.breadcrumbs(hotel.parent).findIndex(breadcrumb => breadcrumb === destinationId) !== -1
+        ? hotel
+            .breadcrumbs(hotel.parent, destination => destination.id)
+            .findIndex(breadcrumb => breadcrumb === destinationId) !== -1
         : true
     );
   }
