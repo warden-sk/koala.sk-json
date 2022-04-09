@@ -46,9 +46,9 @@ class EnhancedHotelTerm implements Omit<HotelTerm, 'date'> {
     return this.price >= from && this.price <= to;
   }
 
-  hasTransportationId(transportationId: number): boolean {
+  hasTransportationId = (transportationId: number): boolean => {
     return this.transportationId === transportationId;
-  }
+  };
 }
 
 export default EnhancedHotelTerm;

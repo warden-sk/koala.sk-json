@@ -82,13 +82,13 @@ class EnhancedHotel implements Omit<Hotel, 'terms'> {
     return this.terms.filter(term => term.hasDiscount())[0];
   }
 
-  hasServiceId(serviceId: number): boolean {
+  hasServiceId = (serviceId: number): boolean => {
     return this.serviceId === serviceId;
-  }
+  };
 
-  hasStars(stars: number): boolean {
+  hasStars = (stars: number): boolean => {
     return this.stars === stars || this.stars === stars + 0.5;
-  }
+  };
 
   hasTerms(): boolean {
     return this.terms.length > 0;
