@@ -17,6 +17,7 @@ export interface SearchInput {
   destinationId?: number;
   name?: string;
   price?: [from: number, to: number];
+  serviceId?: number[] | number;
   stars?: number[] | number;
   transportationId?: number[] | number;
 }
@@ -32,11 +33,18 @@ export class Tree {
     return new EnhancedDestination(destination);
   };
 
-  search({ days, destinationId, name, price, stars, transportationId }: SearchInput = {}): EnhancedHotel[] {
+  search({ days, destinationId, name, price, serviceId, stars, transportationId }: SearchInput = {}): EnhancedHotel[] {
     const filterConditions: FilterConditions = {
       hotel: [
         // has name
         hotel => (name ? new RegExp(name).test(hotel.name) : true),
+        // has serviceId
+        hotel =>
+          serviceId
+            ? Array.isArray(serviceId)
+              ? serviceId.findIndex(hotel.hasServiceId) !== -1
+              : hotel.hasServiceId(serviceId)
+            : true,
         // has stars
         hotel =>
           stars ? (Array.isArray(stars) ? stars.findIndex(hotel.hasStars) !== -1 : hotel.hasStars(stars)) : true,
