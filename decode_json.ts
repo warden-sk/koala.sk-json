@@ -8,8 +8,7 @@ type Test<T> = T extends readonly unknown[]
   ? { [K in keyof T]: Test<T[K]> }
   : T extends object
   ? {
-      // @ts-ignore
-      [K in keyof T as typeof keys[K] extends string ? typeof keys[K] : K]: Test<T[K]>;
+      [K in keyof T as K extends keyof typeof keys ? typeof keys[K] : K]: Test<T[K]>;
     }
   : T;
 
