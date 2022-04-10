@@ -56,7 +56,7 @@ class EnhancedHotel implements Omit<Hotel, 'terms'> {
       1109: 'polpenzia ULTRA',
     };
 
-    return ids[this.serviceId];
+    return ids[this.serviceId] ?? this.serviceId.toString();
   }
 
   decodeType(): string {
@@ -71,15 +71,7 @@ class EnhancedHotel implements Omit<Hotel, 'terms'> {
       51: 'turistický hotel',
     };
 
-    return types[this.type];
-  }
-
-  firstTerm(): EnhancedHotelTerm | undefined {
-    return this.terms[0];
-  }
-
-  firstTermWithDiscount(): EnhancedHotelTerm | undefined {
-    return this.terms.filter(term => term.hasDiscount())[0];
+    return types[this.type] ?? this.type.toString();
   }
 
   hasServiceId = (serviceId: number): boolean => {
@@ -92,6 +84,10 @@ class EnhancedHotel implements Omit<Hotel, 'terms'> {
 
   hasTerms(): boolean {
     return this.terms.length > 0;
+  }
+
+  searchTerm(): EnhancedHotelTerm | undefined {
+    return this.terms[0];
   }
 }
 
