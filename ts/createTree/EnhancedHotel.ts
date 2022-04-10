@@ -6,6 +6,7 @@ import EnhancedDestination from './EnhancedDestination';
 import EnhancedHotelTerm from './EnhancedHotelTerm';
 import { Hotel } from '../createHotel';
 import { HotelTerm } from '../createHotelTerm';
+import { SearchInput } from './index';
 
 class EnhancedHotel implements Omit<Hotel, 'terms'> {
   category: number;
@@ -86,7 +87,7 @@ class EnhancedHotel implements Omit<Hotel, 'terms'> {
     return this.terms.length > 0;
   }
 
-  searchTerm(): EnhancedHotelTerm | undefined {
+  searchTerm({ days, price, transportationId }: SearchInput = {}): EnhancedHotelTerm | undefined {
     return this.terms[0];
   }
 }
