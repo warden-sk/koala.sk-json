@@ -2,6 +2,8 @@
  * Copyright 2022 Marek Kobida
  */
 
+import keys from './keys';
+
 type T0<T1> = T1 extends any[]
   ? { [K in keyof T1]: T0<T1[K]> }
   : T1 extends object
@@ -19,31 +21,6 @@ export function encode_json<T1>(json: T1): T0<T1>;
 export function encode_json<T1>(json: T1) {
   return test(json, k => alphabet[keys.indexOf(k)] || k);
 }
-
-const keys: string[] = [
-  'category',
-  'date',
-  'days',
-  'destinations',
-  'discount',
-  'equipment',
-  'hotels',
-  'id',
-  'isNew',
-  'latitude',
-  'level',
-  'longitude',
-  'name',
-  'parentId',
-  'photoId',
-  'price',
-  'serviceId',
-  'stars',
-  'terms',
-  'transportationId',
-  'type',
-  'videoId',
-];
 
 function test<T1>(json: T1, $: (k: string) => string): T0<T1>;
 function test<T1>(json: T1, $: (k: string) => string) {

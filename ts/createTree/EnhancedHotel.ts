@@ -57,7 +57,7 @@ class EnhancedHotel implements Omit<Hotel, 'terms'> {
       1109: 'polpenzia ULTRA',
     };
 
-    return ids[this.serviceId] ?? this.serviceId.toString();
+    return ids[this.serviceId];
   }
 
   decodeType(): string {
@@ -72,7 +72,7 @@ class EnhancedHotel implements Omit<Hotel, 'terms'> {
       51: 'turistický hotel',
     };
 
-    return types[this.type] ?? this.type.toString();
+    return types[this.type];
   }
 
   hasServiceId = (serviceId: number): boolean => {
