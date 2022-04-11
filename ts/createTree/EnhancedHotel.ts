@@ -75,6 +75,10 @@ class EnhancedHotel implements Omit<Hotel, 'terms'> {
     return types[this.type];
   }
 
+  hasCategory = (category: number): boolean => {
+    return this.category === category;
+  };
+
   hasServiceId = (serviceId: number): boolean => {
     return this.serviceId === serviceId;
   };
@@ -88,6 +92,8 @@ class EnhancedHotel implements Omit<Hotel, 'terms'> {
   }
 
   searchTerm({ days, price, transportationId }: SearchInput = {}): EnhancedHotelTerm | undefined {
+    console.log('EnhancedHotel.searchTerm', days, price, transportationId);
+
     return this.terms[0];
   }
 }
