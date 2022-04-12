@@ -16,6 +16,7 @@ export interface SearchInput {
   category?: number[] | number;
   days?: [from: number, to: number];
   destinationId?: number;
+  hasDiscount?: boolean;
   name?: string;
   price?: [from: number, to: number];
   serviceId?: number[] | number;
@@ -38,6 +39,7 @@ export class Tree {
     category,
     days,
     destinationId,
+    hasDiscount,
     name,
     price,
     serviceId,
@@ -69,6 +71,8 @@ export class Tree {
       hotelTerm: [
         // has days
         hotelTerm => (days ? hotelTerm.hasDays(days[0], days[1]) : true),
+        // has discount
+        hotelTerm => (hasDiscount ? hotelTerm.hasDiscount() : true),
         // has price
         hotelTerm => (price ? hotelTerm.hasPrice(price[0], price[1]) : true),
         // has transportationId

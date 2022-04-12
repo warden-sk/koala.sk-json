@@ -92,8 +92,6 @@ class EnhancedHotel implements Omit<Hotel, 'terms'> {
   }
 
   searchTerm({ days, price, transportationId }: SearchInput = {}): EnhancedHotelTerm | undefined {
-    console.log('EnhancedHotel.searchTerm', days, price, transportationId);
-
     return this.terms[0];
   }
 }
