@@ -221,7 +221,7 @@
   80. (189) Izrael a Petra De Luxe - poznávací zájazd (8 termínov) ***
   81. (1767) Jordánsko a jeho skvosty De Luxe - poznávací zájazd (4 termíny) ***
   82. (157) Justiniano Park Conti (882 termínov) *****+
-  83. (56) Kacjak (50 termínov) **+
+  83. (56) Kacjak (52 termínov) **+
   84. (1657) Kaila Beach (441 termínov) *****
   85. (1655) Kaila City (441 termínov) ****
   86. (1524) King Saron (52 termínov) ****+
@@ -319,7 +319,7 @@
   178. (1734) White Olive Premium Cameo (75 termínov) 🆕 ****+
   179. (276) Wyndham Grand Novi Vinodolski Resort de luxe Apartmány (29 termínov) ****
   180. (277) Wyndham Grand Novi Vinodolski Resort hotel (80 termínov) *****
-  181. (69) Wyndham Grand Novi Vinodolski Resort Premium Apartmány (84 termínov) ****
+  181. (69) Wyndham Grand Novi Vinodolski Resort Premium Apartmány (87 termínov) ****
   182. (60) Zante Imperial Beach (125 termínov) ****
   183. (496) Zante Royal Resort (100 termínov) ****
   184. (112) Zora (74 termínov) ****
@@ -486,7 +486,7 @@
         XV. (112) Zora (74 termínov) ****
     2. (172) Istria 🧭
       1. (568) Crikvenica (1 hotel)
-        I. (56) Kacjak (50 termínov) **+
+        I. (56) Kacjak (52 termínov) **+
       2. (3705) Krk, Malinska (1 hotel)
         I. (465) Malin (84 termínov) ****+
       3. (3782) Krk, Punat (1 hotel)
@@ -497,7 +497,7 @@
       5. (1985) Novi Vinodolski (3 hotely)
         I. (276) Wyndham Grand Novi Vinodolski Resort de luxe Apartmány (29 termínov) ****
         II. (277) Wyndham Grand Novi Vinodolski Resort hotel (80 termínov) *****
-        III. (69) Wyndham Grand Novi Vinodolski Resort Premium Apartmány (84 termínov) ****
+        III. (69) Wyndham Grand Novi Vinodolski Resort Premium Apartmány (87 termínov) ****
       6. (1929) Rabac (2 hotely)
         I. (88) Hedera (60 termínov) ****
         II. (87) Mimosa (20 termínov) ****
