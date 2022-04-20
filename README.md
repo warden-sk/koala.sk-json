@@ -185,8 +185,8 @@
   44. (134) Evi (342 termínov) ***
   45. (1766) Faerské ostrovy severský raj - poznávací zájazd (6 termínov) ****
   46. (1753) Fafa Premium Resort (252 termínov) 🆕 ****+
-  47. (1765) Falkensteiner Club Funimation Borik (69 termínov) 🆕 ****+
-  48. (1682) Falkensteiner Park Punat (112 termínov) ****
+  47. (1765) Falkensteiner Club Funimation Borik (66 termínov) 🆕 ****+
+  48. (1682) Falkensteiner Park Punat (104 termínov) ****
   49. (192) Fatima a Santiago de Compostela  - pútnický zájazd (4 termíny) ***
   50. (1754) Fllad Resort & Spa (126 termínov) 🆕 ****+
   51. (1674) Golden Beach Resort (52 termínov) *****
@@ -317,8 +317,8 @@
   176. (1513) Water Side Resort & Spa (752 termínov) *****
   177. (1735) White Olive Elite Laganas (100 termínov) 🆕 *****+
   178. (1734) White Olive Premium Cameo (75 termínov) 🆕 ****+
-  179. (276) Wyndham Grand Novi Vinodolski Resort de luxe Apartmány (28 termínov) ****
-  180. (277) Wyndham Grand Novi Vinodolski Resort hotel (77 termínov) *****
+  179. (276) Wyndham Grand Novi Vinodolski Resort de luxe Apartmány (29 termínov) ****
+  180. (277) Wyndham Grand Novi Vinodolski Resort hotel (80 termínov) *****
   181. (69) Wyndham Grand Novi Vinodolski Resort Premium Apartmány (84 termínov) ****
   182. (60) Zante Imperial Beach (125 termínov) ****
   183. (496) Zante Royal Resort (100 termínov) ****
@@ -473,7 +473,7 @@
         II. (1685) Apartmány Medena Superior (60 termínov) ****
         III. (1602) Apartmány Medena štandard plus (122 termínov) ***+
         IV. (92) Donat (222 termínov) ***+
-        V. (1765) Falkensteiner Club Funimation Borik (69 termínov) 🆕 ****+
+        V. (1765) Falkensteiner Club Funimation Borik (66 termínov) 🆕 ****+
         VI. (1683) Imperial - Lucija (122 termínov) ***+
         VII. (308) Imperial hotel (148 termínov) ****
         VIII. (490) Imperial villas (122 termínov) ***+
@@ -490,13 +490,13 @@
       2. (3705) Krk, Malinska (1 hotel)
         I. (465) Malin (81 termínov) ****+
       3. (3782) Krk, Punat (1 hotel)
-        I. (1682) Falkensteiner Park Punat (112 termínov) ****
+        I. (1682) Falkensteiner Park Punat (104 termínov) ****
       4. (3008) Krk,Njivice (2 hotely)
         I. (1681) Aminess Magal (126 termínov) ***+
         II. (274) Aminess Veya (84 termínov) ***+
       5. (1985) Novi Vinodolski (3 hotely)
-        I. (276) Wyndham Grand Novi Vinodolski Resort de luxe Apartmány (28 termínov) ****
-        II. (277) Wyndham Grand Novi Vinodolski Resort hotel (77 termínov) *****
+        I. (276) Wyndham Grand Novi Vinodolski Resort de luxe Apartmány (29 termínov) ****
+        II. (277) Wyndham Grand Novi Vinodolski Resort hotel (80 termínov) *****
         III. (69) Wyndham Grand Novi Vinodolski Resort Premium Apartmány (84 termínov) ****
       6. (1929) Rabac (2 hotely)
         I. (88) Hedera (60 termínov) ****
