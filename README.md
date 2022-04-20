@@ -250,7 +250,7 @@
   109. (146) Melissa Kleopatra Beach (876 termínov) ***+
   110. (1752) Messonghi Beach (201 termínov) 🆕 ****
   111. (87) Mimosa (20 termínov) ****
-  112. (444) Miramar Calafell (75 termínov) ****
+  112. (444) Miramar Calafell (50 termínov) ****
   113. (431) Mix Peymar (135 termínov) ***+
   114. (1637) Mýtický Peloponéz De Luxe - poznávací zájazd (4 termíny) ***
   115. (404) Nelia Beach (1857 termínov) ****+
@@ -545,7 +545,7 @@
         I. (431) Mix Peymar (135 termínov) ***+
     2. (1926) Španielsko pevnina 🧭
       1. (3700) Calafell (1 hotel)
-        I. (444) Miramar Calafell (75 termínov) ****
+        I. (444) Miramar Calafell (50 termínov) ****
       2. (3790) Calella (1 hotel)
         I. (1711) Checkin Garbí (75 termínov) 🆕 ***+
       3. (3814) Coma-Ruga (1 hotel)

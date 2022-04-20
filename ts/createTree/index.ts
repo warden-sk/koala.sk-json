@@ -17,6 +17,7 @@ export interface SearchInput {
   days?: [from: number, to: number];
   destinationId?: number;
   hasDiscount?: boolean;
+  hotelId?: number;
   name?: string;
   price?: [from: number, to: number];
   serviceId?: number[] | number;
@@ -40,6 +41,7 @@ export class Tree {
     days,
     destinationId,
     hasDiscount,
+    hotelId,
     name,
     price,
     serviceId,
@@ -55,6 +57,8 @@ export class Tree {
               ? category.findIndex(hotel.hasCategory) !== -1
               : hotel.hasCategory(category)
             : true,
+        // has id
+        hotel => (hotelId ? hotel.id === hotelId : true),
         // has name
         hotel => (name ? new RegExp(name).test(hotel.name) : true),
         // has serviceId
