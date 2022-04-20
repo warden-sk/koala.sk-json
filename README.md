@@ -238,7 +238,7 @@
   97. (345) Lindos Royal (302 termínov) *****
   98. (194) Lurdy - pútnický zájazd (10 termínov) ***
   99. (389) Madeira - ostrovný raj s turistikou  - Poznávací zájazd (6 termínov) **+
-  100. (465) Malin (81 termínov) ****+
+  100. (465) Malin (84 termínov) ****+
   101. (283) Marhaba Resort (174 termínov) ****
   102. (436) Marmorata Sea View Resort (200 termínov) ****
   103. (1585) Maya World Beach (882 termínov) ****
@@ -488,7 +488,7 @@
       1. (568) Crikvenica (1 hotel)
         I. (56) Kacjak (50 termínov) **+
       2. (3705) Krk, Malinska (1 hotel)
-        I. (465) Malin (81 termínov) ****+
+        I. (465) Malin (84 termínov) ****+
       3. (3782) Krk, Punat (1 hotel)
         I. (1682) Falkensteiner Park Punat (104 termínov) ****
       4. (3008) Krk,Njivice (2 hotely)
