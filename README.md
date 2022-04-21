@@ -148,8 +148,8 @@
   7. (165) Alba Resort (1323 termínov) ******
   8. (170) Alba Royal (882 termínov) ******
   9. (225) Albanian Star (252 termínov) ****
-  10. (1681) Aminess Magal (126 termínov) ***+
-  11. (274) Aminess Veya (84 termínov) ***+
+  10. (1681) Aminess Magal (131 termínov) ***+
+  11. (274) Aminess Veya (87 termínov) ***+
   12. (1722) Anastasia Beach (2992 termínov) ****+
   13. (1685) Apartmány Medena Superior (60 termínov) ****
   14. (1602) Apartmány Medena štandard plus (122 termínov) ***+
@@ -186,7 +186,7 @@
   45. (1766) Faerské ostrovy severský raj - poznávací zájazd (6 termínov) ****
   46. (1753) Fafa Premium Resort (252 termínov) 🆕 ****+
   47. (1765) Falkensteiner Club Funimation Borik (66 termínov) 🆕 ****+
-  48. (1682) Falkensteiner Park Punat (104 termínov) ****
+  48. (1682) Falkensteiner Park Punat (108 termínov) ****
   49. (192) Fatima a Santiago de Compostela  - pútnický zájazd (4 termíny) ***
   50. (1754) Fllad Resort & Spa (126 termínov) 🆕 ****+
   51. (1674) Golden Beach Resort (52 termínov) *****
@@ -490,10 +490,10 @@
       2. (3705) Krk, Malinska (1 hotel)
         I. (465) Malin (84 termínov) ****+
       3. (3782) Krk, Punat (1 hotel)
-        I. (1682) Falkensteiner Park Punat (104 termínov) ****
+        I. (1682) Falkensteiner Park Punat (108 termínov) ****
       4. (3008) Krk,Njivice (2 hotely)
-        I. (1681) Aminess Magal (126 termínov) ***+
-        II. (274) Aminess Veya (84 termínov) ***+
+        I. (1681) Aminess Magal (131 termínov) ***+
+        II. (274) Aminess Veya (87 termínov) ***+
       5. (1985) Novi Vinodolski (3 hotely)
         I. (276) Wyndham Grand Novi Vinodolski Resort de luxe Apartmány (29 termínov) ****
         II. (277) Wyndham Grand Novi Vinodolski Resort hotel (80 termínov) *****
