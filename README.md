@@ -158,7 +158,7 @@
   17. (407) Aristoteles Beach (192 termínov) ****
   18. (1624) Arménsko a jeho krásy De Luxe - poznávací zájazd (4 termíny) ***
   19. (158) Aska Just in Beach (441 termínov) *****+
-  20. (1764) Aurora (80 termínov) 🆕 ***
+  20. (1764) Aurora (76 termínov) 🆕 ***
   21. (1750) Bakour Garbi (108 termínov) 🆕 ****+
   22. (1560) Belconti Resort (1323 termínov) ******
   23. (119) Blue Sea (250 termínov) ***
@@ -465,7 +465,7 @@
   12. (65) Chorvátsko 🧭
     1. (1963) Dalmácia 🧭
       1. (174) Južná Dalmácia (3 hotely) 🧭
-        I. (1764) Aurora (80 termínov) 🆕 ***
+        I. (1764) Aurora (76 termínov) 🆕 ***
         II. (114) Brzet (44 termínov) ***+
         III. (1762) Labranda Senses Resort (18 termínov) 🆕 ****
       2. (173) Stredná Dalmácia (15 hotelov) 🧭
