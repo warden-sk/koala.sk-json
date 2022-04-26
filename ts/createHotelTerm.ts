@@ -20,7 +20,7 @@ function createHotelTerm(): HotelTerm {
     discount: 50,
     id: id++,
     price: 500,
-    transportationId: 0,
+    transportationId: 199,
   };
 }
 
