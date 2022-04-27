@@ -4,323 +4,298 @@
 
 ## destinations `JSON`
 
-  `124` destinácií
+  `113` destinácií
 
 ```
   1. (3781) Adelianos Kampos
-  2. (3684) Afitos
-  3. (3811) Agia Pelagia
-  4. (134) Agios Georgios
-  5. (163) Agios Sostis
-  6. (160) Alanya 🧭
-  7. (1978) Albánsko 🧭
-  8. (139) Ammoudara
-  9. (594) Antalya
-  10. (3708) Arménsko 🧭
-  11. (82) Atény 🧭
-  12. (1946) Avsallar
-  13. (3682) Ayia Napa
-  14. (3627) Bečiči
-  15. (1953) Beldibi
-  16. (595) Belek
-  17. (3653) Bellaria
-  18. (3584) Bosna a Hercegovina 🧭
-  19. (60) Bulharsko 🧭
-  20. (3745) Cala Gonone
-  21. (3816) Cala Millor
-  22. (3700) Calafell
-  23. (3790) Calella
-  24. (3704) Cesenatico
-  25. (1956) Colakli
-  26. (3814) Coma-Ruga
-  27. (568) Crikvenica
-  28. (62) Cyprus 🧭
-  29. (61) Čierna Hora 🧭
-  30. (3687) Dahar
-  31. (1963) Dalmácia 🧭
-  32. (1980) Durrës
-  33. (68) Egypt 🧭
-  34. (170) Elenite
-  35. (147) Faliraki
-  36. (1943) Famagusta
-  37. (77) Francúzsko 🧭
-  38. (3752) Fujairah
-  39. (3810) Georgioupolis
-  40. (64) Grécko a ostrovy 🧭
-  41. (3709) Gruzínsko 🧭
-  42. (103) Hurghada
-  43. (3683) Chalkidiki 🧭
-  44. (65) Chorvátsko 🧭
-  45. (3812) Ialyssos
-  46. (562) Írsko 🧭
-  47. (3711) Island 🧭
-  48. (1969) Istanbul
-  49. (172) Istria 🧭
-  50. (76) Izrael 🧭
-  51. (1927) Jadranské pobrežie 🧭
-  52. (3820) Jordánsko 🧭
-  53. (174) Južná Dalmácia 🧭
-  54. (79) Kalábria 🧭
-  55. (159) Kemer
-  56. (1992) Kiotari
-  57. (1952) Kizilagac
-  58. (1954) Kizilot
-  59. (151) Kolymbia
-  60. (83) Korfu 🧭
-  61. (85) Kréta 🧭
-  62. (3705) Krk, Malinska
-  63. (3782) Krk, Punat
-  64. (3008) Krk,Njivice
-  65. (1944) Kyrenia
-  66. (164) Laganas
-  67. (1955) Lara
-  68. (1903) Lara-Kundu
-  69. (3681) Larnaka
-  70. (3772) Libanon 🧭
-  71. (3629) Limassol
-  72. (1991) Lindos
-  73. (3791) Lloret de Mar
-  74. (93) Lurdy 🧭
-  75. (1974) Mahdia
-  76. (596) Makadi Bay
-  77. (3571) Malia
-  78. (87) Malorka 🧭
-  79. (1988) Marinella di Cutro
-  80. (583) Moraitika / Messonghi
-  81. (3686) Nea Potidea
-  82. (1912) Nicotera Marina
-  83. (561) Nórsko 🧭
-  84. (1985) Novi Vinodolski
-  85. (1947) Okurcalar
-  86. (3764) Olympská riviéra
-  87. (142) Palmanova
-  88. (3567) Pefki
-  89. (3731) Peloponéz
-  90. (3817) Playa de Muro - Alcúdia
-  91. (602) Pomorie
-  92. (69) Portugalsko 🧭
-  93. (3746) Praia a Mare
-  94. (3703) Primorsko
-  95. (3727) Protaras
-  96. (1929) Rabac
-  97. (2002) Ras Al Khaimah
-  98. (88) Rhodos 🧭
-  99. (3651) Rimini
-  100. (3689) S‘Illot
-  101. (1915) Sahl Hasheesh
-  102. (3813) Sant‘Andrea Apostolo dello Ionio
-  103. (3695) Santa Teresa Gallura
-  104. (1925) Sardínia 🧭
-  105. (3766) Scalea
-  106. (1928) Severný Cyprus 🧭
-  107. (158) Side
-  108. (573) Slnečné pobrežie
-  109. (105) Soma Bay
-  110. (3818) Sorgun Titreyengol
-  111. (600) Sousse
-  112. (1922) Spojené arabské emiráty 🧭
-  113. (173) Stredná Dalmácia 🧭
-  114. (100) Sutomore
-  115. (572) Sveti Vlas
-  116. (70) Španielsko 🧭
-  117. (1926) Španielsko pevnina 🧭
-  118. (78) Taliansko 🧭
-  119. (3765) Titreyengol
-  120. (3809) Tsilivi
-  121. (71) Tunisko 🧭
-  122. (72) Turecko 🧭
-  123. (1924) Vassilikos
-  124. (90) Zakynthos 🧭
+  2. (3811) Agia Pelagia
+  3. (134) Agios Georgios
+  4. (163) Agios Sostis
+  5. (160) Alanya 🧭
+  6. (1978) Albánsko 🧭
+  7. (139) Ammoudara
+  8. (594) Antalya
+  9. (3708) Arménsko 🧭
+  10. (82) Atény 🧭
+  11. (1946) Avsallar
+  12. (3682) Ayia Napa
+  13. (3627) Bečiči
+  14. (1953) Beldibi
+  15. (595) Belek
+  16. (3653) Bellaria
+  17. (3584) Bosna a Hercegovina 🧭
+  18. (60) Bulharsko 🧭
+  19. (3745) Cala Gonone
+  20. (3700) Calafell
+  21. (3790) Calella
+  22. (3704) Cesenatico
+  23. (1956) Colakli
+  24. (3814) Coma-Ruga
+  25. (568) Crikvenica
+  26. (62) Cyprus 🧭
+  27. (61) Čierna Hora 🧭
+  28. (3687) Dahar
+  29. (1963) Dalmácia 🧭
+  30. (1980) Durrës
+  31. (68) Egypt 🧭
+  32. (170) Elenite
+  33. (147) Faliraki
+  34. (1943) Famagusta
+  35. (77) Francúzsko 🧭
+  36. (3810) Georgioupolis
+  37. (64) Grécko a ostrovy 🧭
+  38. (3709) Gruzínsko 🧭
+  39. (103) Hurghada
+  40. (3683) Chalkidiki 🧭
+  41. (65) Chorvátsko 🧭
+  42. (3812) Ialyssos
+  43. (562) Írsko 🧭
+  44. (3711) Island 🧭
+  45. (1969) Istanbul
+  46. (172) Istria 🧭
+  47. (76) Izrael 🧭
+  48. (1927) Jadranské pobrežie 🧭
+  49. (3820) Jordánsko 🧭
+  50. (174) Južná Dalmácia 🧭
+  51. (79) Kalábria 🧭
+  52. (159) Kemer
+  53. (1992) Kiotari
+  54. (1952) Kizilagac
+  55. (1954) Kizilot
+  56. (151) Kolymbia
+  57. (83) Korfu 🧭
+  58. (85) Kréta 🧭
+  59. (3705) Krk, Malinska
+  60. (3782) Krk, Punat
+  61. (3008) Krk,Njivice
+  62. (1944) Kyrenia
+  63. (164) Laganas
+  64. (1955) Lara
+  65. (1903) Lara-Kundu
+  66. (3681) Larnaka
+  67. (3772) Libanon 🧭
+  68. (3629) Limassol
+  69. (1991) Lindos
+  70. (93) Lurdy 🧭
+  71. (596) Makadi Bay
+  72. (3571) Malia
+  73. (87) Malorka 🧭
+  74. (1988) Marinella di Cutro
+  75. (583) Moraitika / Messonghi
+  76. (3686) Nea Potidea
+  77. (1912) Nicotera Marina
+  78. (561) Nórsko 🧭
+  79. (1985) Novi Vinodolski
+  80. (1947) Okurcalar
+  81. (3764) Olympská riviéra
+  82. (3567) Pefki
+  83. (3731) Peloponéz
+  84. (3817) Playa de Muro - Alcúdia
+  85. (602) Pomorie
+  86. (69) Portugalsko 🧭
+  87. (3746) Praia a Mare
+  88. (3703) Primorsko
+  89. (3727) Protaras
+  90. (1929) Rabac
+  91. (88) Rhodos 🧭
+  92. (3651) Rimini
+  93. (3689) S‘Illot
+  94. (1915) Sahl Hasheesh
+  95. (3695) Santa Teresa Gallura
+  96. (1925) Sardínia 🧭
+  97. (3766) Scalea
+  98. (1928) Severný Cyprus 🧭
+  99. (158) Side
+  100. (573) Slnečné pobrežie
+  101. (105) Soma Bay
+  102. (3818) Sorgun Titreyengol
+  103. (173) Stredná Dalmácia 🧭
+  104. (100) Sutomore
+  105. (572) Sveti Vlas
+  106. (70) Španielsko 🧭
+  107. (1926) Španielsko pevnina 🧭
+  108. (78) Taliansko 🧭
+  109. (3765) Titreyengol
+  110. (3809) Tsilivi
+  111. (72) Turecko 🧭
+  112. (1924) Vassilikos
+  113. (90) Zakynthos 🧭
 ```
 
 ## hotels `JSON`
 
-  `183` hotelov
+  `169` hotelov
 
 ```
   1. (216) Acapulco Beach (781 termínov) *****+
   2. (1583) Acapulco Beach Family Bungalow Resort (781 termínov) *****+
-  3. (1758) Adora Resort (525 termínov) 🆕 ******
+  3. (1758) Adora Resort (527 termínov) 🆕 ******
   4. (108) Adriatic (58 termínov) ****
-  5. (1587) Alaiye Resort (324 termínov) *****+
-  6. (166) Alba Queen (1296 termínov) ******
-  7. (165) Alba Resort (972 termínov) ******
-  8. (170) Alba Royal (648 termínov) ******
-  9. (225) Albanian Star (252 termínov) ****
+  5. (1587) Alaiye Resort (326 termínov) *****+
+  6. (166) Alba Queen (1304 termínov) ******
+  7. (165) Alba Resort (978 termínov) ******
+  8. (170) Alba Royal (652 termínov) ******
+  9. (225) Albanian Star (204 termínov) ****
   10. (1681) Aminess Magal (131 termínov) ***+
   11. (274) Aminess Veya (87 termínov) ***+
-  12. (1722) Anastasia Beach (2992 termínov) ****+
+  12. (1722) Anastasia Beach (2524 termínov) ****+
   13. (1685) Apartmány Medena Superior (60 termínov) ****
   14. (1602) Apartmány Medena štandard plus (122 termínov) ***+
-  15. (132) Apollonia Beach (308 termínov) *****+
-  16. (1739) Aquila Rithymna Beach (231 termínov) 🆕 *****+
-  17. (407) Aristoteles Beach (196 termínov) ****
-  18. (1624) Arménsko a jeho krásy De Luxe - poznávací zájazd (4 termíny) ***
-  19. (158) Aska Just in Beach (324 termínov) *****+
-  20. (1764) Aurora (76 termínov) 🆕 ***
-  21. (1750) Bakour Garbi (108 termínov) 🆕 ****+
-  22. (1560) Belconti Resort (972 termínov) ******
-  23. (119) Blue Sea (254 termínov) ***
-  24. (1669) Blue Sea Beach Resort I. (513 termínov) *****
-  25. (1670) Blue Sea Beach Resort II. (342 termínov) *****
-  26. (1547) Borgo di Fiuzzi (138 termínov) ****+
-  27. (114) Brzet (44 termínov) ***+
-  28. (1759) Callisto Holiday Village (1496 termínov) 🆕 ****+
-  29. (1608) Caribbean World Soma Bay (105 termínov) *****
-  30. (162) Club Calimera Serra Palace (648 termínov) ******
-  31. (1546) Club Esse Palmasera (200 termínov) ****+
-  32. (376) Club Hotel Angelini (48 termínov) ****
-  33. (1661) Club Mega Saray (1620 termínov) ******
-  34. (1751) Condesa (108 termínov) 🆕 *****
-  35. (1598) Constantinos the Great (3740 termínov) *****+
-  36. (304) Delphin Imperial (648 termínov) ******
-  37. (1676) Desert Rose (208 termínov) *****
-  38. (1662) Dessole Dolphin Bay (231 termínov) ****+
-  39. (313) Dessole Malia Beach (231 termínov) *****
-  40. (1639) Do srdca nórskych fjordov - Poznávací zájazd (9 termínov) ***
-  41. (1677) Dome Beach (2992 termínov) ****+
-  42. (92) Donat (222 termínov) ***+
-  43. (81) Dunav (154 termínov) ****
-  44. (134) Evi (342 termínov) ***
-  45. (1753) Fafa Premium Resort (252 termínov) 🆕 ****+
-  46. (1765) Falkensteiner Club Funimation Borik (66 termínov) 🆕 ****+
-  47. (1682) Falkensteiner Park Punat (108 termínov) ****
-  48. (192) Fatima a Santiago de Compostela  - pútnický zájazd (4 termíny) ***
-  49. (1754) Fllad Resort & Spa (126 termínov) 🆕 ****+
-  50. (1674) Golden Beach Resort (52 termínov) *****
-  51. (1748) Gran Europe (75 termínov) 🆕 *****
-  52. (1712) Gran Garbí (75 termínov) 🆕 ****+
-  53. (359) Grand Atilla (324 termínov) ****
-  54. (1755) Grand Blue Fafa Resort (168 termínov) 🆕 *****
-  55. (382) Gruzínsko a Arménsko De Luxe - poznávací zájazd (6 termínov) ***
-  56. (1552) Gruzínsko všetkými zmyslami De Luxe - poznávací zájazd (4 termíny) ***
-  57. (1654) Hampton by Hilton Marjan Island (116 termínov) *****
-  58. (88) Hedera (60 termínov) ****
-  59. (346) Hilton Double Tree Marjan Island (145 termínov) ******
-  60. (82) Chaika Beach Resort (396 termínov) ****
-  61. (163) Champion Holiday Village (648 termínov) *****+
-  62. (1711) Checkin Garbí (75 termínov) 🆕 ***+
-  63. (1678) Chrysomare Beach Hotel & Resort (3740 termínov) *****+
-  64. (1737) Iberostar Diar El Andalous (58 termínov) *****+
-  65. (1501) Iberostar Royal El Mansour (58 termínov) *****+
-  66. (1606) Iberotel Miramar Al Aqah Beach Resort (58 termínov) ******
-  67. (437) Ibiza (126 termínov) ***+
-  68. (171) IC Green Palace (532 termínov) ******
-  69. (167) IC Santai Family Resort (1296 termínov) ******
-  70. (288) Ilyssion Beach Resort (745 termínov) ****
-  71. (1683) Imperial - Lucija (122 termínov) ***+
-  72. (308) Imperial hotel (148 termínov) ****
-  73. (1695) Imperial Palace (432 termínov) *****
-  74. (490) Imperial villas (122 termínov) ***+
-  75. (1697) Írsko zelený ostrov - poznávací zájazd (4 termíny) **
-  76. (1551) Istanbul De Luxe - poznávací zájazd (8 termínov) ***
-  77. (190) Izrael a Mŕtve more - pútnický zájazd letecky (8 termínov) ***
-  78. (183) Izrael a Mŕtve more De Luxe - poznávací zájazd (3 termíny) ***
-  79. (189) Izrael a Petra De Luxe - poznávací zájazd (8 termínov) ***
-  80. (1767) Jordánsko a jeho skvosty De Luxe - poznávací zájazd (4 termíny) ***
-  81. (157) Justiniano Park Conti (648 termínov) *****+
-  82. (56) Kacjak (52 termínov) **+
-  83. (1657) Kaila Beach (324 termínov) *****
-  84. (1655) Kaila City (324 termínov) ****
-  85. (1524) King Saron (52 termínov) ****+
-  86. (1667) Kolymbia Sky (751 termínov) ****+
-  87. (272) Korali (70 termínov) ***
-  88. (76) Kotva (124 termínov) ****+
-  89. (1742) Labranda Blue Bay (356 termínov) 🆕 *****
-  90. (1743) Labranda Kiotari Miraluna (596 termínov) 🆕 *****
-  91. (121) Labranda Sandy Beach Resort (340 termínov) *****
-  92. (1762) Labranda Senses Resort (18 termínov) 🆕 ****
-  93. (1659) Lake River Side Hotel & Spa (324 termínov) *****+
-  94. (1634) Libanon Švajčiarsko Blízkeho východu De Luxe - poznávací zájazd (4 termíny) ***
-  95. (1589) Limak Lara De Luxe (324 termínov) ******
-  96. (345) Lindos Royal (302 termínov) *****
-  97. (194) Lurdy - pútnický zájazd (10 termínov) ***
-  98. (389) Madeira - ostrovný raj s turistikou  - Poznávací zájazd (6 termínov) **+
-  99. (465) Malin (84 termínov) ****+
-  100. (283) Marhaba Resort (174 termínov) ****
-  101. (436) Marmorata Sea View Resort (200 termínov) ****
-  102. (1585) Maya World Beach (648 termínov) ****
-  103. (1545) Medena (320 termínov) ****
-  104. (1686) Medena Superior Premium (122 termínov) ****
-  105. (1672) Mediteran (140 termínov) 🆕 *****
-  106. (1744) Mediterraneo (32 termínov) 🆕 ***+
-  107. (326) Medžugorie - pútnický zájazd (4 termíny) **+
-  108. (146) Melissa Kleopatra Beach (642 termínov) ***+
-  109. (1752) Messonghi Beach (204 termínov) 🆕 ****
-  110. (87) Mimosa (20 termínov) ****
-  111. (444) Miramar Calafell (50 termínov) ****
-  112. (431) Mix Peymar (135 termínov) ***+
-  113. (1637) Mýtický Peloponéz De Luxe - poznávací zájazd (4 termíny) ***
-  114. (404) Nelia Beach (1857 termínov) ****+
-  115. (412) Nerton (324 termínov) *****
-  116. (231) Nicotera Beach (184 termínov) ****+
-  117. (348) Nubia Aqua Beach Resort (104 termínov) *****
-  118. (1515) Numa Bay Exclusive (324 termínov) *****+
-  119. (113) Olympia (70 termínov) *****
-  120. (1580) Olympian Bay Grand Resort (392 termínov) *****
-  121. (344) Olympos Beach (453 termínov) *****
-  122. (1740) Out Of The Blue (231 termínov) 🆕 *****+
-  123. (61) Palazzo di Zante (96 termínov) ****
-  124. (1775) Palm Beach Resort & Spa (144 termínov) 🆕 *****
-  125. (173) Paríž KLASIK - poznávací zájazd (6 termínov) ***
-  126. (143) Pegasos Beach (1026 termínov) *****
-  127. (107) Pinija (110 termínov) ****+
-  128. (454) Plovdiv (224 termínov) ***
-  129. (257) Po stopách sv. pátra Pia - pútnický zájazd (4 termíny) ***
-  130. (1640) Pohodový Island - poznávací zájazd (6 termínov) **
-  131. (1586) Port River Hotel & Spa (324 termínov) *****+
-  132. (409) Portes Beach (147 termínov) *****
-  133. (1556) Portugalsko De Luxe - poznávací zájazd (4 termíny) ***
-  134. (1747) Premier Le Reve Hotel & Spa (104 termínov) 🆕 ******
-  135. (483) Primasol El Mehdi (174 termínov) ****+
-  136. (1708) Punta (36 termínov) ****
-  137. (458) Queen Nelly (390 termínov) ***+
-  138. (1741) Relax (447 termínov) 🆕 ****
-  139. (1666) Rethymno Palace (308 termínov) *****+
-  140. (279) Riadh Palms (58 termínov) ****
-  141. (178) Rím De Luxe - poznávací zájazd (4 termíny) ***
-  142. (177) Rím KLASIK - poznávací zájazd (4 termíny) **
-  143. (1615) Royal Park (361 termínov) *****
-  144. (215) Salamis Bay Conti (4686 termínov) *****+
-  145. (1590) Santa Caterina (552 termínov) ****
-  146. (1745) Santandrea Resort (138 termínov) 🆕 ****+
-  147. (456) Sea Breeze (77 termínov) ***+
-  148. (1646) Sea Star Beau Rivage (52 termínov) *****
-  149. (175) Sedem divov Islandu - poznávací zájazd (12 termínov) 
-  150. (1760) Sentido Sandy Beach (748 termínov) 🆕 ****+
-  151. (1746) Serene Village (230 termínov) 🆕 ****+
-  152. (153) Serra Garden (648 termínov) *****
-  153. (1512) Serra Park (648 termínov) ****+
-  154. (1756) Sol by Melia (168 termínov) 🆕 *****
-  155. (1709) Sol Palmanova (108 termínov) 🆕 ****+
-  156. (1757) Sorgun Akadia Luxury (324 termínov) 🆕 ******
-  157. (1679) St. Raphael Resort (1496 termínov) *****+
-  158. (1516) Starlight Resort (176 termínov) ******
-  159. (1675) Stella Di Mare Beach Resort & Spa (208 termínov) *****
-  160. (1736) Strofades (96 termínov) 🆕 ****
-  161. (1738) Summer Beach Hotel (154 termínov) 🆕 ****
-  162. (1511) Sun Beach Park (324 termínov) ****+
-  163. (1684) Sunny Side (97 termínov) ****+
-  164. (84) Sunset Resort (420 termínov) ******
-  165. (1626) Sv. Charbel a Libanon - pútnický zájazd (2 termíny) ***
-  166. (1588) Swandor Topkapi Palace (912 termínov) ******
-  167. (410) Tac Premier (324 termínov) ****+
-  168. (337) Tara (280 termínov) ****+
-  169. (457) Tishina (260 termínov) ***+
-  170. (294) Tiva del Mar (390 termínov) ****+
-  171. (1642) Tropitel Sahl Hasheesh (208 termínov) ******
-  172. (1597) Tsokkos Protaras Beach (2992 termínov) ****+
-  173. (1691) TYC (32 termínov) ***+
-  174. (1703) Vrissiana Beach (3611 termínov) *****
-  175. (1513) Water Side Resort & Spa (532 termínov) *****
-  176. (1735) White Olive Elite Laganas (96 termínov) 🆕 *****+
-  177. (1734) White Olive Premium Cameo (72 termínov) 🆕 ****+
-  178. (276) Wyndham Grand Novi Vinodolski Resort de luxe Apartmány (29 termínov) ****
-  179. (277) Wyndham Grand Novi Vinodolski Resort hotel (80 termínov) *****
-  180. (69) Wyndham Grand Novi Vinodolski Resort Premium Apartmány (87 termínov) ****
-  181. (60) Zante Imperial Beach (120 termínov) ****
-  182. (496) Zante Royal Resort (96 termínov) ****
-  183. (112) Zora (74 termínov) ****
+  15. (132) Apollonia Beach (264 termínov) *****+
+  16. (1739) Aquila Rithymna Beach (198 termínov) 🆕 *****+
+  17. (1624) Arménsko a jeho krásy De Luxe - poznávací zájazd (4 termíny) ***
+  18. (158) Aska Just in Beach (326 termínov) *****+
+  19. (1764) Aurora (76 termínov) 🆕 ***
+  20. (1560) Belconti Resort (978 termínov) ******
+  21. (119) Blue Sea (204 termínov) ***
+  22. (1669) Blue Sea Beach Resort I. (324 termínov) *****
+  23. (1670) Blue Sea Beach Resort II. (216 termínov) *****
+  24. (1547) Borgo di Fiuzzi (66 termínov) ****+
+  25. (114) Brzet (44 termínov) ***+
+  26. (1759) Callisto Holiday Village (1262 termínov) 🆕 ****+
+  27. (1608) Caribbean World Soma Bay (105 termínov) *****
+  28. (162) Club Calimera Serra Palace (652 termínov) ******
+  29. (1546) Club Esse Palmasera (100 termínov) ****+
+  30. (376) Club Hotel Angelini (48 termínov) ****
+  31. (1661) Club Mega Saray (1630 termínov) ******
+  32. (1751) Condesa (100 termínov) 🆕 *****
+  33. (1598) Constantinos the Great (3155 termínov) *****+
+  34. (304) Delphin Imperial (652 termínov) ******
+  35. (1676) Desert Rose (208 termínov) *****
+  36. (1662) Dessole Dolphin Bay (198 termínov) ****+
+  37. (313) Dessole Malia Beach (198 termínov) *****
+  38. (1639) Do srdca nórskych fjordov - Poznávací zájazd (9 termínov) ***
+  39. (1677) Dome Beach (2524 termínov) ****+
+  40. (92) Donat (222 termínov) ***+
+  41. (81) Dunav (142 termínov) ****
+  42. (134) Evi (216 termínov) ***
+  43. (1753) Fafa Premium Resort (168 termínov) 🆕 ****+
+  44. (1765) Falkensteiner Club Funimation Borik (66 termínov) 🆕 ****+
+  45. (1682) Falkensteiner Park Punat (108 termínov) ****
+  46. (192) Fatima a Santiago de Compostela  - pútnický zájazd (4 termíny) ***
+  47. (1754) Fllad Resort & Spa (84 termínov) 🆕 ****+
+  48. (1674) Golden Beach Resort (52 termínov) *****
+  49. (1748) Gran Europe (75 termínov) 🆕 *****
+  50. (359) Grand Atilla (326 termínov) ****
+  51. (1755) Grand Blue Fafa Resort (136 termínov) 🆕 *****
+  52. (382) Gruzínsko a Arménsko De Luxe - poznávací zájazd (6 termínov) ***
+  53. (1552) Gruzínsko všetkými zmyslami De Luxe - poznávací zájazd (4 termíny) ***
+  54. (88) Hedera (60 termínov) ****
+  55. (82) Chaika Beach Resort (396 termínov) ****
+  56. (163) Champion Holiday Village (652 termínov) *****+
+  57. (1711) Checkin Garbí (69 termínov) 🆕 ***+
+  58. (1678) Chrysomare Beach Hotel & Resort (3155 termínov) *****+
+  59. (437) Ibiza (102 termínov) ***+
+  60. (171) IC Green Palace (532 termínov) ******
+  61. (167) IC Santai Family Resort (1304 termínov) ******
+  62. (288) Ilyssion Beach Resort (480 termínov) ****
+  63. (1683) Imperial - Lucija (122 termínov) ***+
+  64. (308) Imperial hotel (148 termínov) ****
+  65. (1695) Imperial Palace (400 termínov) *****
+  66. (490) Imperial villas (122 termínov) ***+
+  67. (1697) Írsko zelený ostrov - poznávací zájazd (4 termíny) **
+  68. (1551) Istanbul De Luxe - poznávací zájazd (8 termínov) ***
+  69. (190) Izrael a Mŕtve more - pútnický zájazd letecky (8 termínov) ***
+  70. (183) Izrael a Mŕtve more De Luxe - poznávací zájazd (3 termíny) ***
+  71. (189) Izrael a Petra De Luxe - poznávací zájazd (8 termínov) ***
+  72. (1767) Jordánsko a jeho skvosty De Luxe - poznávací zájazd (4 termíny) ***
+  73. (157) Justiniano Park Conti (652 termínov) *****+
+  74. (56) Kacjak (52 termínov) **+
+  75. (1657) Kaila Beach (326 termínov) *****
+  76. (1655) Kaila City (326 termínov) ****
+  77. (1524) King Saron (52 termínov) ****+
+  78. (1667) Kolymbia Sky (486 termínov) ****+
+  79. (272) Korali (29 termínov) ***
+  80. (76) Kotva (118 termínov) ****+
+  81. (1742) Labranda Blue Bay (168 termínov) 🆕 *****
+  82. (1743) Labranda Kiotari Miraluna (392 termínov) 🆕 *****
+  83. (121) Labranda Sandy Beach Resort (280 termínov) *****
+  84. (1762) Labranda Senses Resort (18 termínov) 🆕 ****
+  85. (1659) Lake River Side Hotel & Spa (326 termínov) *****+
+  86. (1634) Libanon Švajčiarsko Blízkeho východu De Luxe - poznávací zájazd (4 termíny) ***
+  87. (1589) Limak Lara De Luxe (326 termínov) ******
+  88. (345) Lindos Royal (196 termínov) *****
+  89. (194) Lurdy - pútnický zájazd (10 termínov) ***
+  90. (389) Madeira - ostrovný raj s turistikou  - Poznávací zájazd (6 termínov) **+
+  91. (465) Malin (84 termínov) ****+
+  92. (436) Marmorata Sea View Resort (100 termínov) ****
+  93. (1585) Maya World Beach (652 termínov) ****
+  94. (1545) Medena (320 termínov) ****
+  95. (1686) Medena Superior Premium (122 termínov) ****
+  96. (1672) Mediteran (58 termínov) 🆕 *****
+  97. (1744) Mediterraneo (32 termínov) 🆕 ***+
+  98. (326) Medžugorie - pútnický zájazd (4 termíny) **+
+  99. (146) Melissa Kleopatra Beach (646 termínov) ***+
+  100. (1752) Messonghi Beach (168 termínov) 🆕 ****
+  101. (87) Mimosa (20 termínov) ****
+  102. (444) Miramar Calafell (50 termínov) ****
+  103. (431) Mix Peymar (135 termínov) ***+
+  104. (1637) Mýtický Peloponéz De Luxe - poznávací zájazd (4 termíny) ***
+  105. (404) Nelia Beach (1893 termínov) ****+
+  106. (412) Nerton (326 termínov) *****
+  107. (231) Nicotera Beach (88 termínov) ****+
+  108. (348) Nubia Aqua Beach Resort (104 termínov) *****
+  109. (1515) Numa Bay Exclusive (326 termínov) *****+
+  110. (113) Olympia (70 termínov) *****
+  111. (1580) Olympian Bay Grand Resort (168 termínov) *****
+  112. (344) Olympos Beach (294 termínov) *****
+  113. (1740) Out Of The Blue (198 termínov) 🆕 *****+
+  114. (61) Palazzo di Zante (88 termínov) ****
+  115. (1775) Palm Beach Resort & Spa (144 termínov) 🆕 *****
+  116. (173) Paríž KLASIK - poznávací zájazd (6 termínov) ***
+  117. (143) Pegasos Beach (648 termínov) *****
+  118. (107) Pinija (110 termínov) ****+
+  119. (454) Plovdiv (224 termínov) ***
+  120. (257) Po stopách sv. pátra Pia - pútnický zájazd (4 termíny) ***
+  121. (1640) Pohodový Island - poznávací zájazd (6 termínov) **
+  122. (1586) Port River Hotel & Spa (326 termínov) *****+
+  123. (409) Portes Beach (63 termínov) *****
+  124. (1556) Portugalsko De Luxe - poznávací zájazd (4 termíny) ***
+  125. (1747) Premier Le Reve Hotel & Spa (104 termínov) 🆕 ******
+  126. (1708) Punta (36 termínov) ****
+  127. (458) Queen Nelly (390 termínov) ***+
+  128. (1741) Relax (294 termínov) 🆕 ****
+  129. (1666) Rethymno Palace (264 termínov) *****+
+  130. (178) Rím De Luxe - poznávací zájazd (4 termíny) ***
+  131. (177) Rím KLASIK - poznávací zájazd (4 termíny) **
+  132. (1615) Royal Park (335 termínov) *****
+  133. (215) Salamis Bay Conti (4686 termínov) *****+
+  134. (1590) Santa Caterina (264 termínov) ****
+  135. (456) Sea Breeze (74 termínov) ***+
+  136. (1646) Sea Star Beau Rivage (52 termínov) *****
+  137. (175) Sedem divov Islandu - poznávací zájazd (12 termínov) 
+  138. (1760) Sentido Sandy Beach (631 termínov) 🆕 ****+
+  139. (1746) Serene Village (110 termínov) 🆕 ****+
+  140. (153) Serra Garden (652 termínov) *****
+  141. (1512) Serra Park (652 termínov) ****+
+  142. (1756) Sol by Melia (124 termínov) 🆕 *****
+  143. (1757) Sorgun Akadia Luxury (326 termínov) 🆕 ******
+  144. (1679) St. Raphael Resort (1262 termínov) *****+
+  145. (1516) Starlight Resort (264 termínov) ******
+  146. (1675) Stella Di Mare Beach Resort & Spa (208 termínov) *****
+  147. (1736) Strofades (88 termínov) 🆕 ****
+  148. (1738) Summer Beach Hotel (132 termínov) 🆕 ****
+  149. (1511) Sun Beach Park (326 termínov) ****+
+  150. (1684) Sunny Side (97 termínov) ****+
+  151. (84) Sunset Resort (390 termínov) ******
+  152. (1626) Sv. Charbel a Libanon - pútnický zájazd (2 termíny) ***
+  153. (1588) Swandor Topkapi Palace (918 termínov) ******
+  154. (410) Tac Premier (326 termínov) ****+
+  155. (457) Tishina (254 termínov) ***+
+  156. (294) Tiva del Mar (372 termínov) ****+
+  157. (1642) Tropitel Sahl Hasheesh (208 termínov) ******
+  158. (1597) Tsokkos Protaras Beach (2530 termínov) ****+
+  159. (1691) TYC (32 termínov) ***+
+  160. (1703) Vrissiana Beach (3038 termínov) *****
+  161. (1513) Water Side Resort & Spa (532 termínov) *****
+  162. (1735) White Olive Elite Laganas (88 termínov) 🆕 *****+
+  163. (1734) White Olive Premium Cameo (66 termínov) 🆕 ****+
+  164. (276) Wyndham Grand Novi Vinodolski Resort de luxe Apartmány (29 termínov) ****
+  165. (277) Wyndham Grand Novi Vinodolski Resort hotel (80 termínov) *****
+  166. (69) Wyndham Grand Novi Vinodolski Resort Premium Apartmány (87 termínov) ****
+  167. (60) Zante Imperial Beach (110 termínov) ****
+  168. (496) Zante Royal Resort (88 termínov) ****
+  169. (112) Zora (74 termínov) ****
 ```
 
 ## tree `JSON`
@@ -328,12 +303,12 @@
 ```
   1. (1978) Albánsko 🧭
     1. (1980) Durrës (6 hotelov)
-      I. (225) Albanian Star (252 termínov) ****
-      II. (1753) Fafa Premium Resort (252 termínov) 🆕 ****+
-      III. (1754) Fllad Resort & Spa (126 termínov) 🆕 ****+
-      IV. (1755) Grand Blue Fafa Resort (168 termínov) 🆕 *****
-      V. (437) Ibiza (126 termínov) ***+
-      VI. (1756) Sol by Melia (168 termínov) 🆕 *****
+      I. (225) Albanian Star (204 termínov) ****
+      II. (1753) Fafa Premium Resort (168 termínov) 🆕 ****+
+      III. (1754) Fllad Resort & Spa (84 termínov) 🆕 ****+
+      IV. (1755) Grand Blue Fafa Resort (136 termínov) 🆕 *****
+      V. (437) Ibiza (102 termínov) ***+
+      VI. (1756) Sol by Melia (124 termínov) 🆕 *****
   2. (3708) Arménsko (2 hotely) 🧭
     I. (1624) Arménsko a jeho krásy De Luxe - poznávací zájazd (4 termíny) ***
     II. (382) Gruzínsko a Arménsko De Luxe - poznávací zájazd (6 termínov) ***
@@ -341,42 +316,41 @@
     I. (326) Medžugorie - pútnický zájazd (4 termíny) **+
   4. (60) Bulharsko 🧭
     1. (170) Elenite (1 hotel)
-      I. (1615) Royal Park (361 termínov) *****
+      I. (1615) Royal Park (335 termínov) *****
     2. (602) Pomorie (1 hotel)
-      I. (84) Sunset Resort (420 termínov) ******
+      I. (84) Sunset Resort (390 termínov) ******
     3. (3703) Primorsko (3 hotely)
       I. (454) Plovdiv (224 termínov) ***
       II. (458) Queen Nelly (390 termínov) ***+
-      III. (457) Tishina (260 termínov) ***+
+      III. (457) Tishina (254 termínov) ***+
     4. (573) Slnečné pobrežie (5 hotelov)
-      I. (81) Dunav (154 termínov) ****
+      I. (81) Dunav (142 termínov) ****
       II. (82) Chaika Beach Resort (396 termínov) ****
-      III. (1695) Imperial Palace (432 termínov) *****
-      IV. (76) Kotva (124 termínov) ****+
-      V. (456) Sea Breeze (77 termínov) ***+
+      III. (1695) Imperial Palace (400 termínov) *****
+      IV. (76) Kotva (118 termínov) ****+
+      V. (456) Sea Breeze (74 termínov) ***+
     5. (572) Sveti Vlas (1 hotel)
-      I. (294) Tiva del Mar (390 termínov) ****+
+      I. (294) Tiva del Mar (372 termínov) ****+
   5. (62) Cyprus 🧭
     1. (3682) Ayia Napa (4 hotely)
-      I. (1759) Callisto Holiday Village (1496 termínov) 🆕 ****+
-      II. (1677) Dome Beach (2992 termínov) ****+
-      III. (1678) Chrysomare Beach Hotel & Resort (3740 termínov) *****+
-      IV. (404) Nelia Beach (1857 termínov) ****+
+      I. (1759) Callisto Holiday Village (1262 termínov) 🆕 ****+
+      II. (1677) Dome Beach (2524 termínov) ****+
+      III. (1678) Chrysomare Beach Hotel & Resort (3155 termínov) *****+
+      IV. (404) Nelia Beach (1893 termínov) ****+
     2. (3681) Larnaka (1 hotel)
-      I. (1760) Sentido Sandy Beach (748 termínov) 🆕 ****+
+      I. (1760) Sentido Sandy Beach (631 termínov) 🆕 ****+
     3. (3629) Limassol (1 hotel)
-      I. (1679) St. Raphael Resort (1496 termínov) *****+
+      I. (1679) St. Raphael Resort (1262 termínov) *****+
     4. (3727) Protaras (4 hotely)
-      I. (1722) Anastasia Beach (2992 termínov) ****+
-      II. (1598) Constantinos the Great (3740 termínov) *****+
-      III. (1597) Tsokkos Protaras Beach (2992 termínov) ****+
-      IV. (1703) Vrissiana Beach (3611 termínov) *****
+      I. (1722) Anastasia Beach (2524 termínov) ****+
+      II. (1598) Constantinos the Great (3155 termínov) *****+
+      III. (1597) Tsokkos Protaras Beach (2530 termínov) ****+
+      IV. (1703) Vrissiana Beach (3038 termínov) *****
   6. (61) Čierna Hora 🧭
-    1. (3627) Bečiči (2 hotely)
-      I. (1672) Mediteran (140 termínov) 🆕 *****
-      II. (337) Tara (280 termínov) ****+
+    1. (3627) Bečiči (1 hotel)
+      I. (1672) Mediteran (58 termínov) 🆕 *****
     2. (100) Sutomore (1 hotel)
-      I. (272) Korali (70 termínov) ***
+      I. (272) Korali (29 termínov) ***
   7. (68) Egypt 🧭
     1. (103) Hurghada (4 hotely)
       I. (1676) Desert Rose (208 termínov) *****
@@ -402,60 +376,58 @@
         I. (1524) King Saron (52 termínov) ****+
         II. (1637) Mýtický Peloponéz De Luxe - poznávací zájazd (4 termíny) ***
     2. (3683) Chalkidiki 🧭
-      1. (3684) Afitos (1 hotel)
-        I. (407) Aristoteles Beach (196 termínov) ****
-      2. (3686) Nea Potidea (1 hotel)
-        I. (409) Portes Beach (147 termínov) *****
+      1. (3686) Nea Potidea (1 hotel)
+        I. (409) Portes Beach (63 termínov) *****
     3. (83) Korfu 🧭
       1. (134) Agios Georgios (2 hotely)
-        I. (119) Blue Sea (254 termínov) ***
-        II. (121) Labranda Sandy Beach Resort (340 termínov) *****
+        I. (119) Blue Sea (204 termínov) ***
+        II. (121) Labranda Sandy Beach Resort (280 termínov) *****
       2. (583) Moraitika / Messonghi (1 hotel)
-        I. (1752) Messonghi Beach (204 termínov) 🆕 ****
+        I. (1752) Messonghi Beach (168 termínov) 🆕 ****
     4. (85) Kréta 🧭
       1. (3781) Adelianos Kampos (2 hotely)
-        I. (1739) Aquila Rithymna Beach (231 termínov) 🆕 *****+
-        II. (1666) Rethymno Palace (308 termínov) *****+
+        I. (1739) Aquila Rithymna Beach (198 termínov) 🆕 *****+
+        II. (1666) Rethymno Palace (264 termínov) *****+
       2. (3811) Agia Pelagia (1 hotel)
-        I. (1740) Out Of The Blue (231 termínov) 🆕 *****+
+        I. (1740) Out Of The Blue (198 termínov) 🆕 *****+
       3. (139) Ammoudara (2 hotely)
-        I. (132) Apollonia Beach (308 termínov) *****+
-        II. (1662) Dessole Dolphin Bay (231 termínov) ****+
+        I. (132) Apollonia Beach (264 termínov) *****+
+        II. (1662) Dessole Dolphin Bay (198 termínov) ****+
       4. (3810) Georgioupolis (1 hotel)
-        I. (1738) Summer Beach Hotel (154 termínov) 🆕 ****
+        I. (1738) Summer Beach Hotel (132 termínov) 🆕 ****
       5. (3571) Malia (1 hotel)
-        I. (313) Dessole Malia Beach (231 termínov) *****
+        I. (313) Dessole Malia Beach (198 termínov) *****
     5. (3764) Olympská riviéra (1 hotel)
-      I. (1580) Olympian Bay Grand Resort (392 termínov) *****
+      I. (1580) Olympian Bay Grand Resort (168 termínov) *****
     6. (88) Rhodos 🧭
       1. (147) Faliraki (5 hotelov)
-        I. (1669) Blue Sea Beach Resort I. (513 termínov) *****
-        II. (1670) Blue Sea Beach Resort II. (342 termínov) *****
-        III. (134) Evi (342 termínov) ***
-        IV. (344) Olympos Beach (453 termínov) *****
-        V. (143) Pegasos Beach (1026 termínov) *****
+        I. (1669) Blue Sea Beach Resort I. (324 termínov) *****
+        II. (1670) Blue Sea Beach Resort II. (216 termínov) *****
+        III. (134) Evi (216 termínov) ***
+        IV. (344) Olympos Beach (294 termínov) *****
+        V. (143) Pegasos Beach (648 termínov) *****
       2. (3812) Ialyssos (1 hotel)
-        I. (1742) Labranda Blue Bay (356 termínov) 🆕 *****
+        I. (1742) Labranda Blue Bay (168 termínov) 🆕 *****
       3. (1992) Kiotari (1 hotel)
-        I. (1743) Labranda Kiotari Miraluna (596 termínov) 🆕 *****
+        I. (1743) Labranda Kiotari Miraluna (392 termínov) 🆕 *****
       4. (151) Kolymbia (2 hotely)
-        I. (1667) Kolymbia Sky (751 termínov) ****+
-        II. (1741) Relax (447 termínov) 🆕 ****
+        I. (1667) Kolymbia Sky (486 termínov) ****+
+        II. (1741) Relax (294 termínov) 🆕 ****
       5. (1991) Lindos (1 hotel)
-        I. (345) Lindos Royal (302 termínov) *****
+        I. (345) Lindos Royal (196 termínov) *****
       6. (3567) Pefki (1 hotel)
-        I. (288) Ilyssion Beach Resort (745 termínov) ****
+        I. (288) Ilyssion Beach Resort (480 termínov) ****
     7. (90) Zakynthos 🧭
       1. (163) Agios Sostis (1 hotel)
-        I. (1734) White Olive Premium Cameo (72 termínov) 🆕 ****+
+        I. (1734) White Olive Premium Cameo (66 termínov) 🆕 ****+
       2. (164) Laganas (1 hotel)
-        I. (1735) White Olive Elite Laganas (96 termínov) 🆕 *****+
+        I. (1735) White Olive Elite Laganas (88 termínov) 🆕 *****+
       3. (3809) Tsilivi (1 hotel)
-        I. (1736) Strofades (96 termínov) 🆕 ****
+        I. (1736) Strofades (88 termínov) 🆕 ****
       4. (1924) Vassilikos (3 hotely)
-        I. (61) Palazzo di Zante (96 termínov) ****
-        II. (60) Zante Imperial Beach (120 termínov) ****
-        III. (496) Zante Royal Resort (96 termínov) ****
+        I. (61) Palazzo di Zante (88 termínov) ****
+        II. (60) Zante Imperial Beach (110 termínov) ****
+        III. (496) Zante Royal Resort (88 termínov) ****
   10. (3709) Gruzínsko (1 hotel) 🧭
     I. (1552) Gruzínsko všetkými zmyslami De Luxe - poznávací zájazd (4 termíny) ***
   11. (65) Chorvátsko 🧭
@@ -523,32 +495,20 @@
     2. (1944) Kyrenia (2 hotely)
       I. (216) Acapulco Beach (781 termínov) *****+
       II. (1583) Acapulco Beach Family Bungalow Resort (781 termínov) *****+
-  20. (1922) Spojené arabské emiráty 🧭
-    1. (3752) Fujairah (1 hotel)
-      I. (1606) Iberotel Miramar Al Aqah Beach Resort (58 termínov) ******
-    2. (2002) Ras Al Khaimah (2 hotely)
-      I. (1654) Hampton by Hilton Marjan Island (116 termínov) *****
-      II. (346) Hilton Double Tree Marjan Island (145 termínov) ******
-  21. (70) Španielsko 🧭
+  20. (70) Španielsko 🧭
     1. (87) Malorka 🧭
-      1. (3816) Cala Millor (1 hotel)
-        I. (1750) Bakour Garbi (108 termínov) 🆕 ****+
-      2. (142) Palmanova (1 hotel)
-        I. (1709) Sol Palmanova (108 termínov) 🆕 ****+
-      3. (3817) Playa de Muro - Alcúdia (1 hotel)
-        I. (1751) Condesa (108 termínov) 🆕 *****
-      4. (3689) S‘Illot (1 hotel)
+      1. (3817) Playa de Muro - Alcúdia (1 hotel)
+        I. (1751) Condesa (100 termínov) 🆕 *****
+      2. (3689) S‘Illot (1 hotel)
         I. (431) Mix Peymar (135 termínov) ***+
     2. (1926) Španielsko pevnina 🧭
       1. (3700) Calafell (1 hotel)
         I. (444) Miramar Calafell (50 termínov) ****
       2. (3790) Calella (1 hotel)
-        I. (1711) Checkin Garbí (75 termínov) 🆕 ***+
+        I. (1711) Checkin Garbí (69 termínov) 🆕 ***+
       3. (3814) Coma-Ruga (1 hotel)
         I. (1748) Gran Europe (75 termínov) 🆕 *****
-      4. (3791) Lloret de Mar (1 hotel)
-        I. (1712) Gran Garbí (75 termínov) 🆕 ****+
-  22. (78) Taliansko (3 hotely) 🧭
+  21. (78) Taliansko (3 hotely) 🧭
     I. (257) Po stopách sv. pátra Pia - pútnický zájazd (4 termíny) ***
     II. (178) Rím De Luxe - poznávací zájazd (4 termíny) ***
     III. (177) Rím KLASIK - poznávací zájazd (4 termíny) **
@@ -561,76 +521,66 @@
         I. (1691) TYC (32 termínov) ***+
     2. (79) Kalábria 🧭
       1. (1988) Marinella di Cutro (1 hotel)
-        I. (1746) Serene Village (230 termínov) 🆕 ****+
+        I. (1746) Serene Village (110 termínov) 🆕 ****+
       2. (1912) Nicotera Marina (1 hotel)
-        I. (231) Nicotera Beach (184 termínov) ****+
+        I. (231) Nicotera Beach (88 termínov) ****+
       3. (3746) Praia a Mare (1 hotel)
-        I. (1547) Borgo di Fiuzzi (138 termínov) ****+
-      4. (3813) Sant‘Andrea Apostolo dello Ionio (1 hotel)
-        I. (1745) Santandrea Resort (138 termínov) 🆕 ****+
-      5. (3766) Scalea (1 hotel)
-        I. (1590) Santa Caterina (552 termínov) ****
+        I. (1547) Borgo di Fiuzzi (66 termínov) ****+
+      4. (3766) Scalea (1 hotel)
+        I. (1590) Santa Caterina (264 termínov) ****
     3. (1925) Sardínia 🧭
       1. (3745) Cala Gonone (1 hotel)
-        I. (1546) Club Esse Palmasera (200 termínov) ****+
+        I. (1546) Club Esse Palmasera (100 termínov) ****+
       2. (3695) Santa Teresa Gallura (1 hotel)
-        I. (436) Marmorata Sea View Resort (200 termínov) ****
-  23. (71) Tunisko 🧭
-    1. (1974) Mahdia (2 hotely)
-      I. (1501) Iberostar Royal El Mansour (58 termínov) *****+
-      II. (483) Primasol El Mehdi (174 termínov) ****+
-    2. (600) Sousse (3 hotely)
-      I. (1737) Iberostar Diar El Andalous (58 termínov) *****+
-      II. (283) Marhaba Resort (174 termínov) ****
-      III. (279) Riadh Palms (58 termínov) ****
-  24. (72) Turecko 🧭
+        I. (436) Marmorata Sea View Resort (100 termínov) ****
+  22. (72) Turecko 🧭
     1. (160) Alanya (6 hotelov) 🧭
-      I. (359) Grand Atilla (324 termínov) ****
-      II. (1657) Kaila Beach (324 termínov) *****
-      III. (1655) Kaila City (324 termínov) ****
-      IV. (1585) Maya World Beach (648 termínov) ****
-      V. (146) Melissa Kleopatra Beach (642 termínov) ***+
-      VI. (410) Tac Premier (324 termínov) ****+
+      I. (359) Grand Atilla (326 termínov) ****
+      II. (1657) Kaila Beach (326 termínov) *****
+      III. (1655) Kaila City (326 termínov) ****
+      IV. (1585) Maya World Beach (652 termínov) ****
+      V. (146) Melissa Kleopatra Beach (646 termínov) ***+
+      VI. (410) Tac Premier (326 termínov) ****+
       1. (1946) Avsallar (3 hotely)
-        I. (1587) Alaiye Resort (324 termínov) *****+
-        II. (158) Aska Just in Beach (324 termínov) *****+
-        III. (1515) Numa Bay Exclusive (324 termínov) *****+
+        I. (1587) Alaiye Resort (326 termínov) *****+
+        II. (158) Aska Just in Beach (326 termínov) *****+
+        III. (1515) Numa Bay Exclusive (326 termínov) *****+
       2. (1947) Okurcalar (1 hotel)
-        I. (157) Justiniano Park Conti (648 termínov) *****+
+        I. (157) Justiniano Park Conti (652 termínov) *****+
     2. (594) Antalya
       1. (1955) Lara (3 hotely)
-        I. (304) Delphin Imperial (648 termínov) ******
-        II. (1589) Limak Lara De Luxe (324 termínov) ******
-        III. (1588) Swandor Topkapi Palace (912 termínov) ******
+        I. (304) Delphin Imperial (652 termínov) ******
+        II. (1589) Limak Lara De Luxe (326 termínov) ******
+        III. (1588) Swandor Topkapi Palace (918 termínov) ******
       2. (1903) Lara-Kundu (1 hotel)
         I. (171) IC Green Palace (532 termínov) ******
     3. (595) Belek (4 hotely)
-      I. (1758) Adora Resort (525 termínov) 🆕 ******
-      II. (1560) Belconti Resort (972 termínov) ******
-      III. (1661) Club Mega Saray (1620 termínov) ******
-      IV. (167) IC Santai Family Resort (1296 termínov) ******
+      I. (1758) Adora Resort (527 termínov) 🆕 ******
+      II. (1560) Belconti Resort (978 termínov) ******
+      III. (1661) Club Mega Saray (1630 termínov) ******
+      IV. (167) IC Santai Family Resort (1304 termínov) ******
     4. (1969) Istanbul (1 hotel)
       I. (1551) Istanbul De Luxe - poznávací zájazd (8 termínov) ***
     5. (159) Kemer
       1. (1953) Beldibi (1 hotel)
-        I. (163) Champion Holiday Village (648 termínov) *****+
+        I. (163) Champion Holiday Village (652 termínov) *****+
     6. (158) Side (6 hotelov)
-      I. (1659) Lake River Side Hotel & Spa (324 termínov) *****+
-      II. (412) Nerton (324 termínov) *****
-      III. (153) Serra Garden (648 termínov) *****
-      IV. (1512) Serra Park (648 termínov) ****+
-      V. (1511) Sun Beach Park (324 termínov) ****+
+      I. (1659) Lake River Side Hotel & Spa (326 termínov) *****+
+      II. (412) Nerton (326 termínov) *****
+      III. (153) Serra Garden (652 termínov) *****
+      IV. (1512) Serra Park (652 termínov) ****+
+      V. (1511) Sun Beach Park (326 termínov) ****+
       VI. (1513) Water Side Resort & Spa (532 termínov) *****
       1. (1956) Colakli (3 hotely)
-        I. (166) Alba Queen (1296 termínov) ******
-        II. (165) Alba Resort (972 termínov) ******
-        III. (170) Alba Royal (648 termínov) ******
+        I. (166) Alba Queen (1304 termínov) ******
+        II. (165) Alba Resort (978 termínov) ******
+        III. (170) Alba Royal (652 termínov) ******
       2. (1952) Kizilagac (1 hotel)
-        I. (1516) Starlight Resort (176 termínov) ******
+        I. (1516) Starlight Resort (264 termínov) ******
       3. (1954) Kizilot (1 hotel)
-        I. (162) Club Calimera Serra Palace (648 termínov) ******
+        I. (162) Club Calimera Serra Palace (652 termínov) ******
       4. (3818) Sorgun Titreyengol (1 hotel)
-        I. (1757) Sorgun Akadia Luxury (324 termínov) 🆕 ******
+        I. (1757) Sorgun Akadia Luxury (326 termínov) 🆕 ******
       5. (3765) Titreyengol (1 hotel)
-        I. (1586) Port River Hotel & Spa (324 termínov) *****+
+        I. (1586) Port River Hotel & Spa (326 termínov) *****+
 ```

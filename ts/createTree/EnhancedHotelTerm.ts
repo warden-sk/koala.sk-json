@@ -6,21 +6,25 @@ import EnhancedHotel from './EnhancedHotel';
 import { HotelTerm } from '../createHotelTerm';
 
 class EnhancedHotelTerm implements Omit<HotelTerm, 'date'> {
+  code: number;
   date: [from: Date, to: Date];
   days: number;
   discount: number;
   id: number;
   parent?: EnhancedHotel;
   price: number;
+  transportationFrom?: number;
   transportationId: number;
 
   constructor(hotelTerm: HotelTerm, parent?: EnhancedHotel) {
+    this.code = hotelTerm.code;
     this.date = [this.decodeDate(hotelTerm.date[0]), this.decodeDate(hotelTerm.date[1])];
     this.days = hotelTerm.days;
     this.discount = hotelTerm.discount || 0;
     this.id = hotelTerm.id;
     this.parent = parent;
     this.price = hotelTerm.price;
+    this.transportationFrom = hotelTerm.transportationFrom;
     this.transportationId = hotelTerm.transportationId;
   }
 
