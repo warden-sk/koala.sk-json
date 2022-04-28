@@ -31,7 +31,7 @@ function createHotel(): Hotel {
     photoId: 0,
     serviceId: 403,
     stars: 2.5,
-    terms: Array.from({ length: 10 }, createHotelTerm),
+    terms: [createHotelTerm()],
     type: 3,
   };
 }
