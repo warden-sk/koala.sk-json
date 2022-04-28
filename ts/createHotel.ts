@@ -26,12 +26,12 @@ function createHotel(): Hotel {
     category: 1,
     equipment: [],
     id: id++,
-    name: 'Test Hotel',
+    name: 'Hotel',
     parentId: 0,
     photoId: 0,
     serviceId: 403,
     stars: 2.5,
-    terms: [createHotelTerm()],
+    terms: Array.from({ length: 10 }, createHotelTerm),
     type: 3,
   };
 }

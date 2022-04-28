@@ -25,7 +25,7 @@ function createDestination(hotelsLength: number): Destination {
     hotels: Array.from({ length: hotelsLength }, createHotel),
     id: id++,
     level: 0,
-    name: 'Test Destination',
+    name: 'Destination',
     parentId: 0,
   };
 }
