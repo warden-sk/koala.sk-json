@@ -9,7 +9,7 @@ export interface HotelTerm {
   discount?: number;
   id: number;
   price: number;
-  transportationFrom?: number;
+  transportationFromId?: number;
   transportationId: number;
 }
 

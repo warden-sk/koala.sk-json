@@ -135,7 +135,7 @@
   6. (166) Alba Queen (1304 termínov) ******
   7. (165) Alba Resort (978 termínov) ******
   8. (170) Alba Royal (652 termínov) ******
-  9. (225) Albanian Star (204 termínov) ****
+  9. (225) Albanian Star (168 termínov) ****
   10. (1681) Aminess Magal (131 termínov) ***+
   11. (274) Aminess Veya (87 termínov) ***+
   12. (1722) Anastasia Beach (2524 termínov) ****+
@@ -177,15 +177,15 @@
   48. (1674) Golden Beach Resort (52 termínov) *****
   49. (1748) Gran Europe (75 termínov) 🆕 *****
   50. (359) Grand Atilla (326 termínov) ****
-  51. (1755) Grand Blue Fafa Resort (136 termínov) 🆕 *****
+  51. (1755) Grand Blue Fafa Resort (112 termínov) 🆕 *****
   52. (382) Gruzínsko a Arménsko De Luxe - poznávací zájazd (6 termínov) ***
   53. (1552) Gruzínsko všetkými zmyslami De Luxe - poznávací zájazd (4 termíny) ***
   54. (88) Hedera (60 termínov) ****
-  55. (82) Chaika Beach Resort (396 termínov) ****
+  55. (82) Chaika Beach Resort (376 termínov) ****
   56. (163) Champion Holiday Village (652 termínov) *****+
   57. (1711) Checkin Garbí (69 termínov) 🆕 ***+
   58. (1678) Chrysomare Beach Hotel & Resort (3155 termínov) *****+
-  59. (437) Ibiza (102 termínov) ***+
+  59. (437) Ibiza (84 termínov) ***+
   60. (171) IC Green Palace (532 termínov) ******
   61. (167) IC Santai Family Resort (1304 termínov) ******
   62. (288) Ilyssion Beach Resort (480 termínov) ****
@@ -253,7 +253,7 @@
   124. (1556) Portugalsko De Luxe - poznávací zájazd (4 termíny) ***
   125. (1747) Premier Le Reve Hotel & Spa (104 termínov) 🆕 ******
   126. (1708) Punta (36 termínov) ****
-  127. (458) Queen Nelly (390 termínov) ***+
+  127. (458) Queen Nelly (372 termínov) ***+
   128. (1741) Relax (294 termínov) 🆕 ****
   129. (1666) Rethymno Palace (264 termínov) *****+
   130. (178) Rím De Luxe - poznávací zájazd (4 termíny) ***
@@ -261,14 +261,14 @@
   132. (1615) Royal Park (335 termínov) *****
   133. (215) Salamis Bay Conti (4686 termínov) *****+
   134. (1590) Santa Caterina (264 termínov) ****
-  135. (456) Sea Breeze (74 termínov) ***+
+  135. (456) Sea Breeze (71 termínov) ***+
   136. (1646) Sea Star Beau Rivage (52 termínov) *****
   137. (175) Sedem divov Islandu - poznávací zájazd (12 termínov) 
   138. (1760) Sentido Sandy Beach (631 termínov) 🆕 ****+
   139. (1746) Serene Village (110 termínov) 🆕 ****+
   140. (153) Serra Garden (652 termínov) *****
   141. (1512) Serra Park (652 termínov) ****+
-  142. (1756) Sol by Melia (124 termínov) 🆕 *****
+  142. (1756) Sol by Melia (112 termínov) 🆕 *****
   143. (1757) Sorgun Akadia Luxury (326 termínov) 🆕 ******
   144. (1679) St. Raphael Resort (1262 termínov) *****+
   145. (1516) Starlight Resort (264 termínov) ******
@@ -281,7 +281,7 @@
   152. (1626) Sv. Charbel a Libanon - pútnický zájazd (2 termíny) ***
   153. (1588) Swandor Topkapi Palace (918 termínov) ******
   154. (410) Tac Premier (326 termínov) ****+
-  155. (457) Tishina (254 termínov) ***+
+  155. (457) Tishina (248 termínov) ***+
   156. (294) Tiva del Mar (372 termínov) ****+
   157. (1642) Tropitel Sahl Hasheesh (208 termínov) ******
   158. (1597) Tsokkos Protaras Beach (2530 termínov) ****+
@@ -303,12 +303,12 @@
 ```
   1. (1978) Albánsko 🧭
     1. (1980) Durrës (6 hotelov)
-      I. (225) Albanian Star (204 termínov) ****
+      I. (225) Albanian Star (168 termínov) ****
       II. (1753) Fafa Premium Resort (168 termínov) 🆕 ****+
       III. (1754) Fllad Resort & Spa (84 termínov) 🆕 ****+
-      IV. (1755) Grand Blue Fafa Resort (136 termínov) 🆕 *****
-      V. (437) Ibiza (102 termínov) ***+
-      VI. (1756) Sol by Melia (124 termínov) 🆕 *****
+      IV. (1755) Grand Blue Fafa Resort (112 termínov) 🆕 *****
+      V. (437) Ibiza (84 termínov) ***+
+      VI. (1756) Sol by Melia (112 termínov) 🆕 *****
   2. (3708) Arménsko (2 hotely) 🧭
     I. (1624) Arménsko a jeho krásy De Luxe - poznávací zájazd (4 termíny) ***
     II. (382) Gruzínsko a Arménsko De Luxe - poznávací zájazd (6 termínov) ***
@@ -321,14 +321,14 @@
       I. (84) Sunset Resort (390 termínov) ******
     3. (3703) Primorsko (3 hotely)
       I. (454) Plovdiv (224 termínov) ***
-      II. (458) Queen Nelly (390 termínov) ***+
-      III. (457) Tishina (254 termínov) ***+
+      II. (458) Queen Nelly (372 termínov) ***+
+      III. (457) Tishina (248 termínov) ***+
     4. (573) Slnečné pobrežie (5 hotelov)
       I. (81) Dunav (142 termínov) ****
-      II. (82) Chaika Beach Resort (396 termínov) ****
+      II. (82) Chaika Beach Resort (376 termínov) ****
       III. (1695) Imperial Palace (400 termínov) *****
       IV. (76) Kotva (118 termínov) ****+
-      V. (456) Sea Breeze (74 termínov) ***+
+      V. (456) Sea Breeze (71 termínov) ***+
     5. (572) Sveti Vlas (1 hotel)
       I. (294) Tiva del Mar (372 termínov) ****+
   5. (62) Cyprus 🧭

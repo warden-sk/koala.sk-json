@@ -13,7 +13,7 @@ class EnhancedHotelTerm implements Omit<HotelTerm, 'date'> {
   id: number;
   parent?: EnhancedHotel;
   price: number;
-  transportationFrom?: number;
+  transportationFromId?: number;
   transportationId: number;
 
   constructor(hotelTerm: HotelTerm, parent?: EnhancedHotel) {
@@ -24,7 +24,7 @@ class EnhancedHotelTerm implements Omit<HotelTerm, 'date'> {
     this.id = hotelTerm.id;
     this.parent = parent;
     this.price = hotelTerm.price;
-    this.transportationFrom = hotelTerm.transportationFrom;
+    this.transportationFromId = hotelTerm.transportationFromId;
     this.transportationId = hotelTerm.transportationId;
   }
 

@@ -23,7 +23,7 @@ const keys = {
   r: 'serviceId',
   s: 'stars',
   t: 'terms',
-  u: 'transportationFrom',
+  u: 'transportationFromId',
   v: 'transportationId',
   w: 'type',
   x: 'videoId',
