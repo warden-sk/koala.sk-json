@@ -147,7 +147,7 @@
   18. (158) Aska Just in Beach (328 termínov) *****+
   19. (1764) Aurora (76 termínov) 🆕 ***
   20. (1560) Belconti Resort (984 termínov) ******
-  21. (119) Blue Sea (204 termínov) ***
+  21. (119) Blue Sea (212 termínov) ***
   22. (1669) Blue Sea Beach Resort I. (324 termínov) *****
   23. (1670) Blue Sea Beach Resort II. (216 termínov) *****
   24. (1547) Borgo di Fiuzzi (66 termínov) ****+
@@ -209,7 +209,7 @@
   80. (76) Kotva (118 termínov) ****+
   81. (1742) Labranda Blue Bay (168 termínov) 🆕 *****
   82. (1743) Labranda Kiotari Miraluna (392 termínov) 🆕 *****
-  83. (121) Labranda Sandy Beach Resort (280 termínov) *****
+  83. (121) Labranda Sandy Beach Resort (290 termínov) *****
   84. (1762) Labranda Senses Resort (18 termínov) 🆕 ****
   85. (1659) Lake River Side Hotel & Spa (328 termínov) *****+
   86. (1634) Libanon Švajčiarsko Blízkeho východu De Luxe - poznávací zájazd (4 termíny) ***
@@ -226,7 +226,7 @@
   97. (1744) Mediterraneo (32 termínov) 🆕 ***+
   98. (326) Medžugorie - pútnický zájazd (4 termíny) **+
   99. (146) Melissa Kleopatra Beach (650 termínov) ***+
-  100. (1752) Messonghi Beach (168 termínov) 🆕 ****
+  100. (1752) Messonghi Beach (174 termínov) 🆕 ****
   101. (87) Mimosa (20 termínov) ****
   102. (444) Miramar Calafell (50 termínov) ****
   103. (431) Mix Peymar (135 termínov) ***+
@@ -380,10 +380,10 @@
         I. (409) Portes Beach (63 termínov) *****
     3. (83) Korfu 🧭
       1. (134) Agios Georgios (2 hotely)
-        I. (119) Blue Sea (204 termínov) ***
-        II. (121) Labranda Sandy Beach Resort (280 termínov) *****
+        I. (119) Blue Sea (212 termínov) ***
+        II. (121) Labranda Sandy Beach Resort (290 termínov) *****
       2. (583) Moraitika / Messonghi (1 hotel)
-        I. (1752) Messonghi Beach (168 termínov) 🆕 ****
+        I. (1752) Messonghi Beach (174 termínov) 🆕 ****
     4. (85) Kréta 🧭
       1. (3781) Adelianos Kampos (2 hotely)
         I. (1739) Aquila Rithymna Beach (198 termínov) 🆕 *****+
