@@ -127,8 +127,8 @@
   `169` hotelov
 
 ```
-  1. (216) Acapulco Beach (781 termínov) *****+
-  2. (1583) Acapulco Beach Family Bungalow Resort (781 termínov) *****+
+  1. (216) Acapulco Beach (701 termínov) *****+
+  2. (1583) Acapulco Beach Family Bungalow Resort (701 termínov) *****+
   3. (1758) Adora Resort (527 termínov) 🆕 ******
   4. (108) Adriatic (58 termínov) ****
   5. (1587) Alaiye Resort (326 termínov) *****+
@@ -213,7 +213,7 @@
   84. (1762) Labranda Senses Resort (18 termínov) 🆕 ****
   85. (1659) Lake River Side Hotel & Spa (326 termínov) *****+
   86. (1634) Libanon Švajčiarsko Blízkeho východu De Luxe - poznávací zájazd (4 termíny) ***
-  87. (1589) Limak Lara De Luxe (326 termínov) ******
+  87. (1589) Limak Lara De Luxe (302 termínov) ******
   88. (345) Lindos Royal (196 termínov) *****
   89. (194) Lurdy - pútnický zájazd (10 termínov) ***
   90. (389) Madeira - ostrovný raj s turistikou  - Poznávací zájazd (6 termínov) **+
@@ -259,7 +259,7 @@
   130. (178) Rím De Luxe - poznávací zájazd (4 termíny) ***
   131. (177) Rím KLASIK - poznávací zájazd (4 termíny) **
   132. (1615) Royal Park (335 termínov) *****
-  133. (215) Salamis Bay Conti (4686 termínov) *****+
+  133. (215) Salamis Bay Conti (4218 termínov) *****+
   134. (1590) Santa Caterina (264 termínov) ****
   135. (456) Sea Breeze (71 termínov) ***+
   136. (1646) Sea Star Beau Rivage (52 termínov) *****
@@ -491,10 +491,10 @@
     III. (1556) Portugalsko De Luxe - poznávací zájazd (4 termíny) ***
   19. (1928) Severný Cyprus 🧭
     1. (1943) Famagusta (1 hotel)
-      I. (215) Salamis Bay Conti (4686 termínov) *****+
+      I. (215) Salamis Bay Conti (4218 termínov) *****+
     2. (1944) Kyrenia (2 hotely)
-      I. (216) Acapulco Beach (781 termínov) *****+
-      II. (1583) Acapulco Beach Family Bungalow Resort (781 termínov) *****+
+      I. (216) Acapulco Beach (701 termínov) *****+
+      II. (1583) Acapulco Beach Family Bungalow Resort (701 termínov) *****+
   20. (70) Španielsko 🧭
     1. (87) Malorka 🧭
       1. (3817) Playa de Muro - Alcúdia (1 hotel)
@@ -550,7 +550,7 @@
     2. (594) Antalya
       1. (1955) Lara (3 hotely)
         I. (304) Delphin Imperial (652 termínov) ******
-        II. (1589) Limak Lara De Luxe (326 termínov) ******
+        II. (1589) Limak Lara De Luxe (302 termínov) ******
         III. (1588) Swandor Topkapi Palace (918 termínov) ******
       2. (1903) Lara-Kundu (1 hotel)
         I. (171) IC Green Palace (532 termínov) ******
