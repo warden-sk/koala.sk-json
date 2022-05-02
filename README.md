@@ -147,10 +147,10 @@
   18. (158) Aska Just in Beach (319 termínov) *****+
   19. (1764) Aurora (76 termínov) 🆕 ***
   20. (1560) Belconti Resort (957 termínov) ******
-  21. (119) Blue Sea (212 termínov) ***
+  21. (119) Blue Sea (184 termínov) ***
   22. (1669) Blue Sea Beach Resort I. (324 termínov) *****
   23. (1670) Blue Sea Beach Resort II. (216 termínov) *****
-  24. (1547) Borgo di Fiuzzi (66 termínov) ****+
+  24. (1547) Borgo di Fiuzzi (57 termínov) ****+
   25. (114) Brzet (44 termínov) ***+
   26. (1759) Callisto Holiday Village (1262 termínov) 🆕 ****+
   27. (1608) Caribbean World Soma Bay (105 termínov) *****
@@ -209,7 +209,7 @@
   80. (76) Kotva (118 termínov) ****+
   81. (1742) Labranda Blue Bay (168 termínov) 🆕 *****
   82. (1743) Labranda Kiotari Miraluna (392 termínov) 🆕 *****
-  83. (121) Labranda Sandy Beach Resort (290 termínov) *****
+  83. (121) Labranda Sandy Beach Resort (230 termínov) *****
   84. (1762) Labranda Senses Resort (18 termínov) 🆕 ****
   85. (1659) Lake River Side Hotel & Spa (319 termínov) *****+
   86. (1634) Libanon Švajčiarsko Blízkeho východu De Luxe - poznávací zájazd (4 termíny) ***
@@ -226,14 +226,14 @@
   97. (1744) Mediterraneo (32 termínov) 🆕 ***+
   98. (326) Medžugorie - pútnický zájazd (4 termíny) **+
   99. (146) Melissa Kleopatra Beach (632 termínov) ***+
-  100. (1752) Messonghi Beach (174 termínov) 🆕 ****
+  100. (1752) Messonghi Beach (138 termínov) 🆕 ****
   101. (87) Mimosa (20 termínov) ****
   102. (444) Miramar Calafell (50 termínov) ****
   103. (431) Mix Peymar (135 termínov) ***+
   104. (1637) Mýtický Peloponéz De Luxe - poznávací zájazd (4 termíny) ***
   105. (404) Nelia Beach (1893 termínov) ****+
   106. (412) Nerton (319 termínov) *****
-  107. (231) Nicotera Beach (88 termínov) ****+
+  107. (231) Nicotera Beach (76 termínov) ****+
   108. (348) Nubia Aqua Beach Resort (104 termínov) *****
   109. (1515) Numa Bay Exclusive (319 termínov) *****+
   110. (113) Olympia (70 termínov) *****
@@ -260,12 +260,12 @@
   131. (177) Rím KLASIK - poznávací zájazd (4 termíny) **
   132. (1615) Royal Park (335 termínov) *****
   133. (215) Salamis Bay Conti (4218 termínov) *****+
-  134. (1590) Santa Caterina (264 termínov) ****
+  134. (1590) Santa Caterina (228 termínov) ****
   135. (456) Sea Breeze (71 termínov) ***+
   136. (1646) Sea Star Beau Rivage (52 termínov) *****
   137. (175) Sedem divov Islandu - poznávací zájazd (12 termínov) 
   138. (1760) Sentido Sandy Beach (631 termínov) 🆕 ****+
-  139. (1746) Serene Village (110 termínov) 🆕 ****+
+  139. (1746) Serene Village (95 termínov) 🆕 ****+
   140. (153) Serra Garden (638 termínov) *****
   141. (1512) Serra Park (638 termínov) ****+
   142. (1756) Sol by Melia (112 termínov) 🆕 *****
@@ -380,10 +380,10 @@
         I. (409) Portes Beach (63 termínov) *****
     3. (83) Korfu 🧭
       1. (134) Agios Georgios (2 hotely)
-        I. (119) Blue Sea (212 termínov) ***
-        II. (121) Labranda Sandy Beach Resort (290 termínov) *****
+        I. (119) Blue Sea (184 termínov) ***
+        II. (121) Labranda Sandy Beach Resort (230 termínov) *****
       2. (583) Moraitika / Messonghi (1 hotel)
-        I. (1752) Messonghi Beach (174 termínov) 🆕 ****
+        I. (1752) Messonghi Beach (138 termínov) 🆕 ****
     4. (85) Kréta 🧭
       1. (3781) Adelianos Kampos (2 hotely)
         I. (1739) Aquila Rithymna Beach (198 termínov) 🆕 *****+
@@ -521,13 +521,13 @@
         I. (1691) TYC (32 termínov) ***+
     2. (79) Kalábria 🧭
       1. (1988) Marinella di Cutro (1 hotel)
-        I. (1746) Serene Village (110 termínov) 🆕 ****+
+        I. (1746) Serene Village (95 termínov) 🆕 ****+
       2. (1912) Nicotera Marina (1 hotel)
-        I. (231) Nicotera Beach (88 termínov) ****+
+        I. (231) Nicotera Beach (76 termínov) ****+
       3. (3746) Praia a Mare (1 hotel)
-        I. (1547) Borgo di Fiuzzi (66 termínov) ****+
+        I. (1547) Borgo di Fiuzzi (57 termínov) ****+
       4. (3766) Scalea (1 hotel)
-        I. (1590) Santa Caterina (264 termínov) ****
+        I. (1590) Santa Caterina (228 termínov) ****
     3. (1925) Sardínia 🧭
       1. (3745) Cala Gonone (1 hotel)
         I. (1546) Club Esse Palmasera (100 termínov) ****+
