@@ -15,7 +15,7 @@ export interface FilterConditions {
 export interface SearchInput {
   category?: number[] | number;
   days?: [from: number, to: number];
-  destinationId?: number;
+  destinationId?: number[] | number;
   hasDiscount?: boolean;
   hotelId?: number;
   name?: string;
@@ -90,24 +90,26 @@ export class Tree {
     };
 
     const hotels = this.destinations.flatMap(destination =>
-      destination.hotels(true).filter(
-        hotel =>
-          // 1
-          filterConditions.hotel.every(filterCondition => filterCondition(hotel)) &&
-          // 2
-          hotel.terms.filter(hotelTerm =>
-            filterConditions.hotelTerm.every(filterCondition => filterCondition(hotelTerm))
-          ).length
+      destination.hotels(true).filter(hotel =>
+        // 1
+        filterConditions.hotel.every(filterCondition => filterCondition(hotel)) &&
+        // 2
+        hotel.terms.filter(hotelTerm => filterConditions.hotelTerm.every(filterCondition => filterCondition(hotelTerm)))
+          .length &&
+        // 3
+        destinationId
+          ? hotel
+              .breadcrumbs(hotel.parent, destination => destination.id)
+              .findIndex(breadcrumb =>
+                Array.isArray(destinationId)
+                  ? destinationId.findIndex(id => id === breadcrumb) !== -1
+                  : destinationId === breadcrumb
+              ) !== -1
+          : true
       )
     );
 
-    return hotels.filter(hotel =>
-      destinationId
-        ? hotel
-            .breadcrumbs(hotel.parent, destination => destination.id)
-            .findIndex(breadcrumb => breadcrumb === destinationId) !== -1
-        : true
-    );
+    return hotels;
   }
 }
 
