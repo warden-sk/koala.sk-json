@@ -14,6 +14,7 @@ export interface FilterConditions {
 
 export interface SearchInput {
   category?: number[] | number;
+  date?: [from: number, to: number];
   days?: [from: number, to: number];
   destinationId?: number[] | number;
   hasDiscount?: boolean;
@@ -38,6 +39,7 @@ export class Tree {
 
   search({
     category,
+    date,
     days,
     destinationId,
     hasDiscount,
@@ -50,6 +52,17 @@ export class Tree {
   }: SearchInput = {}): EnhancedHotel[] {
     const filterConditions: FilterConditions = {
       hotel: [
+        // (1) development
+        hotel =>
+          destinationId
+            ? hotel
+                .breadcrumbs(hotel.parent, destination => destination.id)
+                .findIndex(breadcrumb =>
+                  Array.isArray(destinationId)
+                    ? destinationId.findIndex(id => id === breadcrumb) !== -1
+                    : destinationId === breadcrumb
+                ) !== -1
+            : true,
         // has category
         hotel =>
           category
@@ -90,22 +103,14 @@ export class Tree {
     };
 
     const hotels = this.destinations.flatMap(destination =>
-      destination.hotels(true).filter(hotel =>
-        // 1
-        filterConditions.hotel.every(filterCondition => filterCondition(hotel)) &&
-        // 2
-        hotel.terms.filter(hotelTerm => filterConditions.hotelTerm.every(filterCondition => filterCondition(hotelTerm)))
-          .length &&
-        // 3
-        destinationId
-          ? hotel
-              .breadcrumbs(hotel.parent, destination => destination.id)
-              .findIndex(breadcrumb =>
-                Array.isArray(destinationId)
-                  ? destinationId.findIndex(id => id === breadcrumb) !== -1
-                  : destinationId === breadcrumb
-              ) !== -1
-          : true
+      destination.hotels(true).filter(
+        hotel =>
+          // 1
+          filterConditions.hotel.every(filterCondition => filterCondition(hotel)) &&
+          // 2
+          hotel.terms.filter(hotelTerm =>
+            filterConditions.hotelTerm.every(filterCondition => filterCondition(hotelTerm))
+          ).length
       )
     );
 

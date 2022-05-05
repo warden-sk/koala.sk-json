@@ -35,7 +35,7 @@ class EnhancedHotelTerm implements Omit<HotelTerm, 'date'> {
     const month = date[4] + date[5];
     const day = date[6] + date[7];
 
-    return new Date(+year, +month, +day);
+    return new Date(+year, +month - 1, +day);
   }
 
   hasDays(from: number, to: number): boolean {
