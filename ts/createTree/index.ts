@@ -13,17 +13,17 @@ export interface FilterConditions {
 }
 
 export interface SearchInput {
-  category?: number[] | number;
+  category?: number[];
   date?: [from: number, to: number];
   days?: [from: number, to: number];
-  destinationId?: number[] | number;
+  destinationId?: number[];
   hasDiscount?: boolean;
   hotelId?: number;
   name?: string;
   price?: [from: number, to: number];
-  serviceId?: number[] | number;
-  stars?: number[] | number;
-  transportationId?: number[] | number;
+  serviceId?: number[];
+  stars?: number[];
+  transportationId?: number[];
 }
 
 export class Tree {
@@ -57,19 +57,10 @@ export class Tree {
           destinationId
             ? hotel
                 .breadcrumbs(hotel.parent, destination => destination.id)
-                .findIndex(breadcrumb =>
-                  Array.isArray(destinationId)
-                    ? destinationId.findIndex(id => id === breadcrumb) !== -1
-                    : destinationId === breadcrumb
-                ) !== -1
+                .findIndex(breadcrumb => destinationId.findIndex(id => id === breadcrumb) !== -1) !== -1
             : true,
         // has category
-        hotel =>
-          category
-            ? Array.isArray(category)
-              ? category.findIndex(hotel.hasCategory) !== -1
-              : hotel.hasCategory(category)
-            : true,
+        hotel => (category ? category.findIndex(hotel.hasCategory) !== -1 : true),
         // has id
         hotel => (hotelId ? hotel.id === hotelId : true),
         // has name
@@ -82,8 +73,7 @@ export class Tree {
               : hotel.hasServiceId(serviceId)
             : true,
         // has stars
-        hotel =>
-          stars ? (Array.isArray(stars) ? stars.findIndex(hotel.hasStars) !== -1 : hotel.hasStars(stars)) : true,
+        hotel => (stars ? stars.findIndex(hotel.hasStars) !== -1 : true),
       ],
       hotelTerm: [
         // has days
@@ -93,12 +83,7 @@ export class Tree {
         // has price
         hotelTerm => (price ? hotelTerm.hasPrice(price[0], price[1]) : true),
         // has transportationId
-        hotelTerm =>
-          transportationId
-            ? Array.isArray(transportationId)
-              ? transportationId.findIndex(hotelTerm.hasTransportationId) !== -1
-              : hotelTerm.hasTransportationId(transportationId)
-            : true,
+        hotelTerm => (transportationId ? transportationId.findIndex(hotelTerm.hasTransportationId) !== -1 : true),
       ],
     };
 
