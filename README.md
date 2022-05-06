@@ -155,7 +155,7 @@
   26. (1759) Callisto Holiday Village (1262 termínov) 🆕 ****+
   27. (1608) Caribbean World Soma Bay (94 termínov) *****
   28. (162) Club Calimera Serra Palace (630 termínov) ******
-  29. (1546) Club Esse Palmasera (104 termínov) ****+
+  29. (1546) Club Esse Palmasera (100 termínov) ****+
   30. (376) Club Hotel Angelini (48 termínov) ****
   31. (1661) Club Mega Saray (1575 termínov) ******
   32. (1751) Condesa (100 termínov) 🆕 *****
@@ -528,7 +528,7 @@
         I. (1590) Santa Caterina (252 termínov) ****
     3. (1925) Sardínia 🧭
       1. (3745) Cala Gonone (1 hotel)
-        I. (1546) Club Esse Palmasera (104 termínov) ****+
+        I. (1546) Club Esse Palmasera (100 termínov) ****+
       2. (3695) Santa Teresa Gallura (1 hotel)
         I. (436) Marmorata Sea View Resort (80 termínov) ****
   22. (72) Turecko 🧭

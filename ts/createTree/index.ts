@@ -76,6 +76,8 @@ export class Tree {
         hotel => (stars ? stars.findIndex(hotel.hasStars) !== -1 : true),
       ],
       hotelTerm: [
+        // (2) development
+        hotelTerm => (date ? +hotelTerm.date[0] > date[0] && +hotelTerm.date[1] < date[1] : true),
         // has days
         hotelTerm => (days ? hotelTerm.hasDays(days[0], days[1]) : true),
         // has discount
