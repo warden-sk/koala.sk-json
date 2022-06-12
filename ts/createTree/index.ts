@@ -30,12 +30,8 @@ export class Tree {
   destinations: EnhancedDestination[];
 
   constructor(destinations: Destination[]) {
-    this.destinations = destinations.map(this.#createEnhancedDestination);
+    this.destinations = destinations.map(destination => new EnhancedDestination(destination));
   }
-
-  #createEnhancedDestination = (destination: Destination): EnhancedDestination => {
-    return new EnhancedDestination(destination);
-  };
 
   search({
     category,

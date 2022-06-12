@@ -4,7 +4,6 @@
 
 import type { Destination } from '../createDestination';
 import EnhancedHotel from './EnhancedHotel';
-import type { Hotel } from '../createHotel';
 
 class EnhancedDestination implements Omit<Destination, 'destinations' | 'hotels'> {
   #hotels: EnhancedHotel[];
@@ -20,10 +19,10 @@ class EnhancedDestination implements Omit<Destination, 'destinations' | 'hotels'
   parentId: number;
 
   constructor(destination: Destination, parent?: EnhancedDestination) {
-    this.#hotels = destination.hotels.map(this.#createEnhancedHotel);
+    this.#hotels = destination.hotels.map(hotel => new EnhancedHotel(hotel, this));
 
     this.category = destination.category;
-    this.destinations = destination.destinations.map(this.#createEnhancedDestination);
+    this.destinations = destination.destinations.map(destination => new EnhancedDestination(destination, this));
     this.id = destination.id;
     this.latitude = destination.latitude || 0;
     this.level = destination.level;
@@ -32,14 +31,6 @@ class EnhancedDestination implements Omit<Destination, 'destinations' | 'hotels'
     this.parent = parent;
     this.parentId = destination.parentId;
   }
-
-  #createEnhancedDestination = (destination: Destination): EnhancedDestination => {
-    return new EnhancedDestination(destination, this);
-  };
-
-  #createEnhancedHotel = (hotel: Hotel): EnhancedHotel => {
-    return new EnhancedHotel(hotel, this);
-  };
 
   hotels(recursion = false): EnhancedHotel[] {
     if (recursion) {

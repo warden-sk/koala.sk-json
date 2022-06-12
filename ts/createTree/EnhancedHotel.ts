@@ -5,7 +5,6 @@
 import type EnhancedDestination from './EnhancedDestination';
 import EnhancedHotelTerm from './EnhancedHotelTerm';
 import type { Hotel } from '../createHotel';
-import type { HotelTerm } from '../createHotelTerm';
 import type { SearchInput } from './index';
 
 class EnhancedHotel implements Omit<Hotel, 'terms'> {
@@ -34,7 +33,7 @@ class EnhancedHotel implements Omit<Hotel, 'terms'> {
     this.photoId = hotel.photoId;
     this.serviceId = hotel.serviceId;
     this.stars = hotel.stars;
-    this.terms = hotel.terms.map(this.#createEnhancedHotelTerm);
+    this.terms = hotel.terms.map(hotelTerm => new EnhancedHotelTerm(hotelTerm, this));
     this.type = hotel.type;
     this.videoId = hotel.videoId;
   }
@@ -42,10 +41,6 @@ class EnhancedHotel implements Omit<Hotel, 'terms'> {
   breadcrumbs<T>(destination: EnhancedDestination | undefined, on: (destination: EnhancedDestination) => T): T[] {
     return destination ? [...this.breadcrumbs(destination.parent, on), on(destination)] : [];
   }
-
-  #createEnhancedHotelTerm = (hotelTerm: HotelTerm): EnhancedHotelTerm => {
-    return new EnhancedHotelTerm(hotelTerm, this);
-  };
 
   decodeServiceId(): string {
     const ids: { [id: number]: string } = {
