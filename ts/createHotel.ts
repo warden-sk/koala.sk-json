@@ -2,7 +2,8 @@
  * Copyright 2022 Marek Kobida
  */
 
-import createHotelTerm, { HotelTerm } from './createHotelTerm';
+import type { HotelTerm } from './createHotelTerm';
+import createHotelTerm from './createHotelTerm';
 
 export interface Hotel {
   category: number;

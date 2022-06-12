@@ -2,9 +2,9 @@
  * Copyright 2022 Marek Kobida
  */
 
-import { Destination } from '../createDestination';
+import type { Destination } from '../createDestination';
 import EnhancedHotel from './EnhancedHotel';
-import { Hotel } from '../createHotel';
+import type { Hotel } from '../createHotel';
 
 class EnhancedDestination implements Omit<Destination, 'destinations' | 'hotels'> {
   #hotels: EnhancedHotel[];

@@ -2,8 +2,8 @@
  * Copyright 2022 Marek Kobida
  */
 
-import EnhancedHotel from './EnhancedHotel';
-import { HotelTerm } from '../createHotelTerm';
+import type EnhancedHotel from './EnhancedHotel';
+import type { HotelTerm } from '../createHotelTerm';
 
 class EnhancedHotelTerm implements Omit<HotelTerm, 'date'> {
   code: number;

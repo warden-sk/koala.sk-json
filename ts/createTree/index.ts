@@ -2,10 +2,10 @@
  * Copyright 2022 Marek Kobida
  */
 
-import { Destination } from '../createDestination';
+import type { Destination } from '../createDestination';
 import EnhancedDestination from './EnhancedDestination';
-import EnhancedHotel from './EnhancedHotel';
-import EnhancedHotelTerm from './EnhancedHotelTerm';
+import type EnhancedHotel from './EnhancedHotel';
+import type EnhancedHotelTerm from './EnhancedHotelTerm';
 
 export interface FilterConditions {
   hotel: ((hotel: EnhancedHotel) => boolean)[];

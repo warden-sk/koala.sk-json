@@ -2,7 +2,8 @@
  * Copyright 2022 Marek Kobida
  */
 
-import createHotel, { Hotel } from './createHotel';
+import type { Hotel } from './createHotel';
+import createHotel from './createHotel';
 
 export interface Destination {
   category: number[];

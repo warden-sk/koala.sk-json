@@ -2,11 +2,11 @@
  * Copyright 2022 Marek Kobida
  */
 
-import EnhancedDestination from './EnhancedDestination';
+import type EnhancedDestination from './EnhancedDestination';
 import EnhancedHotelTerm from './EnhancedHotelTerm';
-import { Hotel } from '../createHotel';
-import { HotelTerm } from '../createHotelTerm';
-import { SearchInput } from './index';
+import type { Hotel } from '../createHotel';
+import type { HotelTerm } from '../createHotelTerm';
+import type { SearchInput } from './index';
 
 class EnhancedHotel implements Omit<Hotel, 'terms'> {
   category: number;
