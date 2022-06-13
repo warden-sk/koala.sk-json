@@ -32,6 +32,10 @@ class EnhancedDestination implements Omit<Destination, 'destinations' | 'hotels'
     this.parentId = destination.parentId;
   }
 
+  breadcrumbs<T>(destination: EnhancedDestination | undefined, on: (destination: EnhancedDestination) => T): T[] {
+    return destination ? [...this.breadcrumbs(destination.parent, on), on(destination)] : [];
+  }
+
   hotels(recursion = false): EnhancedHotel[] {
     if (recursion) {
       let hotels: EnhancedHotel[] = [...this.#hotels];
