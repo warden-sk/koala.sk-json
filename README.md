@@ -194,7 +194,7 @@
   65. (308) Imperial hotel (156 termínov) ****
   66. (1695) Imperial Palace (420 termínov) *****
   67. (1777) Imperial Turkiz Resort (408 termínov) 🆕 ******
-  68. (490) Imperial villas (148 termínov) ***+
+  68. (490) Imperial villas (140 termínov) ***+
   69. (1697) Írsko zelený ostrov - poznávací zájazd (4 termíny) **
   70. (1551) Istanbul De Luxe - poznávací zájazd (4 termíny) ***
   71. (190) Izrael a Mŕtve more - pútnický zájazd letecky (4 termíny) ***
@@ -248,7 +248,7 @@
   119. (1640) Pohodový Island - poznávací zájazd (3 termíny) **
   120. (1586) Port River Hotel & Spa (416 termínov) *****+
   121. (409) Portes Beach (63 termínov) *****
-  122. (1556) Portugalsko De Luxe - poznávací zájazd (4 termíny) ***
+  122. (1556) Portugalsko De Luxe - poznávací zájazd (2 termíny) ***
   123. (1747) Premier Le Reve Hotel & Spa (76 termínov) 🆕 ******
   124. (1708) Punta (36 termínov) ****
   125. (1741) Relax (535 termínov) 🆕 ****
@@ -428,7 +428,7 @@
         V. (1765) Falkensteiner Club Funimation Borik (46 termínov) 🆕 ****+
         VI. (1683) Imperial - Lucija (148 termínov) ***+
         VII. (308) Imperial hotel (156 termínov) ****
-        VIII. (490) Imperial villas (148 termínov) ***+
+        VIII. (490) Imperial villas (140 termínov) ***+
         IX. (1545) Medena (398 termínov) ****
         X. (1686) Medena Superior Premium (148 termínov) ****
         XI. (113) Olympia (68 termínov) *****
@@ -470,7 +470,7 @@
     I. (1639) Do srdca nórskych fjordov - Poznávací zájazd (6 termínov) ***
   18. (69) Portugalsko (2 hotely) 🧭
     I. (192) Fatima a Santiago de Compostela  - pútnický zájazd (4 termíny) ***
-    II. (1556) Portugalsko De Luxe - poznávací zájazd (4 termíny) ***
+    II. (1556) Portugalsko De Luxe - poznávací zájazd (2 termíny) ***
   19. (1928) Severný Cyprus 🧭
     1. (1943) Famagusta (1 hotel)
       I. (215) Salamis Bay Conti (4242 termínov) *****+
