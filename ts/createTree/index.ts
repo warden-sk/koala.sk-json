@@ -60,7 +60,7 @@ export class Tree {
         // has id
         hotel => (hotelId ? hotel.id === hotelId : true),
         // has name
-        hotel => (name ? new RegExp(name).test(hotel.name) : true),
+        hotel => (name ? new RegExp(name, 'i').test(hotel.name) : true),
         // has serviceId
         hotel =>
           serviceId
