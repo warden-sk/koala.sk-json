@@ -33,7 +33,7 @@ export class Tree {
     this.destinations = destinations.map(destination => new EnhancedDestination(destination));
   }
 
-  search({
+  searchHotels({
     category,
     date,
     days,
