@@ -17,7 +17,7 @@ function decode_json<T>(json: T): Test<T> {
 
   if (typeof json === 'object')
     return Object.entries(json).reduce<{ [K: string]: string }>((t, [l, r]) => {
-      const key = keys[l as keyof typeof keys] || l;
+      const key = keys[l as keyof typeof keys] ?? l;
 
       t[key] = decode_json(r);
 

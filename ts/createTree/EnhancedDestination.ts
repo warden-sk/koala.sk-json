@@ -24,9 +24,9 @@ class EnhancedDestination implements Omit<Destination, 'destinations' | 'hotels'
     this.category = destination.category;
     this.destinations = destination.destinations.map(destination => new EnhancedDestination(destination, this));
     this.id = destination.id;
-    this.latitude = destination.latitude || 0;
+    this.latitude = destination.latitude ?? 0;
     this.level = destination.level;
-    this.longitude = destination.longitude || 0;
+    this.longitude = destination.longitude ?? 0;
     this.name = destination.name;
     this.parent = parent;
     this.parentId = destination.parentId;

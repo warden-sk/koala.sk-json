@@ -26,7 +26,7 @@ class EnhancedHotel implements Omit<Hotel, 'terms'> {
     this.category = hotel.category;
     this.equipment = hotel.equipment;
     this.id = hotel.id;
-    this.isNew = hotel.isNew || false;
+    this.isNew = hotel.isNew ?? false;
     this.name = hotel.name;
     this.parent = parent;
     this.parentId = hotel.parentId;

@@ -20,7 +20,7 @@ class EnhancedHotelTerm implements Omit<HotelTerm, 'date'> {
     this.code = hotelTerm.code;
     this.date = [this.decodeDate(hotelTerm.date[0]), this.decodeDate(hotelTerm.date[1])];
     this.days = hotelTerm.days;
-    this.discount = hotelTerm.discount || 0;
+    this.discount = hotelTerm.discount ?? 0;
     this.id = hotelTerm.id;
     this.parent = parent;
     this.price = hotelTerm.price;
