@@ -17,6 +17,7 @@ export interface Hotel {
   stars: number;
   terms: HotelTerm[];
   type: number;
+  url:string,
   videoId?: string;
 }
 
@@ -27,6 +28,7 @@ function createHotel(): Hotel {
     category: 1,
     equipment: [],
     id: id++,
+    // isNew
     name: 'Hotel',
     parentId: 0,
     photoId: 0,
@@ -34,6 +36,8 @@ function createHotel(): Hotel {
     stars: 2.5,
     terms: [createHotelTerm()],
     type: 3,
+    url:'',
+    // videoId
   };
 }
 

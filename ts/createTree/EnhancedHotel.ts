@@ -20,6 +20,7 @@ class EnhancedHotel implements Omit<Hotel, 'terms'> {
   stars: number;
   terms: EnhancedHotelTerm[];
   type: number;
+  url: string;
   videoId?: string;
 
   constructor(hotel: Hotel, parent?: EnhancedDestination) {
@@ -35,6 +36,7 @@ class EnhancedHotel implements Omit<Hotel, 'terms'> {
     this.stars = hotel.stars;
     this.terms = hotel.terms.map(hotelTerm => new EnhancedHotelTerm(hotelTerm, this));
     this.type = hotel.type;
+    this.url = hotel.url;
     this.videoId = hotel.videoId;
   }
 

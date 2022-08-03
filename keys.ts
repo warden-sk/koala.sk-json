@@ -26,7 +26,8 @@ const keys = {
   u: 'transportationFromId',
   v: 'transportationId',
   w: 'type',
-  x: 'videoId',
+  x: 'url',
+  y: 'videoId',
 } as const;
 
 export default keys;
