@@ -17,7 +17,6 @@ export interface Hotel {
   stars: number;
   terms: HotelTerm[];
   type: number;
-  url: string;
   videoId?: string;
 }
 
@@ -36,7 +35,6 @@ function createHotel(): Hotel {
     stars: 2.5,
     terms: [createHotelTerm()],
     type: 3,
-    url: '',
     // videoId
   };
 }
