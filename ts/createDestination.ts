@@ -25,7 +25,9 @@ function createDestination(hotelsLength: number): Destination {
     destinations: [],
     hotels: Array.from({ length: hotelsLength }, createHotel),
     id: id++,
+    // latitude
     level: 0,
+    // longitude
     name: 'Destination',
     parentId: 0,
   };
