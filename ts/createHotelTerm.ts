@@ -11,6 +11,7 @@ export interface HotelTerm {
   price: number;
   transportationFromId?: number;
   transportationId: number;
+  url?: string;
 }
 
 let id = 0;
