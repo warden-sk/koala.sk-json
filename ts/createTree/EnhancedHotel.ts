@@ -2,10 +2,9 @@
  * Copyright 2022 Marek Kobida
  */
 
+import type { Hotel } from '../createHotel';
 import type EnhancedDestination from './EnhancedDestination';
 import EnhancedHotelTerm from './EnhancedHotelTerm';
-import type { Hotel } from '../createHotel';
-import type { SearchInput } from './index';
 
 class EnhancedHotel implements Omit<Hotel, 'terms'> {
   category: number;
@@ -84,10 +83,6 @@ class EnhancedHotel implements Omit<Hotel, 'terms'> {
 
   hasTerms(): boolean {
     return this.terms.length > 0;
-  }
-
-  searchTerm({ days, price, transportationId }: SearchInput = {}): EnhancedHotelTerm | undefined {
-    return this.terms[0];
   }
 }
 

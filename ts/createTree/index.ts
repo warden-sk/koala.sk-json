@@ -82,15 +82,24 @@ export class Tree {
     };
 
     const hotels = this.destinations.flatMap(destination =>
-      destination.hotels(true).filter(
-        hotel =>
-          // 1
-          filterConditions.hotel.every(filterCondition => filterCondition(hotel)) &&
-          // 2
-          hotel.terms.filter(hotelTerm =>
+      destination
+        .hotels(true)
+        .filter(
+          hotel =>
+            // 1
+            filterConditions.hotel.every(filterCondition => filterCondition(hotel)) &&
+            // 2
+            hotel.terms.filter(hotelTerm =>
+              filterConditions.hotelTerm.every(filterCondition => filterCondition(hotelTerm))
+            ).length
+        )
+        .map(hotel => {
+          hotel.terms = hotel.terms.filter(hotelTerm =>
             filterConditions.hotelTerm.every(filterCondition => filterCondition(hotelTerm))
-          ).length
-      )
+          );
+
+          return hotel;
+        })
     );
 
     return hotels;
