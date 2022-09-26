@@ -98,31 +98,29 @@ export class Tree {
         )
         .map(hotel => {
           hotel.terms = hotel.terms
-          .filter(hotelTerm =>
-            filterConditions.hotelTerm.every(filterCondition => filterCondition(hotelTerm))
-          )
-          .sort((l,r) => l.price > r.price ? 1 : -1);
+            .filter(hotelTerm => filterConditions.hotelTerm.every(filterCondition => filterCondition(hotelTerm)))
+            .sort((l, r) => (l.price > r.price ? 1 : -1));
 
           return hotel;
         })
     );
 
     // TODO
-    const [sl,sr] = s?.split(',') ?? []
+    const [sl, sr] = s?.split(',') ?? [];
 
-    console.log('slsr', s,sl, sr)
+    console.log('slsr', s, sl, sr);
 
     if (sl && sr) {
-      if (sl === 'price' && sr==='0') {
-        hotels = hotels.sort((l,r)=>l.terms[0].price < r.terms[0].price ? 1 : -1)
-      } else if (sl==='price' && sr==='1') {
-        hotels = hotels.sort((l,r)=>l.terms[0].price > r.terms[0].price ? 1 : -1)
+      if (sl === 'price' && sr === '0') {
+        hotels = hotels.sort((l, r) => (l.terms[0].price < r.terms[0].price ? 1 : -1));
+      } else if (sl === 'price' && sr === '1') {
+        hotels = hotels.sort((l, r) => (l.terms[0].price > r.terms[0].price ? 1 : -1));
       }
     }
 
     return hotels;
   }
-} 
+}
 
 function createTree(destinations: Destination[]): Tree {
   return new Tree(destinations);
