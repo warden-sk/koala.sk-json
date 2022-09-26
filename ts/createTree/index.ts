@@ -23,6 +23,8 @@ export interface SearchInput {
   serviceId?: number[];
   stars?: number[];
   transportationId?: number[];
+  //--------------------------------------------------------------------------------------------------------------------
+  s?: string;
 }
 
 export class Tree {
@@ -40,6 +42,7 @@ export class Tree {
     hasDiscount,
     hotelId,
     price,
+    s,
     serviceId,
     stars,
     transportationId,
@@ -81,7 +84,7 @@ export class Tree {
       ],
     };
 
-    const hotels = this.destinations.flatMap(destination =>
+    let hotels = this.destinations.flatMap(destination =>
       destination
         .hotels(true)
         .filter(
@@ -94,13 +97,19 @@ export class Tree {
             ).length
         )
         .map(hotel => {
-          hotel.terms = hotel.terms.filter(hotelTerm =>
+          hotel.terms = hotel.terms
+          .filter(hotelTerm =>
             filterConditions.hotelTerm.every(filterCondition => filterCondition(hotelTerm))
-          );
+          )
+          .sort((l,r) => l.price > r.price ? 1 : -1);
 
           return hotel;
         })
     );
+
+    if (s) {
+      hotels = hotels.sort((l,r)=>l.terms[0].price > r.terms[0].price ? 1 : -1)
+    }
 
     return hotels;
   }
