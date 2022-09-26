@@ -107,13 +107,21 @@ export class Tree {
         })
     );
 
-    if (s) {
-      hotels = hotels.sort((l,r)=>l.terms[0].price > r.terms[0].price ? 1 : -1)
+    const [sl,sr] = s?.split(',') ?? []
+
+    console.log('slsr', s,sl, sr)
+
+    if (sl && sr) {
+      if (sl === 'price' && sr==='0') {
+        hotels = hotels.sort((l,r)=>l.terms[0].price < r.terms[0].price ? 1 : -1)
+      } else if (sl==='price' && sr==='1') {
+        hotels = hotels.sort((l,r)=>l.terms[0].price > r.terms[0].price ? 1 : -1)
+      }
     }
 
     return hotels;
   }
-}
+} 
 
 function createTree(destinations: Destination[]): Tree {
   return new Tree(destinations);
