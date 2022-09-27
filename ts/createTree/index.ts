@@ -2,6 +2,7 @@
  * Copyright 2022 Marek Kobida
  */
 
+import EnhancedRegExp from '../../../private/helpers/EnhancedRegExp';
 import type { Destination } from '../createDestination';
 import EnhancedDestination from './EnhancedDestination';
 import type EnhancedHotel from './EnhancedHotel';
@@ -24,7 +25,7 @@ export interface SearchInput {
   stars?: number[];
   transportationId?: number[];
   //--------------------------------------------------------------------------------------------------------------------
-  test?: string;
+  s?: string;
 }
 
 export class Tree {
@@ -42,9 +43,9 @@ export class Tree {
     hasDiscount,
     hotelId,
     price,
+    s,
     serviceId,
     stars,
-    test,
     transportationId,
   }: SearchInput = {}): EnhancedHotel[] {
     const filterConditions: FilterConditions = {
@@ -106,17 +107,35 @@ export class Tree {
     );
 
     // TODO
-    const [sl, sr] = test?.split(',') ?? [];
+    if (s) {
+      const pattern = /^(?<left>[^\u2191|\u2193]+)(?<right>\u2191|\u2193)$/;
 
-    console.log('slsr', test, sl, sr);
+      const { left, right } = new EnhancedRegExp<{ left: string; right: string }>(pattern).groups(s);
 
-    if (sl && sr) {
-      console.log('kkt', sr === '\u2193', sr === '\u2191')
-      if (sl === 'price' && sr === '\u2191') {
+      const UP = '\u2191';
+      const DOWN = '\u2193';
+
+      if (left === 'date' && right === UP) {
+        hotels = hotels.sort((l, r) => (l.terms[0].date > r.terms[0].date ? 1 : -1));
+      }
+
+      if (left === 'date' && right === DOWN) {
+        hotels = hotels.sort((l, r) => (l.terms[0].date < r.terms[0].date ? 1 : -1));
+      }
+
+      if (left === 'discount' && right === UP) {
+        hotels = hotels.sort((l, r) => (l.terms[0].discount > r.terms[0].discount ? 1 : -1));
+      }
+
+      if (left === 'discount' && right === DOWN) {
+        hotels = hotels.sort((l, r) => (l.terms[0].discount < r.terms[0].discount ? 1 : -1));
+      }
+
+      if (left === 'price' && right === UP) {
         hotels = hotels.sort((l, r) => (l.terms[0].price > r.terms[0].price ? 1 : -1));
-      } 
-      
-      if (sl === 'price' && sr === '\u2193') {
+      }
+
+      if (left === 'price' && right === DOWN) {
         hotels = hotels.sort((l, r) => (l.terms[0].price < r.terms[0].price ? 1 : -1));
       }
     }
