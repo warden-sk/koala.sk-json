@@ -18,7 +18,7 @@ let id = 0;
 
 function createHotelTerm(): HotelTerm {
   return {
-    code: 0,
+    code: 1234,
     date: [19700101, 19700101],
     days: 0,
     discount: 50,
