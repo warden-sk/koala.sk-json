@@ -24,7 +24,7 @@ export interface SearchInput {
   stars?: number[];
   transportationId?: number[];
   //--------------------------------------------------------------------------------------------------------------------
-  s?: string;
+  test?: string;
 }
 
 export class Tree {
@@ -42,9 +42,9 @@ export class Tree {
     hasDiscount,
     hotelId,
     price,
-    s,
     serviceId,
     stars,
+    test,
     transportationId,
   }: SearchInput = {}): EnhancedHotel[] {
     const filterConditions: FilterConditions = {
@@ -106,15 +106,18 @@ export class Tree {
     );
 
     // TODO
-    const [sl, sr] = s?.split(',') ?? [];
+    const [sl, sr] = test?.split(',') ?? [];
 
-    console.log('slsr', s, sl, sr);
+    console.log('slsr', test, sl, sr);
 
     if (sl && sr) {
-      if (sl === 'price' && sr === '0') {
-        hotels = hotels.sort((l, r) => (l.terms[0].price < r.terms[0].price ? 1 : -1));
-      } else if (sl === 'price' && sr === '1') {
+      console.log('kkt', sr === '\u2193', sr === '\u2191')
+      if (sl === 'price' && sr === '\u2191') {
         hotels = hotels.sort((l, r) => (l.terms[0].price > r.terms[0].price ? 1 : -1));
+      } 
+      
+      if (sl === 'price' && sr === '\u2193') {
+        hotels = hotels.sort((l, r) => (l.terms[0].price < r.terms[0].price ? 1 : -1));
       }
     }
 
