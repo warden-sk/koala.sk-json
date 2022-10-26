@@ -32,7 +32,7 @@ function createHotel(): Hotel {
     parentId: 0,
     photoId: 0,
     serviceId: 403,
-    stars: 2.5,
+    stars: 5,
     terms: [createHotelTerm()],
     type: 3,
     // videoId
