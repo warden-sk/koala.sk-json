@@ -4,27 +4,29 @@
 
 import keys from './keys';
 
-type Test<T> = T extends readonly unknown[]
-  ? { [K in keyof T]: Test<T[K]> }
-  : T extends object
-  ? {
-      [K in keyof T as K extends keyof typeof keys ? typeof keys[K] : K]: Test<T[K]>;
-    }
-  : T;
+// @ts-ignore
+function decode_json(json) {
+  if (Array.isArray(json)) {
+    return json.map(decode_json);
+  }
 
-function decode_json<T>(json: T): Test<T> {
-  if (Array.isArray(json)) return json.map(decode_json) as readonly unknown[] as Test<T>;
+  if (isObject(json)) {
+    return Object.entries(json).reduce(($, [l, r]) => {
+      // @ts-ignore
+      const key = keys[l] ?? l;
 
-  if (typeof json === 'object')
-    return Object.entries(json).reduce<{ [K: string]: string }>((t, [l, r]) => {
-      const key = keys[l as keyof typeof keys] ?? l;
+      // @ts-ignore
+      $[key] = decode_json(r);
 
-      t[key] = decode_json(r);
+      return $;
+    }, {});
+  }
 
-      return t;
-    }, {}) as unknown as Test<T>;
+  return json;
+}
 
-  return json as Test<T>;
+function isObject(input: unknown): input is { [key: string]: unknown } {
+  return Object.prototype.toString.call(input) === '[object Object]';
 }
 
 export default decode_json;
