@@ -10,6 +10,7 @@ export interface Destination {
   destinations: Destination[];
   hotels: Hotel[];
   id: number;
+  isActive?: boolean;
   latitude?: number;
   level: number;
   longitude?: number;
@@ -25,6 +26,7 @@ function createDestination(hotelsLength: number): Destination {
     destinations: [],
     hotels: Array.from({ length: hotelsLength }, createHotel),
     id: id++,
+    // isActive
     // latitude
     level: 0,
     // longitude
