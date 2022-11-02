@@ -11,6 +11,7 @@ class EnhancedDestination implements Omit<Destination, 'destinations' | 'hotels'
   category: number[];
   destinations: EnhancedDestination[];
   id: number;
+  isActive: boolean;
   latitude: number;
   level: number;
   longitude: number;
@@ -24,6 +25,7 @@ class EnhancedDestination implements Omit<Destination, 'destinations' | 'hotels'
     this.category = destination.category;
     this.destinations = destination.destinations.map(destination => new EnhancedDestination(destination, this));
     this.id = destination.id;
+    this.isActive = destination.isActive ?? false;
     this.latitude = destination.latitude ?? 0;
     this.level = destination.level;
     this.longitude = destination.longitude ?? 0;

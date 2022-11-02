@@ -2,11 +2,11 @@
  * Copyright 2022 Marek Kobida
  */
 
-import EnhancedRegExp from '../../../private/helpers/EnhancedRegExp';
 import type { Destination } from '../createDestination';
 import EnhancedDestination from './EnhancedDestination';
 import type EnhancedHotel from './EnhancedHotel';
 import type EnhancedHotelTerm from './EnhancedHotelTerm';
+import EnhancedRegExp from '../../../private/helpers/EnhancedRegExp';
 
 export interface FilterConditions {
   hotel: ((hotel: EnhancedHotel) => boolean)[];
