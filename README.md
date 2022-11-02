@@ -11,70 +11,74 @@
   5. (1978) Albánsko 🧭
   6. (594) Antalya
   7. (3708) Arménsko 🧭
-  8. (3682) Ayia Napa
-  9. (3627) Bečiči
-  10. (595) Belek
-  11. (3653) Bellaria
-  12. (3584) Bosna a Hercegovina 🧭
-  13. (60) Bulharsko 🧭
-  14. (3745) Cala Gonone
-  15. (3816) Cala Millor
-  16. (3700) Calafell
-  17. (568) Crikvenica
-  18. (62) Cyprus 🧭
-  19. (61) Čierna Hora 🧭
-  20. (1963) Dalmácia 🧭
-  21. (1980) Durrës
-  22. (68) Egypt 🧭
-  23. (170) Elenite
-  24. (3819) Faerské ostrovy 🧭
-  25. (147) Faliraki
-  26. (1943) Famagusta
-  27. (77) Francúzsko 🧭
-  28. (64) Grécko a ostrovy 🧭
-  29. (103) Hurghada
-  30. (3683) Chalkidiki 🧭
-  31. (65) Chorvátsko 🧭
-  32. (562) Írsko 🧭
-  33. (3711) Island 🧭
-  34. (172) Istria 🧭
-  35. (76) Izrael 🧭
-  36. (1927) Jadranské pobrežie 🧭
-  37. (3820) Jordánsko 🧭
-  38. (174) Južná Dalmácia 🧭
-  39. (79) Kalábria 🧭
-  40. (159) Kemer
-  41. (83) Korfu 🧭
-  42. (85) Kréta 🧭
-  43. (1944) Kyrenia
-  44. (1955) Lara
-  45. (3681) Larnaka
-  46. (3772) Libanon 🧭
-  47. (3629) Limassol
-  48. (596) Makadi Bay
-  49. (87) Malorka 🧭
-  50. (1988) Marinella di Cutro
-  51. (3686) Nea Potidea
-  52. (561) Nórsko 🧭
-  53. (3764) Olympská riviéra 🧭
-  54. (602) Pomorie
-  55. (69) Portugalsko 🧭
-  56. (3703) Primorsko
-  57. (3727) Protaras
-  58. (88) Rhodos 🧭
-  59. (1915) Sahl Hasheesh
-  60. (1925) Sardínia 🧭
-  61. (1928) Severný Cyprus 🧭
-  62. (158) Side
-  63. (573) Slnečné pobrežie
-  64. (105) Soma Bay
-  65. (100) Sutomore
-  66. (572) Sveti Vlas
-  67. (70) Španielsko 🧭
-  68. (1926) Španielsko pevnina 🧭
-  69. (78) Taliansko 🧭
-  70. (72) Turecko 🧭
-  71. (90) Zakynthos 🧭
+  8. (82) Atény 🧭
+  9. (3682) Ayia Napa
+  10. (3627) Bečiči
+  11. (595) Belek
+  12. (3653) Bellaria
+  13. (3584) Bosna a Hercegovina 🧭
+  14. (60) Bulharsko 🧭
+  15. (3745) Cala Gonone
+  16. (3816) Cala Millor
+  17. (3700) Calafell
+  18. (568) Crikvenica
+  19. (62) Cyprus 🧭
+  20. (61) Čierna Hora 🧭
+  21. (1963) Dalmácia 🧭
+  22. (1980) Durrës
+  23. (68) Egypt 🧭
+  24. (170) Elenite
+  25. (3819) Faerské ostrovy 🧭
+  26. (147) Faliraki
+  27. (1943) Famagusta
+  28. (77) Francúzsko 🧭
+  29. (64) Grécko a ostrovy 🧭
+  30. (103) Hurghada
+  31. (3683) Chalkidiki 🧭
+  32. (65) Chorvátsko 🧭
+  33. (562) Írsko 🧭
+  34. (3711) Island 🧭
+  35. (1969) Istanbul
+  36. (172) Istria 🧭
+  37. (76) Izrael 🧭
+  38. (1927) Jadranské pobrežie 🧭
+  39. (3820) Jordánsko 🧭
+  40. (174) Južná Dalmácia 🧭
+  41. (79) Kalábria 🧭
+  42. (159) Kemer
+  43. (83) Korfu 🧭
+  44. (85) Kréta 🧭
+  45. (1944) Kyrenia
+  46. (1955) Lara
+  47. (3681) Larnaka
+  48. (3772) Libanon 🧭
+  49. (3629) Limassol
+  50. (93) Lurdy 🧭
+  51. (596) Makadi Bay
+  52. (87) Malorka 🧭
+  53. (1988) Marinella di Cutro
+  54. (3686) Nea Potidea
+  55. (561) Nórsko 🧭
+  56. (3764) Olympská riviéra 🧭
+  57. (3731) Peloponéz
+  58. (602) Pomorie
+  59. (69) Portugalsko 🧭
+  60. (3703) Primorsko
+  61. (3727) Protaras
+  62. (88) Rhodos 🧭
+  63. (1915) Sahl Hasheesh
+  64. (1925) Sardínia 🧭
+  65. (1928) Severný Cyprus 🧭
+  66. (158) Side
+  67. (573) Slnečné pobrežie
+  68. (105) Soma Bay
+  69. (100) Sutomore
+  70. (572) Sveti Vlas
+  71. (70) Španielsko 🧭
+  72. (1926) Španielsko pevnina 🧭
+  73. (78) Taliansko 🧭
+  74. (72) Turecko 🧭
+  75. (90) Zakynthos 🧭
 ```
 
 ## hotels `JSON`
@@ -152,10 +156,10 @@
   71. (490) Imperial villas ***+
   72. (1697) Írsko zelený ostrov - poznávací zájazd **
   73. (1635) Island - královstvo gejzírov - poznávací zájazd **+
-  74. (1551) Istanbul De Luxe - poznávací zájazd (4 termíny) ***
+  74. (1551) Istanbul De Luxe - poznávací zájazd (1 termín) ***
   75. (190) Izrael a Mŕtve more - pútnický zájazd letecky ***
   76. (183) Izrael a Mŕtve more De Luxe - poznávací zájazd ***
-  77. (189) Izrael a Petra De Luxe - poznávací zájazd (2 termíny) ***
+  77. (189) Izrael a Petra De Luxe - poznávací zájazd (1 termín) ***
   78. (1767) Jordánsko a jeho skvosty De Luxe - poznávací zájazd ***
   79. (157) Justiniano Park Conti *****+
   80. (56) Kacjak **+
@@ -326,29 +330,34 @@
     1. (1766) Faerské ostrovy severský raj - poznávací zájazd ****
   9. (77) Francúzsko (1 hotel) 🧭
     1. (173) Paríž KLASIK - poznávací zájazd ***
+    1. (93) Lurdy (1 hotel) 🧭
+      1. (194) Lurdy - pútnický zájazd ***
   10. (64) Grécko a ostrovy 🧭
-    1. (3683) Chalkidiki 🧭
+    1. (82) Atény 🧭
+      1. (3731) Peloponéz (1 hotel)
+        1. (1637) Mýtický Peloponéz De Luxe - poznávací zájazd ***
+    2. (3683) Chalkidiki 🧭
       1. (3686) Nea Potidea (1 hotel)
         1. (409) Portes Beach *****
-    2. (83) Korfu 🧭
+    3. (83) Korfu 🧭
       1. (134) Agios Georgios (3 hotely)
         1. (119) Blue Sea ***
         2. (1779) Golden Sands ***+
         3. (121) Labranda Sandy Beach Resort *****
-    3. (85) Kréta 🧭
+    4. (85) Kréta 🧭
       1. (3781) Adelianos Kampos (2 hotely)
         1. (1739) Aquila Rithymna Beach 🆕 *****+
         2. (1666) Rethymno Palace *****+
-    4. (3764) Olympská riviéra (1 hotel) 🧭
+    5. (3764) Olympská riviéra (1 hotel) 🧭
       1. (1580) Olympian Bay Grand Resort ****+
-    5. (88) Rhodos 🧭
+    6. (88) Rhodos 🧭
       1. (147) Faliraki (5 hotelov)
         1. (1669) Blue Sea Beach Resort I. *****
         2. (1670) Blue Sea Beach Resort II. *****
         3. (134) Evi ***
         4. (344) Olympos Beach *****
         5. (143) Pegasos Beach *****
-    6. (90) Zakynthos 🧭
+    7. (90) Zakynthos 🧭
       1. (163) Agios Sostis (1 hotel)
         1. (1734) White Olive Premium Cameo 🆕 ****+
   11. (65) Chorvátsko 🧭
@@ -369,7 +378,7 @@
   14. (76) Izrael (3 hotely) 🧭
     1. (190) Izrael a Mŕtve more - pútnický zájazd letecky ***
     2. (183) Izrael a Mŕtve more De Luxe - poznávací zájazd ***
-    3. (189) Izrael a Petra De Luxe - poznávací zájazd (2 termíny) ***
+    3. (189) Izrael a Petra De Luxe - poznávací zájazd (1 termín) ***
   15. (3820) Jordánsko (1 hotel) 🧭
     1. (1767) Jordánsko a jeho skvosty De Luxe - poznávací zájazd ***
   16. (3772) Libanon (2 hotely) 🧭
@@ -426,9 +435,11 @@
       2. (1560) Belconti Resort ******
       3. (1661) Club Mega Saray ******
       4. (167) IC Santai Family Resort ******
-    4. (159) Kemer (1 hotel)
+    4. (1969) Istanbul (1 hotel)
+      1. (1551) Istanbul De Luxe - poznávací zájazd (1 termín) ***
+    5. (159) Kemer (1 hotel)
       1. (1777) Imperial Turkiz Resort 🆕 ******
-    5. (158) Side (7 hotelov)
+    6. (158) Side (7 hotelov)
       1. (1659) Lake River Side Hotel & Spa *****+
       2. (412) Nerton *****
       3. (153) Serra Garden *****
