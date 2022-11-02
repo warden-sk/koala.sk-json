@@ -16,7 +16,7 @@
   10. (62) Cyprus `cyprus` 🧭
   11. (61) Čierna Hora `cierna-hora` 🧭
   12. (1963) Dalmácia `dalmacia` 🧭
-  13. (1980) Durrës `durrës`
+  13. (1980) Durrës `durres`
   14. (68) Egypt `egypt` 🧭
   15. (170) Elenite `elenite`
   16. (3819) Faerské ostrovy `faerske-ostrovy` 🧭
@@ -248,142 +248,142 @@
 
 ```
   1. (1978) Albánsko `albansko` 🧭
-    1. (1980) Durrës `durrës` (7 hotelov)
-      I. (225) Albanian Star ****
-      II. (1753) Fafa Premium Resort 🆕 ****+
-      III. (1754) Fllad Resort & Spa 🆕 ****+
-      IV. (1755) Grand Blue Fafa Resort 🆕 *****
-      V. (1782) Horizont ****
-      VI. (437) Ibiza ***+
-      VII. (1756) Sol by Melia 🆕 *****
+    1. (1980) Durrës `durres` (7 hotelov)
+      1. (225) Albanian Star ****
+      2. (1753) Fafa Premium Resort 🆕 ****+
+      3. (1754) Fllad Resort & Spa 🆕 ****+
+      4. (1755) Grand Blue Fafa Resort 🆕 *****
+      5. (1782) Horizont ****
+      6. (437) Ibiza ***+
+      7. (1756) Sol by Melia 🆕 *****
   2. (3708) Arménsko `armensko` (2 hotely) 🧭
-    I. (1624) Arménsko a jeho krásy De Luxe - poznávací zájazd ***
-    II. (382) Gruzínsko a Arménsko De Luxe - poznávací zájazd ***
+    1. (1624) Arménsko a jeho krásy De Luxe - poznávací zájazd ***
+    2. (382) Gruzínsko a Arménsko De Luxe - poznávací zájazd ***
   3. (3584) Bosna a Hercegovina `bosna-a-hercegovina` (1 hotel) 🧭
-    I. (326) Medžugorie - pútnický zájazd **+
+    1. (326) Medžugorie - pútnický zájazd **+
   4. (60) Bulharsko `bulharsko` 🧭
     1. (170) Elenite `elenite` (1 hotel)
-      I. (1615) Royal Park *****
+      1. (1615) Royal Park *****
     2. (602) Pomorie `pomorie` (1 hotel)
-      I. (84) Sunset Resort ******
+      1. (84) Sunset Resort ******
     3. (3703) Primorsko `primorsko` (1 hotel)
-      I. (458) Queen Nelly ***+
+      1. (458) Queen Nelly ***+
     4. (573) Slnečné pobrežie `slnecne-pobrezie` (5 hotelov)
-      I. (81) Dunav ****
-      II. (82) Chaika Beach Resort ****
-      III. (1695) Imperial Palace *****
-      IV. (76) Kotva ****+
-      V. (456) Sea Breeze ***+
+      1. (81) Dunav ****
+      2. (82) Chaika Beach Resort ****
+      3. (1695) Imperial Palace *****
+      4. (76) Kotva ****+
+      5. (456) Sea Breeze ***+
     5. (572) Sveti Vlas `sveti-vlas` (1 hotel)
-      I. (294) Tiva del Mar ****+
+      1. (294) Tiva del Mar ****+
   5. (62) Cyprus `cyprus` 🧭
     1. (3682) Ayia Napa `ayia-napa` (4 hotely)
-      I. (1759) Callisto Holiday Village 🆕 ****+
-      II. (1677) Dome Beach ****+
-      III. (1678) Chrysomare Beach Hotel & Resort *****+
-      IV. (404) Nelia Beach ****+
+      1. (1759) Callisto Holiday Village 🆕 ****+
+      2. (1677) Dome Beach ****+
+      3. (1678) Chrysomare Beach Hotel & Resort *****+
+      4. (404) Nelia Beach ****+
     2. (3681) Larnaka `larnaka` (1 hotel)
-      I. (1760) Sentido Sandy Beach 🆕 ****+
+      1. (1760) Sentido Sandy Beach 🆕 ****+
     3. (3629) Limassol `limassol` (1 hotel)
-      I. (1679) St. Raphael Resort *****+
+      1. (1679) St. Raphael Resort *****+
     4. (3727) Protaras `protaras` (4 hotely)
-      I. (1722) Anastasia Beach ****+
-      II. (1598) Constantinos the Great *****+
-      III. (1597) Tsokkos Protaras Beach ****+
-      IV. (1703) Vrissiana Beach *****
+      1. (1722) Anastasia Beach ****+
+      2. (1598) Constantinos the Great *****+
+      3. (1597) Tsokkos Protaras Beach ****+
+      4. (1703) Vrissiana Beach *****
   6. (61) Čierna Hora `cierna-hora` 🧭
     1. (3627) Bečiči `becici` (1 hotel)
-      I. (1672) Mediteran 🆕 *****
+      1. (1672) Mediteran 🆕 *****
     2. (100) Sutomore `sutomore` (1 hotel)
-      I. (272) Korali ***
+      1. (272) Korali ***
   7. (68) Egypt `egypt` 🧭
     1. (103) Hurghada `hurghada` (4 hotely)
-      I. (1676) Desert Rose *****
-      II. (1674) Golden Beach Resort *****
-      III. (348) Nubia Aqua Beach Resort *****
-      IV. (1775) Palm Beach Resort & Spa 🆕 *****
+      1. (1676) Desert Rose *****
+      2. (1674) Golden Beach Resort *****
+      3. (348) Nubia Aqua Beach Resort *****
+      4. (1775) Palm Beach Resort & Spa 🆕 *****
     2. (596) Makadi Bay `makadi-bay` (1 hotel)
-      I. (1675) Stella Di Mare Beach Resort & Spa *****
+      1. (1675) Stella Di Mare Beach Resort & Spa *****
     3. (1915) Sahl Hasheesh `sahl-hasheesh` (2 hotely)
-      I. (1747) Premier Le Reve Hotel & Spa 🆕 ******
-      II. (1642) Tropitel Sahl Hasheesh ******
+      1. (1747) Premier Le Reve Hotel & Spa 🆕 ******
+      2. (1642) Tropitel Sahl Hasheesh ******
     4. (105) Soma Bay `soma-bay` (1 hotel)
-      I. (1608) Caribbean World Soma Bay *****
+      1. (1608) Caribbean World Soma Bay *****
   8. (3819) Faerské ostrovy `faerske-ostrovy` (1 hotel) 🧭
-    I. (1766) Faerské ostrovy severský raj - poznávací zájazd ****
+    1. (1766) Faerské ostrovy severský raj - poznávací zájazd ****
   9. (77) Francúzsko `francuzsko` (1 hotel) 🧭
-    I. (173) Paríž KLASIK - poznávací zájazd ***
+    1. (173) Paríž KLASIK - poznávací zájazd ***
   10. (64) Grécko a ostrovy `grecko-a-ostrovy` 🧭
     1. (3683) Chalkidiki `chalkidiki` 🧭
     2. (83) Korfu `korfu` 🧭
     3. (85) Kréta `kreta` 🧭
     4. (3764) Olympská riviéra `olympska-riviera` (1 hotel) 🧭
-      I. (1580) Olympian Bay Grand Resort ****+
+      1. (1580) Olympian Bay Grand Resort ****+
     5. (88) Rhodos `rhodos` 🧭
     6. (90) Zakynthos `zakynthos` 🧭
   11. (65) Chorvátsko `chorvatsko` 🧭
     1. (1963) Dalmácia `dalmacia` 🧭
     2. (172) Istria `istria` 🧭
   12. (562) Írsko `irsko` (1 hotel) 🧭
-    I. (1697) Írsko zelený ostrov - poznávací zájazd **
+    1. (1697) Írsko zelený ostrov - poznávací zájazd **
   13. (3711) Island `island` (3 hotely) 🧭
-    I. (1635) Island - královstvo gejzírov - poznávací zájazd **+
-    II. (1640) Pohodový Island - poznávací zájazd **
-    III. (175) Sedem divov Islandu - poznávací zájazd 
+    1. (1635) Island - královstvo gejzírov - poznávací zájazd **+
+    2. (1640) Pohodový Island - poznávací zájazd **
+    3. (175) Sedem divov Islandu - poznávací zájazd 
   14. (76) Izrael `izrael` (3 hotely) 🧭
-    I. (190) Izrael a Mŕtve more - pútnický zájazd letecky ***
-    II. (183) Izrael a Mŕtve more De Luxe - poznávací zájazd ***
-    III. (189) Izrael a Petra De Luxe - poznávací zájazd (2 termíny) ***
+    1. (190) Izrael a Mŕtve more - pútnický zájazd letecky ***
+    2. (183) Izrael a Mŕtve more De Luxe - poznávací zájazd ***
+    3. (189) Izrael a Petra De Luxe - poznávací zájazd (2 termíny) ***
   15. (3820) Jordánsko `jordansko` (1 hotel) 🧭
-    I. (1767) Jordánsko a jeho skvosty De Luxe - poznávací zájazd ***
+    1. (1767) Jordánsko a jeho skvosty De Luxe - poznávací zájazd ***
   16. (3772) Libanon `libanon` (2 hotely) 🧭
-    I. (1634) Libanon Švajčiarsko Blízkeho východu De Luxe - poznávací zájazd ***
-    II. (1626) Sv. Charbel a Libanon - pútnický zájazd ***
+    1. (1634) Libanon Švajčiarsko Blízkeho východu De Luxe - poznávací zájazd ***
+    2. (1626) Sv. Charbel a Libanon - pútnický zájazd ***
   17. (561) Nórsko `norsko` (2 hotely) 🧭
-    I. (1639) Do srdca nórskych fjordov - Poznávací zájazd ***
-    II. (470) Najkrajšie miesta a fjordy Nórska - poznávací zájazd 
+    1. (1639) Do srdca nórskych fjordov - Poznávací zájazd ***
+    2. (470) Najkrajšie miesta a fjordy Nórska - poznávací zájazd 
   18. (69) Portugalsko `portugalsko` (2 hotely) 🧭
-    I. (192) Fatima a Santiago de Compostela  - pútnický zájazd ***
-    II. (389) Madeira - ostrovný raj s turistikou  - Poznávací zájazd **+
+    1. (192) Fatima a Santiago de Compostela  - pútnický zájazd ***
+    2. (389) Madeira - ostrovný raj s turistikou  - Poznávací zájazd **+
   19. (1928) Severný Cyprus `severny-cyprus` 🧭
     1. (1943) Famagusta `famagusta` (1 hotel)
-      I. (215) Salamis Bay Conti *****+
+      1. (215) Salamis Bay Conti *****+
     2. (1944) Kyrenia `kyrenia` (2 hotely)
-      I. (216) Acapulco Beach *****+
-      II. (1583) Acapulco Beach Family Bungalow Resort *****+
+      1. (216) Acapulco Beach *****+
+      2. (1583) Acapulco Beach Family Bungalow Resort *****+
   20. (70) Španielsko `spanielsko` 🧭
     1. (87) Malorka `malorka` 🧭
     2. (1926) Španielsko pevnina `spanielsko-pevnina` 🧭
   21. (78) Taliansko `taliansko` (3 hotely) 🧭
-    I. (257) Po stopách sv. pátra Pia - pútnický zájazd ***
-    II. (178) Rím De Luxe - poznávací zájazd ***
-    III. (177) Rím KLASIK - poznávací zájazd **
+    1. (257) Po stopách sv. pátra Pia - pútnický zájazd ***
+    2. (178) Rím De Luxe - poznávací zájazd ***
+    3. (177) Rím KLASIK - poznávací zájazd **
     1. (1927) Jadranské pobrežie `jadranske-pobrezie` 🧭
     2. (79) Kalábria `kalabria` 🧭
     3. (1925) Sardínia `sardinia` 🧭
   22. (72) Turecko `turecko` 🧭
     1. (160) Alanya `alanya` (7 hotelov)
-      I. (359) Grand Atilla ****
-      II. (1657) Kaila Beach *****
-      III. (1655) Kaila City ****
-      IV. (415) Kemal Bay *****
-      V. (1585) Maya World Beach ****
-      VI. (146) Melissa Kleopatra Beach ***+
-      VII. (410) Tac Premier ****+
+      1. (359) Grand Atilla ****
+      2. (1657) Kaila Beach *****
+      3. (1655) Kaila City ****
+      4. (415) Kemal Bay *****
+      5. (1585) Maya World Beach ****
+      6. (146) Melissa Kleopatra Beach ***+
+      7. (410) Tac Premier ****+
     2. (594) Antalya `antalya`
     3. (595) Belek `belek` (4 hotely)
-      I. (1758) Adora Resort 🆕 ******
-      II. (1560) Belconti Resort ******
-      III. (1661) Club Mega Saray ******
-      IV. (167) IC Santai Family Resort ******
+      1. (1758) Adora Resort 🆕 ******
+      2. (1560) Belconti Resort ******
+      3. (1661) Club Mega Saray ******
+      4. (167) IC Santai Family Resort ******
     4. (159) Kemer `kemer` (1 hotel)
-      I. (1777) Imperial Turkiz Resort 🆕 ******
+      1. (1777) Imperial Turkiz Resort 🆕 ******
     5. (158) Side `side` (7 hotelov)
-      I. (1659) Lake River Side Hotel & Spa *****+
-      II. (412) Nerton *****
-      III. (153) Serra Garden *****
-      IV. (1512) Serra Park ****+
-      V. (1776) Side Prenses Resort 🆕 *****
-      VI. (1511) Sun Beach Park ****+
-      VII. (1513) Water Side Resort & Spa *****
+      1. (1659) Lake River Side Hotel & Spa *****+
+      2. (412) Nerton *****
+      3. (153) Serra Garden *****
+      4. (1512) Serra Park ****+
+      5. (1776) Side Prenses Resort 🆕 *****
+      6. (1511) Sun Beach Park ****+
+      7. (1513) Water Side Resort & Spa *****
 ```
