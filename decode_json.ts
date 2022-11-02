@@ -2,6 +2,7 @@
  * Copyright 2022 Marek Kobida
  */
 
+import isObject from './isObject';
 import keys from './keys';
 
 // @ts-ignore
@@ -23,10 +24,6 @@ function decode_json(json) {
   }
 
   return json;
-}
-
-function isObject(input: unknown): input is { [key: string]: unknown } {
-  return Object.prototype.toString.call(input) === '[object Object]';
 }
 
 export default decode_json;
