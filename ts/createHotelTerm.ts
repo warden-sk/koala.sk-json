@@ -9,6 +9,7 @@ export interface HotelTerm {
   discount?: number;
   id: number;
   price: number;
+  serviceId: number;
   transportationFromId?: number;
   transportationId: number;
   url?: string;
@@ -24,6 +25,7 @@ function createHotelTerm(): HotelTerm {
     discount: 50,
     id: id++,
     price: 500,
+    serviceId: 403,
     // transportationFromId
     transportationId: 199,
   };

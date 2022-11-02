@@ -15,7 +15,6 @@ class EnhancedHotel implements Omit<Hotel, 'terms'> {
   parent?: EnhancedDestination;
   parentId: number;
   photoId: number;
-  serviceId: number;
   stars: number;
   terms: EnhancedHotelTerm[];
   type: number;
@@ -30,7 +29,6 @@ class EnhancedHotel implements Omit<Hotel, 'terms'> {
     this.parent = parent;
     this.parentId = hotel.parentId;
     this.photoId = hotel.photoId;
-    this.serviceId = hotel.serviceId;
     this.stars = hotel.stars;
     this.terms = hotel.terms.map(hotelTerm => new EnhancedHotelTerm(hotelTerm, this));
     this.type = hotel.type;
@@ -39,19 +37,6 @@ class EnhancedHotel implements Omit<Hotel, 'terms'> {
 
   breadcrumbs<T>(destination: EnhancedDestination | undefined, on: (destination: EnhancedDestination) => T): T[] {
     return destination ? [...this.breadcrumbs(destination.parent, on), on(destination)] : [];
-  }
-
-  decodeServiceId(): string {
-    const ids: { [id: number]: string } = {
-      403: 'raňajky',
-      404: 'polpenzia',
-      406: 'All Inclusive',
-      672: 'Ultra All Inclusive',
-      1043: 'All Inclusive Light',
-      1109: 'polpenzia ULTRA',
-    };
-
-    return ids[this.serviceId];
   }
 
   decodeType(): string {
@@ -71,10 +56,6 @@ class EnhancedHotel implements Omit<Hotel, 'terms'> {
 
   hasCategory = (category: number): boolean => {
     return this.category === category;
-  };
-
-  hasServiceId = (serviceId: number): boolean => {
-    return this.serviceId === serviceId;
   };
 
   hasStars = (stars: number): boolean => {

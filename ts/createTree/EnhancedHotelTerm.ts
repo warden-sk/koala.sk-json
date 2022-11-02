@@ -13,6 +13,7 @@ class EnhancedHotelTerm implements Omit<HotelTerm, 'date'> {
   id: number;
   parent?: EnhancedHotel;
   price: number;
+  serviceId: number;
   transportationFromId?: number;
   transportationId: number;
   url?: string;
@@ -25,6 +26,7 @@ class EnhancedHotelTerm implements Omit<HotelTerm, 'date'> {
     this.id = hotelTerm.id;
     this.parent = parent;
     this.price = hotelTerm.price;
+    this.serviceId = hotelTerm.serviceId;
     this.transportationFromId = hotelTerm.transportationFromId;
     this.transportationId = hotelTerm.transportationId;
     this.url = hotelTerm.url;
@@ -40,6 +42,19 @@ class EnhancedHotelTerm implements Omit<HotelTerm, 'date'> {
     return new Date(+year, +month - 1, +day);
   }
 
+  decodeServiceId(): string {
+    const ids: { [id: number]: string } = {
+      403: 'raňajky',
+      404: 'polpenzia',
+      406: 'All Inclusive',
+      672: 'Ultra All Inclusive',
+      1043: 'All Inclusive Light',
+      1109: 'polpenzia ULTRA',
+    };
+
+    return ids[this.serviceId];
+  }
+
   hasDays(from: number, to: number): boolean {
     return this.days >= from && this.days <= to;
   }
@@ -51,6 +66,10 @@ class EnhancedHotelTerm implements Omit<HotelTerm, 'date'> {
   hasPrice(from: number, to: number): boolean {
     return this.price >= from && this.price <= to;
   }
+
+  hasServiceId = (serviceId: number): boolean => {
+    return this.serviceId === serviceId;
+  };
 
   hasTransportationId = (transportationId: number): boolean => {
     return this.transportationId === transportationId;

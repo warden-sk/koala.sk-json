@@ -61,13 +61,6 @@ export class Tree {
         hotel => (category ? category.findIndex(hotel.hasCategory) !== -1 : true),
         // has id
         hotel => (hotelId ? hotel.id === hotelId : true),
-        // has serviceId
-        hotel =>
-          serviceId
-            ? Array.isArray(serviceId)
-              ? serviceId.findIndex(hotel.hasServiceId) !== -1
-              : hotel.hasServiceId(serviceId)
-            : true,
         // has stars
         hotel => (stars ? stars.findIndex(hotel.hasStars) !== -1 : true),
       ],
@@ -80,6 +73,13 @@ export class Tree {
         hotelTerm => (hasDiscount ? hotelTerm.hasDiscount() : true),
         // has price
         hotelTerm => (price ? hotelTerm.hasPrice(price[0], price[1]) : true),
+        // has serviceId
+        hotelTerm =>
+          serviceId
+            ? Array.isArray(serviceId)
+              ? serviceId.findIndex(hotelTerm.hasServiceId) !== -1
+              : hotelTerm.hasServiceId(serviceId)
+            : true,
         // has transportationId
         hotelTerm => (transportationId ? transportationId.findIndex(hotelTerm.hasTransportationId) !== -1 : true),
       ],
@@ -90,12 +90,10 @@ export class Tree {
         .hotels(true)
         .filter(
           hotel =>
-            // 1
             filterConditions.hotel.every(filterCondition => filterCondition(hotel)) &&
-            // 2
-            hotel.terms.filter(hotelTerm =>
+            hotel.terms.every(hotelTerm =>
               filterConditions.hotelTerm.every(filterCondition => filterCondition(hotelTerm))
-            ).length
+            )
         )
         .map(hotel => {
           hotel.terms = hotel.terms
