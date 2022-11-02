@@ -399,45 +399,250 @@
 
 ## hotels `JSON`
 
-  `2` hotelov
+  `176` hotelov
 
 ```
-  1. (1551) Istanbul De Luxe - poznávací zájazd (4 termíny) ***
-  2. (189) Izrael a Petra De Luxe - poznávací zájazd (4 termíny) ***
+  1. (216) Acapulco Beach *****+
+  2. (1583) Acapulco Beach Family Bungalow Resort *****+
+  3. (1758) Adora Resort 🆕 ******
+  4. (108) Adriatic ****
+  5. (1587) Alaiye Resort *****+
+  6. (166) Alba Queen ******
+  7. (165) Alba Resort ******
+  8. (170) Alba Royal ******
+  9. (225) Albanian Star ****
+  10. (1681) Aminess Magal ***+
+  11. (274) Aminess Veya ***+
+  12. (1722) Anastasia Beach ****+
+  13. (1685) Apartmány Medena Superior ****
+  14. (1602) Apartmány Medena štandard plus ***+
+  15. (132) Apollonia Beach *****+
+  16. (1739) Aquila Rithymna Beach 🆕 *****+
+  17. (1624) Arménsko a jeho krásy De Luxe - poznávací zájazd ***
+  18. (158) Aska Just in Beach *****+
+  19. (1764) Aurora 🆕 ***
+  20. (1750) Bakour Garbi 🆕 ****+
+  21. (1560) Belconti Resort ******
+  22. (119) Blue Sea ***
+  23. (1669) Blue Sea Beach Resort I. *****
+  24. (1670) Blue Sea Beach Resort II. *****
+  25. (1547) Borgo di Fiuzzi ****+
+  26. (114) Brzet ***+
+  27. (1759) Callisto Holiday Village 🆕 ****+
+  28. (1608) Caribbean World Soma Bay *****
+  29. (162) Club Calimera Serra Palace ******
+  30. (1546) Club Esse Palmasera ****+
+  31. (376) Club Hotel Angelini ****
+  32. (1661) Club Mega Saray ******
+  33. (1778) Club Nena 🆕 ******
+  34. (1751) Condesa 🆕 *****
+  35. (1598) Constantinos the Great *****+
+  36. (1530) Corfu Senses Resort ***+
+  37. (304) Delphin Imperial ******
+  38. (1676) Desert Rose *****
+  39. (1662) Dessole Dolphin Bay ****+
+  40. (313) Dessole Malia Beach *****
+  41. (1639) Do srdca nórskych fjordov - Poznávací zájazd ***
+  42. (1677) Dome Beach ****+
+  43. (92) Donat ***+
+  44. (81) Dunav ****
+  45. (134) Evi ***
+  46. (1766) Faerské ostrovy severský raj - poznávací zájazd ****
+  47. (1753) Fafa Premium Resort 🆕 ****+
+  48. (1765) Falkensteiner Club Funimation Borik 🆕 ****+
+  49. (1682) Falkensteiner Park Punat ****
+  50. (192) Fatima a Santiago de Compostela  - pútnický zájazd ***
+  51. (1754) Fllad Resort & Spa 🆕 ****+
+  52. (1674) Golden Beach Resort *****
+  53. (1779) Golden Sands ***+
+  54. (1748) Gran Europe 🆕 *****
+  55. (359) Grand Atilla ****
+  56. (1755) Grand Blue Fafa Resort 🆕 *****
+  57. (382) Gruzínsko a Arménsko De Luxe - poznávací zájazd ***
+  58. (88) Hedera ****
+  59. (1782) Horizont ****
+  60. (82) Chaika Beach Resort ****
+  61. (163) Champion Holiday Village *****+
+  62. (1678) Chrysomare Beach Hotel & Resort *****+
+  63. (437) Ibiza ***+
+  64. (171) IC Green Palace ******
+  65. (167) IC Santai Family Resort ******
+  66. (288) Ilyssion Beach Resort ****
+  67. (1683) Imperial - Lucija ***+
+  68. (308) Imperial hotel ****
+  69. (1695) Imperial Palace *****
+  70. (1777) Imperial Turkiz Resort 🆕 ******
+  71. (490) Imperial villas ***+
+  72. (1697) Írsko zelený ostrov - poznávací zájazd **
+  73. (1635) Island - královstvo gejzírov - poznávací zájazd **+
+  74. (1551) Istanbul De Luxe - poznávací zájazd (4 termíny) ***
+  75. (190) Izrael a Mŕtve more - pútnický zájazd letecky ***
+  76. (183) Izrael a Mŕtve more De Luxe - poznávací zájazd ***
+  77. (189) Izrael a Petra De Luxe - poznávací zájazd (2 termíny) ***
+  78. (1767) Jordánsko a jeho skvosty De Luxe - poznávací zájazd ***
+  79. (157) Justiniano Park Conti *****+
+  80. (56) Kacjak **+
+  81. (1657) Kaila Beach *****
+  82. (1655) Kaila City ****
+  83. (415) Kemal Bay *****
+  84. (1667) Kolymbia Sky ****+
+  85. (272) Korali ***
+  86. (76) Kotva ****+
+  87. (1742) Labranda Blue Bay 🆕 *****
+  88. (1743) Labranda Kiotari Miraluna 🆕 *****
+  89. (121) Labranda Sandy Beach Resort *****
+  90. (1762) Labranda Senses Resort 🆕 ****
+  91. (1659) Lake River Side Hotel & Spa *****+
+  92. (1634) Libanon Švajčiarsko Blízkeho východu De Luxe - poznávací zájazd ***
+  93. (1589) Limak Lara De Luxe ******
+  94. (345) Lindos Royal *****
+  95. (194) Lurdy - pútnický zájazd ***
+  96. (389) Madeira - ostrovný raj s turistikou  - Poznávací zájazd **+
+  97. (465) Malin ****+
+  98. (436) Marmorata Sea View Resort ****
+  99. (1585) Maya World Beach ****
+  100. (1545) Medena ****
+  101. (1686) Medena Superior Premium ****
+  102. (1672) Mediteran 🆕 *****
+  103. (1744) Mediterraneo 🆕 ***+
+  104. (326) Medžugorie - pútnický zájazd **+
+  105. (146) Melissa Kleopatra Beach ***+
+  106. (1780) Mercury ****
+  107. (1752) Messonghi Beach 🆕 ****
+  108. (87) Mimosa ****
+  109. (444) Miramar Calafell ****
+  110. (431) Mix Peymar ***+
+  111. (1637) Mýtický Peloponéz De Luxe - poznávací zájazd ***
+  112. (470) Najkrajšie miesta a fjordy Nórska - poznávací zájazd 
+  113. (404) Nelia Beach ****+
+  114. (412) Nerton *****
+  115. (231) Nicotera Beach ****+
+  116. (348) Nubia Aqua Beach Resort *****
+  117. (1515) Numa Bay Exclusive *****+
+  118. (113) Olympia *****
+  119. (1580) Olympian Bay Grand Resort ****+
+  120. (344) Olympos Beach *****
+  121. (1740) Out Of The Blue 🆕 *****+
+  122. (61) Palazzo di Zante ****
+  123. (1775) Palm Beach Resort & Spa 🆕 *****
+  124. (173) Paríž KLASIK - poznávací zájazd ***
+  125. (143) Pegasos Beach *****
+  126. (107) Pinija ****+
+  127. (257) Po stopách sv. pátra Pia - pútnický zájazd ***
+  128. (1640) Pohodový Island - poznávací zájazd **
+  129. (1586) Port River Hotel & Spa *****+
+  130. (409) Portes Beach *****
+  131. (1781) Porto Greco Village ****+
+  132. (1747) Premier Le Reve Hotel & Spa 🆕 ******
+  133. (1708) Punta ****
+  134. (458) Queen Nelly ***+
+  135. (1741) Relax 🆕 ****
+  136. (1666) Rethymno Palace *****+
+  137. (178) Rím De Luxe - poznávací zájazd ***
+  138. (177) Rím KLASIK - poznávací zájazd **
+  139. (1615) Royal Park *****
+  140. (215) Salamis Bay Conti *****+
+  141. (1590) Santa Caterina ****
+  142. (456) Sea Breeze ***+
+  143. (1646) Sea Star Beau Rivage *****
+  144. (175) Sedem divov Islandu - poznávací zájazd 
+  145. (1760) Sentido Sandy Beach 🆕 ****+
+  146. (1746) Serene Village 🆕 ****+
+  147. (153) Serra Garden *****
+  148. (1512) Serra Park ****+
+  149. (1776) Side Prenses Resort 🆕 *****
+  150. (1756) Sol by Melia 🆕 *****
+  151. (1757) Sorgun Akadia Luxury 🆕 ******
+  152. (1679) St. Raphael Resort *****+
+  153. (1516) Starlight Resort ******
+  154. (1675) Stella Di Mare Beach Resort & Spa *****
+  155. (1736) Strofades 🆕 ****
+  156. (1738) Summer Beach Hotel 🆕 ****
+  157. (1511) Sun Beach Park ****+
+  158. (1684) Sunny Side ****+
+  159. (84) Sunset Resort ******
+  160. (1626) Sv. Charbel a Libanon - pútnický zájazd ***
+  161. (1588) Swandor Topkapi Palace ******
+  162. (410) Tac Premier ****+
+  163. (294) Tiva del Mar ****+
+  164. (1642) Tropitel Sahl Hasheesh ******
+  165. (1597) Tsokkos Protaras Beach ****+
+  166. (1691) TYC ***+
+  167. (1703) Vrissiana Beach *****
+  168. (1513) Water Side Resort & Spa *****
+  169. (1735) White Olive Elite Laganas 🆕 *****+
+  170. (1734) White Olive Premium Cameo 🆕 ****+
+  171. (276) Wyndham Grand Novi Vinodolski Resort de luxe Apartmány ****
+  172. (277) Wyndham Grand Novi Vinodolski Resort hotel *****
+  173. (69) Wyndham Grand Novi Vinodolski Resort Premium Apartmány ****
+  174. (60) Zante Imperial Beach ****
+  175. (496) Zante Royal Resort ****
+  176. (112) Zora ****
 ```
 
 ## tree `JSON`
 
 ```
   1. (1978) Albánsko 🧭
-    1. (1980) Durrës
+    1. (1980) Durrës (7 hotelov)
+      I. (225) Albanian Star ****
+      II. (1753) Fafa Premium Resort 🆕 ****+
+      III. (1754) Fllad Resort & Spa 🆕 ****+
+      IV. (1755) Grand Blue Fafa Resort 🆕 *****
+      V. (1782) Horizont ****
+      VI. (437) Ibiza ***+
+      VII. (1756) Sol by Melia 🆕 *****
     2. (1979) Shëngjin
     3. (2001) Tirana
-  2. (3708) Arménsko 🧭
+  2. (3708) Arménsko (2 hotely) 🧭
+    I. (1624) Arménsko a jeho krásy De Luxe - poznávací zájazd ***
+    II. (382) Gruzínsko a Arménsko De Luxe - poznávací zájazd ***
   3. (3771) Azerbajdžan
   4. (1981) Belgicko
-  5. (3584) Bosna a Hercegovina 🧭
+  5. (3584) Bosna a Hercegovina (1 hotel) 🧭
+    I. (326) Medžugorie - pútnický zájazd **+
   6. (60) Bulharsko 🧭
-    1. (170) Elenite
+    1. (170) Elenite (1 hotel)
+      I. (1615) Royal Park *****
     2. (3632) Nesebar
-    3. (602) Pomorie
-    4. (3703) Primorsko
-    5. (573) Slnečné pobrežie
-    6. (572) Sveti Vlas
+    3. (602) Pomorie (1 hotel)
+      I. (84) Sunset Resort ******
+    4. (3703) Primorsko (1 hotel)
+      I. (458) Queen Nelly ***+
+    5. (573) Slnečné pobrežie (5 hotelov)
+      I. (81) Dunav ****
+      II. (82) Chaika Beach Resort ****
+      III. (1695) Imperial Palace *****
+      IV. (76) Kotva ****+
+      V. (456) Sea Breeze ***+
+    6. (572) Sveti Vlas (1 hotel)
+      I. (294) Tiva del Mar ****+
     7. (3699) Zlaté piesky
   7. (62) Cyprus 🧭
-    1. (3682) Ayia Napa
+    1. (3682) Ayia Napa (4 hotely)
+      I. (1759) Callisto Holiday Village 🆕 ****+
+      II. (1677) Dome Beach ****+
+      III. (1678) Chrysomare Beach Hotel & Resort *****+
+      IV. (404) Nelia Beach ****+
     2. (3628) Coral Bay
-    3. (3681) Larnaka
-    4. (3629) Limassol
+    3. (3681) Larnaka (1 hotel)
+      I. (1760) Sentido Sandy Beach 🆕 ****+
+    4. (3629) Limassol (1 hotel)
+      I. (1679) St. Raphael Resort *****+
     5. (99) Paphos
-    6. (3727) Protaras
+    6. (3727) Protaras (4 hotely)
+      I. (1722) Anastasia Beach ****+
+      II. (1598) Constantinos the Great *****+
+      III. (1597) Tsokkos Protaras Beach ****+
+      IV. (1703) Vrissiana Beach *****
   8. (74) Česká republika
   9. (61) Čierna Hora 🧭
     1. (3691) Bar
-    2. (3627) Bečiči
+    2. (3627) Bečiči (1 hotel)
+      I. (1672) Mediteran 🆕 *****
     3. (3736) Budva
-    4. (100) Sutomore
+    4. (100) Sutomore (1 hotel)
+      I. (272) Korali ***
     5. (3742) Sveti Stefan
     6. (101) Tivat
   10. (563) Dánsko
@@ -447,26 +652,39 @@
   12. (68) Egypt 🧭
     1. (593) Abu Soma
     2. (3568) El Gouna
-    3. (103) Hurghada
-      1. (3687) Dahar
-    4. (596) Makadi Bay
+    3. (103) Hurghada (4 hotely)
+      I. (1676) Desert Rose *****
+      II. (1674) Golden Beach Resort *****
+      III. (348) Nubia Aqua Beach Resort *****
+      IV. (1775) Palm Beach Resort & Spa 🆕 *****
+      1. (3687) Dahar (1 hotel)
+        I. (1646) Sea Star Beau Rivage *****
+    4. (596) Makadi Bay (1 hotel)
+      I. (1675) Stella Di Mare Beach Resort & Spa *****
     5. (3724) Marsa Alam
-    6. (1915) Sahl Hasheesh
+    6. (1915) Sahl Hasheesh (2 hotely)
+      I. (1747) Premier Le Reve Hotel & Spa 🆕 ******
+      II. (1642) Tropitel Sahl Hasheesh ******
     7. (597) Sharm el Sheikh
-    8. (105) Soma Bay
+    8. (105) Soma Bay (1 hotel)
+      I. (1608) Caribbean World Soma Bay *****
     9. (104) Taba
   13. (3713) Estónsko
-  14. (3819) Faerské ostrovy 🧭
+  14. (3819) Faerské ostrovy (1 hotel) 🧭
+    I. (1766) Faerské ostrovy severský raj - poznávací zájazd ****
   15. (564) Fínsko
   16. (3588) Florida
-  17. (77) Francúzsko 🧭
-    1. (93) Lurdy 🧭
+  17. (77) Francúzsko (1 hotel) 🧭
+    I. (173) Paríž KLASIK - poznávací zájazd ***
+    1. (93) Lurdy (1 hotel) 🧭
+      I. (194) Lurdy - pútnický zájazd ***
     2. (96) Paříž 🧭
     3. (3648) Toulouse
   18. (64) Grécko a ostrovy 🧭
     1. (82) Atény 🧭
       1. (1983) Marathon Bay
-      2. (3731) Peloponéz
+      2. (3731) Peloponéz (1 hotel)
+        I. (1637) Mýtický Peloponéz De Luxe - poznávací zájazd ***
         1. (3739) Isthmia
         2. (3732) Loutraki
         3. (3740) Vrachati
@@ -476,35 +694,49 @@
       2. (3741) Kalandra
       3. (3777) Kavala
       4. (3685) Kriopigi
-      5. (3686) Nea Potidea
+      5. (3686) Nea Potidea (1 hotel)
+        I. (409) Portes Beach *****
     3. (83) Korfu 🧭
-      1. (134) Agios Georgios
+      1. (134) Agios Georgios (3 hotely)
+        I. (119) Blue Sea ***
+        II. (1779) Golden Sands ***+
+        III. (121) Labranda Sandy Beach Resort *****
       2. (3565) Agios Georgios Pagi
       3. (1989) Agios Gordios
-      4. (3566) Agios Ioannis Peristeron
+      4. (3566) Agios Ioannis Peristeron (1 hotel)
+        I. (1530) Corfu Senses Resort ***+
       5. (3674) Acharavi
       6. (584) Kerkyra
       7. (3679) Lefkimi - Agios Petros
-      8. (583) Moraitika / Messonghi
+      8. (583) Moraitika / Messonghi (1 hotel)
+        I. (1752) Messonghi Beach 🆕 ****
       9. (1964) Pelekas
     4. (84) Kos 🧭
       1. (136) Lambi
       2. (135) Mastichari
       3. (137) Tigaki
     5. (85) Kréta 🧭
-      1. (3781) Adelianos Kampos
+      1. (3781) Adelianos Kampos (2 hotely)
+        I. (1739) Aquila Rithymna Beach 🆕 *****+
+        II. (1666) Rethymno Palace *****+
       2. (3778) Agia Marina
-      3. (3811) Agia Pelagia
+      3. (3811) Agia Pelagia (1 hotel)
+        I. (1740) Out Of The Blue 🆕 *****+
       4. (3643) Agios Nikolaos
-      5. (139) Ammoudara
+      5. (139) Ammoudara (2 hotely)
+        I. (132) Apollonia Beach *****+
+        II. (1662) Dessole Dolphin Bay ****+
       6. (3570) Bali
-      7. (3810) Georgioupolis
+      7. (3810) Georgioupolis (1 hotel)
+        I. (1738) Summer Beach Hotel 🆕 ****
       8. (1967) Heraklion
-      9. (3688) Hersonissos
+      9. (3688) Hersonissos (1 hotel)
+        I. (1781) Porto Greco Village ****+
       10. (3640) Ierapetra
       11. (3642) Kavros
       12. (589) Kokkini Hani
-      13. (3571) Malia
+      13. (3571) Malia (1 hotel)
+        I. (313) Dessole Malia Beach *****
       14. (3780) Missiria
       15. (138) Panormo
       16. (3779) Platanias - Pyrgos Psilonerou
@@ -515,34 +747,55 @@
       21. (141) Sitia
       22. (140) Stalida
     6. (3716) Mykonos
-    7. (3764) Olympská riviéra 🧭
+    7. (3764) Olympská riviéra (1 hotel) 🧭
+      I. (1580) Olympian Bay Grand Resort ****+
     8. (88) Rhodos 🧭
       1. (3750) Afandou
-      2. (147) Faliraki
-      3. (3812) Ialyssos
+      2. (147) Faliraki (5 hotelov)
+        I. (1669) Blue Sea Beach Resort I. *****
+        II. (1670) Blue Sea Beach Resort II. *****
+        III. (134) Evi ***
+        IV. (344) Olympos Beach *****
+        V. (143) Pegasos Beach *****
+      3. (3812) Ialyssos (1 hotel)
+        I. (1742) Labranda Blue Bay 🆕 *****
       4. (148) Ixia
       5. (3680) Kallithea
-      6. (1992) Kiotari
-      7. (151) Kolymbia
+      6. (1992) Kiotari (1 hotel)
+        I. (1743) Labranda Kiotari Miraluna 🆕 *****
+      7. (151) Kolymbia (2 hotely)
+        I. (1667) Kolymbia Sky ****+
+        II. (1741) Relax 🆕 ****
       8. (3644) Lardos
-      9. (1991) Lindos
-      10. (3567) Pefki
+      9. (1991) Lindos (1 hotel)
+        I. (345) Lindos Royal *****
+      10. (3567) Pefki (1 hotel)
+        I. (288) Ilyssion Beach Resort ****
       11. (590) Rhodos Town
     9. (3715) Santorini
     10. (3773) Thessaloniki 🧭
     11. (90) Zakynthos 🧭
-      1. (163) Agios Sostis
+      1. (163) Agios Sostis (1 hotel)
+        I. (1734) White Olive Premium Cameo 🆕 ****+
       2. (586) Agios Sostis - Laganas
       3. (162) Argassi
-      4. (164) Laganas
-      5. (3809) Tsilivi
-      6. (1924) Vassilikos
+      4. (164) Laganas (1 hotel)
+        I. (1735) White Olive Elite Laganas 🆕 *****+
+      5. (3809) Tsilivi (1 hotel)
+        I. (1736) Strofades 🆕 ****
+      6. (1924) Vassilikos (3 hotely)
+        I. (61) Palazzo di Zante ****
+        II. (60) Zante Imperial Beach ****
+        III. (496) Zante Royal Resort ****
       7. (587) Zakynthos mesto
   19. (3709) Gruzínsko 🧭
   20. (3710) Holandsko
   21. (65) Chorvátsko 🧭
     1. (1963) Dalmácia 🧭
-      1. (174) Južná Dalmácia 🧭
+      1. (174) Južná Dalmácia (3 hotely) 🧭
+        I. (1764) Aurora 🆕 ***
+        II. (114) Brzet ***+
+        III. (1762) Labranda Senses Resort 🆕 ****
         1. (114) Baška Voda
         2. (1906) Baško Polje
         3. (121) Dubrovnik
@@ -555,7 +808,22 @@
         7. (175) Orebič
         8. (109) Podgora
         9. (116) Živogošče
-      2. (173) Stredná Dalmácia 🧭
+      2. (173) Stredná Dalmácia (15 hotelov) 🧭
+        I. (108) Adriatic ****
+        II. (1685) Apartmány Medena Superior ****
+        III. (1602) Apartmány Medena štandard plus ***+
+        IV. (92) Donat ***+
+        V. (1765) Falkensteiner Club Funimation Borik 🆕 ****+
+        VI. (1683) Imperial - Lucija ***+
+        VII. (308) Imperial hotel ****
+        VIII. (490) Imperial villas ***+
+        IX. (1545) Medena ****
+        X. (1686) Medena Superior Premium ****
+        XI. (113) Olympia *****
+        XII. (107) Pinija ****+
+        XIII. (1708) Punta ****
+        XIV. (1684) Sunny Side ****+
+        XV. (112) Zora ****
         1. (128) Biograd na Moru
         2. (3733) Kukljica - Ugljan
         3. (1986) Murter
@@ -568,33 +836,52 @@
         10. (115) Vodice
         11. (117) Zadar
     2. (172) Istria 🧭
-      1. (568) Crikvenica
+      1. (568) Crikvenica (1 hotel)
+        I. (56) Kacjak **+
       2. (3767) Duga Uvala
-      3. (3705) Krk, Malinska
-      4. (3008) Krk, Njivice
-      5. (3782) Krk, Punat
+      3. (3705) Krk, Malinska (1 hotel)
+        I. (465) Malin ****+
+      4. (3008) Krk, Njivice (2 hotely)
+        I. (1681) Aminess Magal ***+
+        II. (274) Aminess Veya ***+
+      5. (3782) Krk, Punat (1 hotel)
+        I. (1682) Falkensteiner Park Punat ****
       6. (125) Medulin
       7. (127) Medveja
-      8. (1985) Novi Vinodolski
+      8. (1985) Novi Vinodolski (3 hotely)
+        I. (276) Wyndham Grand Novi Vinodolski Resort de luxe Apartmány ****
+        II. (277) Wyndham Grand Novi Vinodolski Resort hotel *****
+        III. (69) Wyndham Grand Novi Vinodolski Resort Premium Apartmány ****
       9. (111) Opatija
       10. (3789) ostrov Rab
       11. (3744) Pula
       12. (112) Pula-Verudela
-      13. (1929) Rabac
+      13. (1929) Rabac (2 hotely)
+        I. (88) Hedera ****
+        II. (87) Mimosa ****
       14. (113) Rovinj
       15. (124) Selce
       16. (3625) Umag
   22. (3583) Irán
-  23. (562) Írsko 🧭
-  24. (3711) Island 🧭
-  25. (76) Izrael (1 hotel) 🧭
-    I. (189) Izrael a Petra De Luxe - poznávací zájazd (4 termíny) ***
+  23. (562) Írsko (1 hotel) 🧭
+    I. (1697) Írsko zelený ostrov - poznávací zájazd **
+  24. (3711) Island (3 hotely) 🧭
+    I. (1635) Island - královstvo gejzírov - poznávací zájazd **+
+    II. (1640) Pohodový Island - poznávací zájazd **
+    III. (175) Sedem divov Islandu - poznávací zájazd 
+  25. (76) Izrael (3 hotely) 🧭
+    I. (190) Izrael a Mŕtve more - pútnický zájazd letecky ***
+    II. (183) Izrael a Mŕtve more De Luxe - poznávací zájazd ***
+    III. (189) Izrael a Petra De Luxe - poznávací zájazd (2 termíny) ***
     1. (1909) Eilat
     2. (94) Jeruzalém
     3. (1911) Netanya
     4. (95) Tel Aviv
-  26. (3820) Jordánsko 🧭
-  27. (3772) Libanon 🧭
+  26. (3820) Jordánsko (1 hotel) 🧭
+    I. (1767) Jordánsko a jeho skvosty De Luxe - poznávací zájazd ***
+  27. (3772) Libanon (2 hotely) 🧭
+    I. (1634) Libanon Švajčiarsko Blízkeho východu De Luxe - poznávací zájazd ***
+    II. (1626) Sv. Charbel a Libanon - pútnický zájazd ***
   28. (3712) Litva
   29. (1994) Lotyšsko
   30. (2004) Maďarsko
@@ -619,9 +906,13 @@
   34. (3803) Mexiko 🧭
     1. (3804) Cancún - RIVIERA MAYA
   35. (3784) Moldavsko
-  36. (561) Nórsko 🧭
+  36. (561) Nórsko (2 hotely) 🧭
+    I. (1639) Do srdca nórskych fjordov - Poznávací zájazd ***
+    II. (470) Najkrajšie miesta a fjordy Nórska - poznávací zájazd 
   37. (3675) Poľsko
-  38. (69) Portugalsko 🧭
+  38. (69) Portugalsko (2 hotely) 🧭
+    I. (192) Fatima a Santiago de Compostela  - pútnický zájazd ***
+    II. (389) Madeira - ostrovný raj s turistikou  - Poznávací zájazd **+
     1. (1977) Algarve
     2. (1971) Fatima
   39. (1984) Rakúsko
@@ -634,8 +925,11 @@
   41. (1970) Rusko 🧭
   42. (1928) Severný Cyprus 🧭
     1. (3751) Bafra
-    2. (1943) Famagusta
-    3. (1944) Kyrenia
+    2. (1943) Famagusta (1 hotel)
+      I. (215) Salamis Bay Conti *****+
+    3. (1944) Kyrenia (2 hotely)
+      I. (216) Acapulco Beach *****+
+      II. (1583) Acapulco Beach Family Bungalow Resort *****+
   43. (73) Slovensko
   44. (3656) Slovinsko 🧭
     1. (3743) Izola
@@ -671,13 +965,16 @@
       4. (580) San Antonio Bay
       5. (129) Sant Antoni de Portmany
     5. (87) Malorka 🧭
-      1. (3816) Cala Millor
+      1. (3816) Cala Millor (1 hotel)
+        I. (1750) Bakour Garbi 🆕 ****+
       2. (144) Calas de Mallorca
       3. (3690) Magaluf
       4. (601) Paguera
       5. (142) Palmanova
-      6. (3817) Playa de Muro - Alcúdia
-      7. (3689) S‘Illot
+      6. (3817) Playa de Muro - Alcúdia (1 hotel)
+        I. (1751) Condesa 🆕 *****
+      7. (3689) S‘Illot (1 hotel)
+        I. (431) Mix Peymar ***+
       8. (3573) Sa Coma
       9. (1916) Santa Ponsa
       10. (3815) Sousse
@@ -685,9 +982,11 @@
     6. (1926) Španielsko pevnina 🧭
       1. (1914) Barcelona
       2. (3792) Benidorm
-      3. (3700) Calafell
+      3. (3700) Calafell (1 hotel)
+        I. (444) Miramar Calafell ****
       4. (3790) Calella
-      5. (3814) Coma-Ruga
+      5. (3814) Coma-Ruga (1 hotel)
+        I. (1748) Gran Europe 🆕 *****
       6. (166) Girona
       7. (3794) La Manga
       8. (3702) La Pineda
@@ -696,17 +995,23 @@
       11. (3793) Mojácar
       12. (3698) Pineda de Mar
       13. (3701) Salou
-      14. (154) Santa Susanna
+      14. (154) Santa Susanna (1 hotel)
+        I. (1780) Mercury ****
   50. (3714) Švédsko
-  51. (78) Taliansko 🧭
+  51. (78) Taliansko (3 hotely) 🧭
+    I. (257) Po stopách sv. pátra Pia - pútnický zájazd ***
+    II. (178) Rím De Luxe - poznávací zájazd ***
+    III. (177) Rím KLASIK - poznávací zájazd **
     1. (1927) Jadranské pobrežie 🧭
-      1. (3653) Bellaria
+      1. (3653) Bellaria (1 hotel)
+        I. (376) Club Hotel Angelini ****
       2. (3737) Bellaria - Igea Marina
       3. (3636) Bibione
         1. (3655) Pineda
         2. (3654) Spiaggia
       4. (1937) Cattolica
-      5. (3704) Cesenatico
+      5. (3704) Cesenatico (1 hotel)
+        I. (1744) Mediterraneo 🆕 ***+
       6. (1933) Gabicce Mare
       7. (1987) Lido di Jesolo
       8. (1936) Lido di Savio
@@ -714,7 +1019,8 @@
       10. (3637) Milano Marittima
       11. (3738) Pesaro
       12. (3577) Riccione
-      13. (3651) Rimini
+      13. (3651) Rimini (1 hotel)
+        I. (1691) TYC ***+
         1. (1990) Bellariva
         2. (3769) Marebello
         3. (3652) Marina Centro
@@ -726,13 +1032,17 @@
     2. (79) Kalábria 🧭
       1. (3635) Capo Rizzuto
       2. (598) Capo Vaticano S.Maria di Ricadi
-      3. (1988) Marinella di Cutro
-      4. (1912) Nicotera Marina
+      3. (1988) Marinella di Cutro (1 hotel)
+        I. (1746) Serene Village 🆕 ****+
+      4. (1912) Nicotera Marina (1 hotel)
+        I. (231) Nicotera Beach ****+
       5. (3694) Pizzo
-      6. (3746) Praia a Mare
+      6. (3746) Praia a Mare (1 hotel)
+        I. (1547) Borgo di Fiuzzi ****+
       7. (3634) Rossano Calabro
       8. (3813) Sant‘Andrea Apostolo dello Ionio
-      9. (3766) Scalea
+      9. (3766) Scalea (1 hotel)
+        I. (1590) Santa Caterina ****
       10. (2003) Simeri Mare
     3. (3692) Kampánia 🧭
       1. (3693) Baia Domizia
@@ -740,11 +1050,13 @@
     5. (1972) Rím
     6. (1925) Sardínia 🧭
       1. (1932) Arborea
-      2. (3745) Cala Gonone
+      2. (3745) Cala Gonone (1 hotel)
+        I. (1546) Club Esse Palmasera ****+
       3. (3569) Golfo Aranci
       4. (3631) Chia
       5. (3696) Marina di Sorso
-      6. (3695) Santa Teresa Gallura
+      6. (3695) Santa Teresa Gallura (1 hotel)
+        I. (436) Marmorata Sea View Resort ****
     7. (89) Sicília 🧭
       1. (152) Campofelice di Roccella
       2. (574) Cefalú
@@ -771,30 +1083,66 @@
     9. (600) Sousse
     10. (1973) Tabarka
   54. (72) Turecko 🧭
-    1. (160) Alanya
+    1. (160) Alanya (7 hotelov)
+      I. (359) Grand Atilla ****
+      II. (1657) Kaila Beach *****
+      III. (1655) Kaila City ****
+      IV. (415) Kemal Bay *****
+      V. (1585) Maya World Beach ****
+      VI. (146) Melissa Kleopatra Beach ***+
+      VII. (410) Tac Premier ****+
       1. (1951) Alara
-      2. (1946) Avsallar
+      2. (1946) Avsallar (3 hotely)
+        I. (1587) Alaiye Resort *****+
+        II. (158) Aska Just in Beach *****+
+        III. (1515) Numa Bay Exclusive *****+
       3. (1945) Mahmutlar
-      4. (1947) Okurcalar
+      4. (1947) Okurcalar (1 hotel)
+        I. (157) Justiniano Park Conti *****+
     2. (594) Antalya
-      1. (1955) Lara
-      2. (1903) Lara-Kundu
-    3. (595) Belek
+      1. (1955) Lara (3 hotely)
+        I. (304) Delphin Imperial ******
+        II. (1589) Limak Lara De Luxe ******
+        III. (1588) Swandor Topkapi Palace ******
+      2. (1903) Lara-Kundu (1 hotel)
+        I. (171) IC Green Palace ******
+    3. (595) Belek (4 hotely)
+      I. (1758) Adora Resort 🆕 ******
+      II. (1560) Belconti Resort ******
+      III. (1661) Club Mega Saray ******
+      IV. (167) IC Santai Family Resort ******
     4. (1969) Istanbul (1 hotel)
       I. (1551) Istanbul De Luxe - poznávací zájazd (4 termíny) ***
     5. (2000) Izmir
-    6. (159) Kemer
-      1. (1953) Beldibi
+    6. (159) Kemer (1 hotel)
+      I. (1777) Imperial Turkiz Resort 🆕 ******
+      1. (1953) Beldibi (1 hotel)
+        I. (163) Champion Holiday Village *****+
       2. (1950) Göynük
     7. (161) Konakli
-    8. (158) Side
-      1. (1956) Colakli
+    8. (158) Side (7 hotelov)
+      I. (1659) Lake River Side Hotel & Spa *****+
+      II. (412) Nerton *****
+      III. (153) Serra Garden *****
+      IV. (1512) Serra Park ****+
+      V. (1776) Side Prenses Resort 🆕 *****
+      VI. (1511) Sun Beach Park ****+
+      VII. (1513) Water Side Resort & Spa *****
+      1. (1956) Colakli (3 hotely)
+        I. (166) Alba Queen ******
+        II. (165) Alba Resort ******
+        III. (170) Alba Royal ******
       2. (1949) Evrenseki
-      3. (1952) Kizilagac
-      4. (1954) Kizilot
+      3. (1952) Kizilagac (2 hotely)
+        I. (1778) Club Nena 🆕 ******
+        II. (1516) Starlight Resort ******
+      4. (1954) Kizilot (1 hotel)
+        I. (162) Club Calimera Serra Palace ******
       5. (1948) Manavgat
-      6. (3818) Sorgun Titreyengol
-      7. (3765) Titreyengol
+      6. (3818) Sorgun Titreyengol (1 hotel)
+        I. (1757) Sorgun Akadia Luxury 🆕 ******
+      7. (3765) Titreyengol (1 hotel)
+        I. (1586) Port River Hotel & Spa *****+
   55. (3783) Ukrajina
   56. (3672) USA
   57. (3749) Uzbekistan 🧭
