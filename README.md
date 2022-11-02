@@ -95,7 +95,7 @@
   14. (1602) Apartmány Medena štandard plus `apartmany-medena-standard-plus` ***+
   15. (132) Apollonia Beach `apollonia-beach` *****+
   16. (1739) Aquila Rithymna Beach `aquila-rithymna-beach` 🆕 *****+
-  17. (1624) Arménsko a jeho krásy De Luxe - poznávací zájazd `armensko-a-jeho-krasy-de-luxepoznavaci-zajazd` ***
+  17. (1624) Arménsko a jeho krásy De Luxe - poznávací zájazd `armensko-a-jeho-krasy-de-luxe-poznavaci-zajazd` ***
   18. (158) Aska Just in Beach `aska-just-in-beach` *****+
   19. (1764) Aurora `aurora` 🆕 ***
   20. (1750) Bakour Garbi `bakour-garbi` 🆕 ****+
@@ -119,23 +119,23 @@
   38. (1676) Desert Rose `desert-rose` *****
   39. (1662) Dessole Dolphin Bay `dessole-dolphin-bay` ****+
   40. (313) Dessole Malia Beach `dessole-malia-beach` *****
-  41. (1639) Do srdca nórskych fjordov - Poznávací zájazd `do-srdca-norskych-fjordovpoznavaci-zajazd` ***
+  41. (1639) Do srdca nórskych fjordov - Poznávací zájazd `do-srdca-norskych-fjordov-poznavaci-zajazd` ***
   42. (1677) Dome Beach `dome-beach` ****+
   43. (92) Donat `donat` ***+
   44. (81) Dunav `dunav` ****
   45. (134) Evi `evi` ***
-  46. (1766) Faerské ostrovy severský raj - poznávací zájazd `faerske-ostrovy-seversky-rajpoznavaci-zajazd` ****
+  46. (1766) Faerské ostrovy severský raj - poznávací zájazd `faerske-ostrovy-seversky-raj-poznavaci-zajazd` ****
   47. (1753) Fafa Premium Resort `fafa-premium-resort` 🆕 ****+
   48. (1765) Falkensteiner Club Funimation Borik `falkensteiner-club-funimation-borik` 🆕 ****+
   49. (1682) Falkensteiner Park Punat `falkensteiner-park-punat` ****
-  50. (192) Fatima a Santiago de Compostela  - pútnický zájazd `fatima-a-santiago-de-compostela-putnicky-zajazd` ***
+  50. (192) Fatima a Santiago de Compostela  - pútnický zájazd `fatima-a-santiago-de-compostela--putnicky-zajazd` ***
   51. (1754) Fllad Resort & Spa `fllad-resort-&-spa` 🆕 ****+
   52. (1674) Golden Beach Resort `golden-beach-resort` *****
   53. (1779) Golden Sands `golden-sands` ***+
   54. (1748) Gran Europe `gran-europe` 🆕 *****
   55. (359) Grand Atilla `grand-atilla` ****
   56. (1755) Grand Blue Fafa Resort `grand-blue-fafa-resort` 🆕 *****
-  57. (382) Gruzínsko a Arménsko De Luxe - poznávací zájazd `gruzinsko-a-armensko-de-luxepoznavaci-zajazd` ***
+  57. (382) Gruzínsko a Arménsko De Luxe - poznávací zájazd `gruzinsko-a-armensko-de-luxe-poznavaci-zajazd` ***
   58. (88) Hedera `hedera` ****
   59. (1782) Horizont `horizont` ****
   60. (82) Chaika Beach Resort `chaika-beach-resort` ****
@@ -145,18 +145,18 @@
   64. (171) IC Green Palace `ic-green-palace` ******
   65. (167) IC Santai Family Resort `ic-santai-family-resort` ******
   66. (288) Ilyssion Beach Resort `ilyssion-beach-resort` ****
-  67. (1683) Imperial - Lucija `imperiallucija` ***+
+  67. (1683) Imperial - Lucija `imperial-lucija` ***+
   68. (308) Imperial hotel `imperial-hotel` ****
   69. (1695) Imperial Palace `imperial-palace` *****
   70. (1777) Imperial Turkiz Resort `imperial-turkiz-resort` 🆕 ******
   71. (490) Imperial villas `imperial-villas` ***+
-  72. (1697) Írsko zelený ostrov - poznávací zájazd `irsko-zeleny-ostrovpoznavaci-zajazd` **
-  73. (1635) Island - královstvo gejzírov - poznávací zájazd `islandkralovstvo-gejzirovpoznavaci-zajazd` **+
-  74. (1551) Istanbul De Luxe - poznávací zájazd `istanbul-de-luxepoznavaci-zajazd` (4 termíny) ***
-  75. (190) Izrael a Mŕtve more - pútnický zájazd letecky `izrael-a-mrtve-moreputnicky-zajazd-letecky` ***
-  76. (183) Izrael a Mŕtve more De Luxe - poznávací zájazd `izrael-a-mrtve-more-de-luxepoznavaci-zajazd` ***
-  77. (189) Izrael a Petra De Luxe - poznávací zájazd `izrael-a-petra-de-luxepoznavaci-zajazd` (2 termíny) ***
-  78. (1767) Jordánsko a jeho skvosty De Luxe - poznávací zájazd `jordansko-a-jeho-skvosty-de-luxepoznavaci-zajazd` ***
+  72. (1697) Írsko zelený ostrov - poznávací zájazd `irsko-zeleny-ostrov-poznavaci-zajazd` **
+  73. (1635) Island - královstvo gejzírov - poznávací zájazd `island-kralovstvo-gejzirov-poznavaci-zajazd` **+
+  74. (1551) Istanbul De Luxe - poznávací zájazd `istanbul-de-luxe-poznavaci-zajazd` (4 termíny) ***
+  75. (190) Izrael a Mŕtve more - pútnický zájazd letecky `izrael-a-mrtve-more-putnicky-zajazd-letecky` ***
+  76. (183) Izrael a Mŕtve more De Luxe - poznávací zájazd `izrael-a-mrtve-more-de-luxe-poznavaci-zajazd` ***
+  77. (189) Izrael a Petra De Luxe - poznávací zájazd `izrael-a-petra-de-luxe-poznavaci-zajazd` (2 termíny) ***
+  78. (1767) Jordánsko a jeho skvosty De Luxe - poznávací zájazd `jordansko-a-jeho-skvosty-de-luxe-poznavaci-zajazd` ***
   79. (157) Justiniano Park Conti `justiniano-park-conti` *****+
   80. (56) Kacjak `kacjak` **+
   81. (1657) Kaila Beach `kaila-beach` *****
@@ -170,11 +170,11 @@
   89. (121) Labranda Sandy Beach Resort `labranda-sandy-beach-resort` *****
   90. (1762) Labranda Senses Resort `labranda-senses-resort` 🆕 ****
   91. (1659) Lake River Side Hotel & Spa `lake-river-side-hotel-&-spa` *****+
-  92. (1634) Libanon Švajčiarsko Blízkeho východu De Luxe - poznávací zájazd `libanon-svajciarsko-blizkeho-vychodu-de-luxepoznavaci-zajazd` ***
+  92. (1634) Libanon Švajčiarsko Blízkeho východu De Luxe - poznávací zájazd `libanon-svajciarsko-blizkeho-vychodu-de-luxe-poznavaci-zajazd` ***
   93. (1589) Limak Lara De Luxe `limak-lara-de-luxe` ******
   94. (345) Lindos Royal `lindos-royal` *****
-  95. (194) Lurdy - pútnický zájazd `lurdyputnicky-zajazd` ***
-  96. (389) Madeira - ostrovný raj s turistikou  - Poznávací zájazd `madeiraostrovny-raj-s-turistikou-poznavaci-zajazd` **+
+  95. (194) Lurdy - pútnický zájazd `lurdy-putnicky-zajazd` ***
+  96. (389) Madeira - ostrovný raj s turistikou  - Poznávací zájazd `madeira-ostrovny-raj-s-turistikou--poznavaci-zajazd` **+
   97. (465) Malin `malin` ****+
   98. (436) Marmorata Sea View Resort `marmorata-sea-view-resort` ****
   99. (1585) Maya World Beach `maya-world-beach` ****
@@ -182,15 +182,15 @@
   101. (1686) Medena Superior Premium `medena-superior-premium` ****
   102. (1672) Mediteran `mediteran` 🆕 *****
   103. (1744) Mediterraneo `mediterraneo` 🆕 ***+
-  104. (326) Medžugorie - pútnický zájazd `medzugorieputnicky-zajazd` **+
+  104. (326) Medžugorie - pútnický zájazd `medzugorie-putnicky-zajazd` **+
   105. (146) Melissa Kleopatra Beach `melissa-kleopatra-beach` ***+
   106. (1780) Mercury `mercury` ****
   107. (1752) Messonghi Beach `messonghi-beach` 🆕 ****
   108. (87) Mimosa `mimosa` ****
   109. (444) Miramar Calafell `miramar-calafell` ****
   110. (431) Mix Peymar `mix-peymar` ***+
-  111. (1637) Mýtický Peloponéz De Luxe - poznávací zájazd `myticky-peloponez-de-luxepoznavaci-zajazd` ***
-  112. (470) Najkrajšie miesta a fjordy Nórska - poznávací zájazd `najkrajsie-miesta-a-fjordy-norskapoznavaci-zajazd` 
+  111. (1637) Mýtický Peloponéz De Luxe - poznávací zájazd `myticky-peloponez-de-luxe-poznavaci-zajazd` ***
+  112. (470) Najkrajšie miesta a fjordy Nórska - poznávací zájazd `najkrajsie-miesta-a-fjordy-norska-poznavaci-zajazd` 
   113. (404) Nelia Beach `nelia-beach` ****+
   114. (412) Nerton `nerton` *****
   115. (231) Nicotera Beach `nicotera-beach` ****+
@@ -202,11 +202,11 @@
   121. (1740) Out Of The Blue `out-of-the-blue` 🆕 *****+
   122. (61) Palazzo di Zante `palazzo-di-zante` ****
   123. (1775) Palm Beach Resort & Spa `palm-beach-resort-&-spa` 🆕 *****
-  124. (173) Paríž KLASIK - poznávací zájazd `pariz-klasikpoznavaci-zajazd` ***
+  124. (173) Paríž KLASIK - poznávací zájazd `pariz-klasik-poznavaci-zajazd` ***
   125. (143) Pegasos Beach `pegasos-beach` *****
   126. (107) Pinija `pinija` ****+
-  127. (257) Po stopách sv. pátra Pia - pútnický zájazd `po-stopach-sv.-patra-piaputnicky-zajazd` ***
-  128. (1640) Pohodový Island - poznávací zájazd `pohodovy-islandpoznavaci-zajazd` **
+  127. (257) Po stopách sv. pátra Pia - pútnický zájazd `po-stopach-sv.-patra-pia-putnicky-zajazd` ***
+  128. (1640) Pohodový Island - poznávací zájazd `pohodovy-island-poznavaci-zajazd` **
   129. (1586) Port River Hotel & Spa `port-river-hotel-&-spa` *****+
   130. (409) Portes Beach `portes-beach` *****
   131. (1781) Porto Greco Village `porto-greco-village` ****+
@@ -215,14 +215,14 @@
   134. (458) Queen Nelly `queen-nelly` ***+
   135. (1741) Relax `relax` 🆕 ****
   136. (1666) Rethymno Palace `rethymno-palace` *****+
-  137. (178) Rím De Luxe - poznávací zájazd `rim-de-luxepoznavaci-zajazd` ***
-  138. (177) Rím KLASIK - poznávací zájazd `rim-klasikpoznavaci-zajazd` **
+  137. (178) Rím De Luxe - poznávací zájazd `rim-de-luxe-poznavaci-zajazd` ***
+  138. (177) Rím KLASIK - poznávací zájazd `rim-klasik-poznavaci-zajazd` **
   139. (1615) Royal Park `royal-park` *****
   140. (215) Salamis Bay Conti `salamis-bay-conti` *****+
   141. (1590) Santa Caterina `santa-caterina` ****
   142. (456) Sea Breeze `sea-breeze` ***+
   143. (1646) Sea Star Beau Rivage `sea-star-beau-rivage` *****
-  144. (175) Sedem divov Islandu - poznávací zájazd `sedem-divov-islandupoznavaci-zajazd` 
+  144. (175) Sedem divov Islandu - poznávací zájazd `sedem-divov-islandu-poznavaci-zajazd` 
   145. (1760) Sentido Sandy Beach `sentido-sandy-beach` 🆕 ****+
   146. (1746) Serene Village `serene-village` 🆕 ****+
   147. (153) Serra Garden `serra-garden` *****
@@ -238,7 +238,7 @@
   157. (1511) Sun Beach Park `sun-beach-park` ****+
   158. (1684) Sunny Side `sunny-side` ****+
   159. (84) Sunset Resort `sunset-resort` ******
-  160. (1626) Sv. Charbel a Libanon - pútnický zájazd `sv.-charbel-a-libanonputnicky-zajazd` ***
+  160. (1626) Sv. Charbel a Libanon - pútnický zájazd `sv.-charbel-a-libanon-putnicky-zajazd` ***
   161. (1588) Swandor Topkapi Palace `swandor-topkapi-palace` ******
   162. (410) Tac Premier `tac-premier` ****+
   163. (294) Tiva del Mar `tiva-del-mar` ****+
@@ -270,10 +270,10 @@
       6. (437) Ibiza `ibiza` ***+
       7. (1756) Sol by Melia `sol-by-melia` 🆕 *****
   2. (3708) Arménsko `armensko` (2 hotely) 🧭
-    1. (1624) Arménsko a jeho krásy De Luxe - poznávací zájazd `armensko-a-jeho-krasy-de-luxepoznavaci-zajazd` ***
-    2. (382) Gruzínsko a Arménsko De Luxe - poznávací zájazd `gruzinsko-a-armensko-de-luxepoznavaci-zajazd` ***
+    1. (1624) Arménsko a jeho krásy De Luxe - poznávací zájazd `armensko-a-jeho-krasy-de-luxe-poznavaci-zajazd` ***
+    2. (382) Gruzínsko a Arménsko De Luxe - poznávací zájazd `gruzinsko-a-armensko-de-luxe-poznavaci-zajazd` ***
   3. (3584) Bosna a Hercegovina `bosna-a-hercegovina` (1 hotel) 🧭
-    1. (326) Medžugorie - pútnický zájazd `medzugorieputnicky-zajazd` **+
+    1. (326) Medžugorie - pútnický zájazd `medzugorie-putnicky-zajazd` **+
   4. (60) Bulharsko `bulharsko` 🧭
     1. (170) Elenite `elenite` (1 hotel)
       1. (1615) Royal Park `royal-park` *****
@@ -323,9 +323,9 @@
     4. (105) Soma Bay `soma-bay` (1 hotel)
       1. (1608) Caribbean World Soma Bay `caribbean-world-soma-bay` *****
   8. (3819) Faerské ostrovy `faerske-ostrovy` (1 hotel) 🧭
-    1. (1766) Faerské ostrovy severský raj - poznávací zájazd `faerske-ostrovy-seversky-rajpoznavaci-zajazd` ****
+    1. (1766) Faerské ostrovy severský raj - poznávací zájazd `faerske-ostrovy-seversky-raj-poznavaci-zajazd` ****
   9. (77) Francúzsko `francuzsko` (1 hotel) 🧭
-    1. (173) Paríž KLASIK - poznávací zájazd `pariz-klasikpoznavaci-zajazd` ***
+    1. (173) Paríž KLASIK - poznávací zájazd `pariz-klasik-poznavaci-zajazd` ***
   10. (64) Grécko a ostrovy `grecko-a-ostrovy` 🧭
     1. (3683) Chalkidiki `chalkidiki` 🧭
       1. (3686) Nea Potidea `nea-potidea` (1 hotel)
@@ -361,26 +361,26 @@
       1. (568) Crikvenica `crikvenica` (1 hotel)
         1. (56) Kacjak `kacjak` **+
   12. (562) Írsko `irsko` (1 hotel) 🧭
-    1. (1697) Írsko zelený ostrov - poznávací zájazd `irsko-zeleny-ostrovpoznavaci-zajazd` **
+    1. (1697) Írsko zelený ostrov - poznávací zájazd `irsko-zeleny-ostrov-poznavaci-zajazd` **
   13. (3711) Island `island` (3 hotely) 🧭
-    1. (1635) Island - královstvo gejzírov - poznávací zájazd `islandkralovstvo-gejzirovpoznavaci-zajazd` **+
-    2. (1640) Pohodový Island - poznávací zájazd `pohodovy-islandpoznavaci-zajazd` **
-    3. (175) Sedem divov Islandu - poznávací zájazd `sedem-divov-islandupoznavaci-zajazd` 
+    1. (1635) Island - královstvo gejzírov - poznávací zájazd `island-kralovstvo-gejzirov-poznavaci-zajazd` **+
+    2. (1640) Pohodový Island - poznávací zájazd `pohodovy-island-poznavaci-zajazd` **
+    3. (175) Sedem divov Islandu - poznávací zájazd `sedem-divov-islandu-poznavaci-zajazd` 
   14. (76) Izrael `izrael` (3 hotely) 🧭
-    1. (190) Izrael a Mŕtve more - pútnický zájazd letecky `izrael-a-mrtve-moreputnicky-zajazd-letecky` ***
-    2. (183) Izrael a Mŕtve more De Luxe - poznávací zájazd `izrael-a-mrtve-more-de-luxepoznavaci-zajazd` ***
-    3. (189) Izrael a Petra De Luxe - poznávací zájazd `izrael-a-petra-de-luxepoznavaci-zajazd` (2 termíny) ***
+    1. (190) Izrael a Mŕtve more - pútnický zájazd letecky `izrael-a-mrtve-more-putnicky-zajazd-letecky` ***
+    2. (183) Izrael a Mŕtve more De Luxe - poznávací zájazd `izrael-a-mrtve-more-de-luxe-poznavaci-zajazd` ***
+    3. (189) Izrael a Petra De Luxe - poznávací zájazd `izrael-a-petra-de-luxe-poznavaci-zajazd` (2 termíny) ***
   15. (3820) Jordánsko `jordansko` (1 hotel) 🧭
-    1. (1767) Jordánsko a jeho skvosty De Luxe - poznávací zájazd `jordansko-a-jeho-skvosty-de-luxepoznavaci-zajazd` ***
+    1. (1767) Jordánsko a jeho skvosty De Luxe - poznávací zájazd `jordansko-a-jeho-skvosty-de-luxe-poznavaci-zajazd` ***
   16. (3772) Libanon `libanon` (2 hotely) 🧭
-    1. (1634) Libanon Švajčiarsko Blízkeho východu De Luxe - poznávací zájazd `libanon-svajciarsko-blizkeho-vychodu-de-luxepoznavaci-zajazd` ***
-    2. (1626) Sv. Charbel a Libanon - pútnický zájazd `sv.-charbel-a-libanonputnicky-zajazd` ***
+    1. (1634) Libanon Švajčiarsko Blízkeho východu De Luxe - poznávací zájazd `libanon-svajciarsko-blizkeho-vychodu-de-luxe-poznavaci-zajazd` ***
+    2. (1626) Sv. Charbel a Libanon - pútnický zájazd `sv.-charbel-a-libanon-putnicky-zajazd` ***
   17. (561) Nórsko `norsko` (2 hotely) 🧭
-    1. (1639) Do srdca nórskych fjordov - Poznávací zájazd `do-srdca-norskych-fjordovpoznavaci-zajazd` ***
-    2. (470) Najkrajšie miesta a fjordy Nórska - poznávací zájazd `najkrajsie-miesta-a-fjordy-norskapoznavaci-zajazd` 
+    1. (1639) Do srdca nórskych fjordov - Poznávací zájazd `do-srdca-norskych-fjordov-poznavaci-zajazd` ***
+    2. (470) Najkrajšie miesta a fjordy Nórska - poznávací zájazd `najkrajsie-miesta-a-fjordy-norska-poznavaci-zajazd` 
   18. (69) Portugalsko `portugalsko` (2 hotely) 🧭
-    1. (192) Fatima a Santiago de Compostela  - pútnický zájazd `fatima-a-santiago-de-compostela-putnicky-zajazd` ***
-    2. (389) Madeira - ostrovný raj s turistikou  - Poznávací zájazd `madeiraostrovny-raj-s-turistikou-poznavaci-zajazd` **+
+    1. (192) Fatima a Santiago de Compostela  - pútnický zájazd `fatima-a-santiago-de-compostela--putnicky-zajazd` ***
+    2. (389) Madeira - ostrovný raj s turistikou  - Poznávací zájazd `madeira-ostrovny-raj-s-turistikou--poznavaci-zajazd` **+
   19. (1928) Severný Cyprus `severny-cyprus` 🧭
     1. (1943) Famagusta `famagusta` (1 hotel)
       1. (215) Salamis Bay Conti `salamis-bay-conti` *****+
@@ -395,9 +395,9 @@
       1. (3700) Calafell `calafell` (1 hotel)
         1. (444) Miramar Calafell `miramar-calafell` ****
   21. (78) Taliansko `taliansko` (3 hotely) 🧭
-    1. (257) Po stopách sv. pátra Pia - pútnický zájazd `po-stopach-sv.-patra-piaputnicky-zajazd` ***
-    2. (178) Rím De Luxe - poznávací zájazd `rim-de-luxepoznavaci-zajazd` ***
-    3. (177) Rím KLASIK - poznávací zájazd `rim-klasikpoznavaci-zajazd` **
+    1. (257) Po stopách sv. pátra Pia - pútnický zájazd `po-stopach-sv.-patra-pia-putnicky-zajazd` ***
+    2. (178) Rím De Luxe - poznávací zájazd `rim-de-luxe-poznavaci-zajazd` ***
+    3. (177) Rím KLASIK - poznávací zájazd `rim-klasik-poznavaci-zajazd` **
     1. (1927) Jadranské pobrežie `jadranske-pobrezie` 🧭
       1. (3653) Bellaria `bellaria` (1 hotel)
         1. (376) Club Hotel Angelini `club-hotel-angelini` ****
