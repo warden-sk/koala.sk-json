@@ -113,22 +113,6 @@ export class Tree {
       const UP = '\u2191';
       const DOWN = '\u2193';
 
-      if (left === 'date' && right === UP) {
-        hotels = hotels.sort((l, r) => (l?.terms?.[0]?.date > r?.terms?.[0]?.date ? 1 : -1));
-      }
-
-      if (left === 'date' && right === DOWN) {
-        hotels = hotels.sort((l, r) => (l?.terms?.[0]?.date < r?.terms?.[0]?.date ? 1 : -1));
-      }
-
-      if (left === 'discount' && right === UP) {
-        hotels = hotels.sort((l, r) => (l?.terms?.[0]?.discount > r?.terms?.[0]?.discount ? 1 : -1));
-      }
-
-      if (left === 'discount' && right === DOWN) {
-        hotels = hotels.sort((l, r) => (l?.terms?.[0]?.discount < r?.terms?.[0]?.discount ? 1 : -1));
-      }
-
       if (left === 'price' && right === UP) {
         hotels = hotels.sort((l, r) => (l?.terms?.[0]?.price > r?.terms?.[0]?.price ? 1 : -1));
       }
