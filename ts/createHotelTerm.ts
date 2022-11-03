@@ -8,6 +8,7 @@ export interface HotelTerm {
   days: number;
   discount?: number;
   id: number;
+  isActive?: boolean;
   price: number;
   serviceId: number;
   transportationFromId?: number;
@@ -24,6 +25,7 @@ function createHotelTerm(): HotelTerm {
     days: 0,
     discount: 50,
     id: id++,
+    isActive: true,
     price: 500,
     serviceId: 403,
     // transportationFromId

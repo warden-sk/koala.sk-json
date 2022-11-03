@@ -11,6 +11,7 @@ class EnhancedHotelTerm implements Omit<HotelTerm, 'date'> {
   days: number;
   discount: number;
   id: number;
+  isActive: boolean;
   parent?: EnhancedHotel;
   price: number;
   serviceId: number;
@@ -24,6 +25,7 @@ class EnhancedHotelTerm implements Omit<HotelTerm, 'date'> {
     this.days = hotelTerm.days;
     this.discount = hotelTerm.discount ?? 0;
     this.id = hotelTerm.id;
+    this.isActive = hotelTerm.isActive ?? false;
     this.parent = parent;
     this.price = hotelTerm.price;
     this.serviceId = hotelTerm.serviceId;
