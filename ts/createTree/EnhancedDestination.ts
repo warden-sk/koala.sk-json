@@ -18,6 +18,7 @@ class EnhancedDestination implements Omit<Destination, 'destinations' | 'hotels'
   name: string;
   parent?: EnhancedDestination;
   parentId: number;
+  url: string;
 
   constructor(destination: Destination, parent?: EnhancedDestination) {
     this.#hotels = destination.hotels.map(hotel => new EnhancedHotel(hotel, this));
@@ -32,6 +33,7 @@ class EnhancedDestination implements Omit<Destination, 'destinations' | 'hotels'
     this.name = destination.name;
     this.parent = parent;
     this.parentId = destination.parentId;
+    this.url = destination.url;
   }
 
   breadcrumbs<T>(destination: EnhancedDestination | undefined, on: (destination: EnhancedDestination) => T): T[] {

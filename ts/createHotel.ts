@@ -9,14 +9,17 @@ export interface Hotel {
   category: number;
   equipment: number[];
   id: number;
-  isNew?: boolean;
+  isNew?: boolean; // undefined
+  latitude?: number; // undefined
+  longitude?: number; // undefined
   name: string;
   parentId: number;
   photoId: number;
   stars: number;
   terms: HotelTerm[];
   type: number;
-  videoId?: string;
+  url: string;
+  videoId?: string; // undefined
 }
 
 let id = 0;
@@ -27,12 +30,15 @@ function createHotel(): Hotel {
     equipment: [],
     id: id++,
     // isNew
+    // latitude
+    // longitude
     name: 'Hotel',
     parentId: 0,
     photoId: 0,
     stars: 5,
     terms: [createHotelTerm()],
     type: 3,
+    url: 'test',
     // videoId
   };
 }

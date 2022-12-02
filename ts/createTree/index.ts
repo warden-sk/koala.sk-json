@@ -24,6 +24,7 @@ export interface SearchInput {
   serviceId?: number[];
   stars?: number[];
   transportationId?: number[];
+  url?: string;
   //--------------------------------------------------------------------------------------------------------------------
   s?: string;
 }
@@ -47,6 +48,7 @@ export class Tree {
     serviceId,
     stars,
     transportationId,
+    url,
   }: SearchInput = {}): EnhancedHotel[] {
     const filterConditions: FilterConditions = {
       hotel: [
@@ -63,6 +65,8 @@ export class Tree {
         hotel => (hotelId ? hotel.id === hotelId : true),
         // has stars
         hotel => (stars ? stars.findIndex(hotel.hasStars) !== -1 : true),
+        // has url
+        hotel => (url ? hotel.url === url : true),
       ],
       hotelTerm: [
         // (2) development

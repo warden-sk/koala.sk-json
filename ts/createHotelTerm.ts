@@ -6,14 +6,13 @@ export interface HotelTerm {
   code: number;
   date: [from: number, to: number];
   days: number;
-  discount?: number;
+  discount?: number; // undefined
   id: number;
-  isActive?: boolean;
+  isActive?: boolean; // undefined
   price: number;
   serviceId: number;
-  transportationFromId?: number;
+  transportationFromId?: number; // undefined
   transportationId: number;
-  url?: string;
 }
 
 let id = 0;

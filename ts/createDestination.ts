@@ -10,12 +10,13 @@ export interface Destination {
   destinations: Destination[];
   hotels: Hotel[];
   id: number;
-  isActive?: boolean;
-  latitude?: number;
+  isActive?: boolean; // undefined
+  latitude?: number; // undefined
   level: number;
-  longitude?: number;
+  longitude?: number; // undefined
   name: string;
   parentId: number;
+  url: string;
 }
 
 let id = 0;
@@ -32,6 +33,7 @@ function createDestination(hotelsLength: number): Destination {
     // longitude
     name: 'Destination',
     parentId: 0,
+    url: 'test',
   };
 }
 
