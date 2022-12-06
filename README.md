@@ -156,10 +156,10 @@
   71. (490) Imperial villas ***+
   72. (1697) Írsko zelený ostrov - poznávací zájazd **
   73. (1635) Island - královstvo gejzírov - poznávací zájazd **+
-  74. (1551) Istanbul De Luxe - poznávací zájazd (4 termíny) ***
-  75. (190) Izrael a Mŕtve more - pútnický zájazd letecky (2 termíny) ***
+  74. (1551) Istanbul De Luxe - poznávací zájazd ***
+  75. (190) Izrael a Mŕtve more - pútnický zájazd letecky ***
   76. (183) Izrael a Mŕtve more De Luxe - poznávací zájazd ***
-  77. (189) Izrael a Petra De Luxe - poznávací zájazd (2 termíny) ***
+  77. (189) Izrael a Petra De Luxe - poznávací zájazd ***
   78. (1767) Jordánsko a jeho skvosty De Luxe - poznávací zájazd ***
   79. (157) Justiniano Park Conti *****+
   80. (56) Kacjak **+
@@ -376,9 +376,9 @@
     2. (1640) Pohodový Island - poznávací zájazd **
     3. (175) Sedem divov Islandu - poznávací zájazd 
   14. (76) Izrael (3 hotely) 🧭
-    1. (190) Izrael a Mŕtve more - pútnický zájazd letecky (2 termíny) ***
+    1. (190) Izrael a Mŕtve more - pútnický zájazd letecky ***
     2. (183) Izrael a Mŕtve more De Luxe - poznávací zájazd ***
-    3. (189) Izrael a Petra De Luxe - poznávací zájazd (2 termíny) ***
+    3. (189) Izrael a Petra De Luxe - poznávací zájazd ***
   15. (3820) Jordánsko (1 hotel) 🧭
     1. (1767) Jordánsko a jeho skvosty De Luxe - poznávací zájazd ***
   16. (3772) Libanon (2 hotely) 🧭
@@ -436,7 +436,7 @@
       3. (1661) Club Mega Saray ******
       4. (167) IC Santai Family Resort ******
     4. (1969) Istanbul (1 hotel)
-      1. (1551) Istanbul De Luxe - poznávací zájazd (4 termíny) ***
+      1. (1551) Istanbul De Luxe - poznávací zájazd ***
     5. (159) Kemer (1 hotel)
       1. (1777) Imperial Turkiz Resort 🆕 ******
     6. (158) Side (7 hotelov)
