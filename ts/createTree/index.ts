@@ -110,9 +110,9 @@ export class Tree {
 
     // TODO
     if (s) {
-      const pattern = /^(?<left>[^\u2191|\u2193]+)(?<right>\u2191|\u2193)$/;
-
-      const { left, right } = new EnhancedRegExp<{ left: string; right: string }>(pattern).groups(s);
+      const { left, right } = new EnhancedRegExp<{ left: string; right: string }>(
+        '^(?<left>[^\u2191|\u2193]+)(?<right>\u2191|\u2193)$'
+      ).groups(s);
 
       const UP = '\u2191';
       const DOWN = '\u2193';
