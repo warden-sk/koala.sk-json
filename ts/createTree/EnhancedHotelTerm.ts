@@ -14,6 +14,7 @@ class EnhancedHotelTerm implements Omit<HotelTerm, 'date'> {
   isActive: boolean;
   parent?: EnhancedHotel;
   price: number;
+  service: string;
   serviceId: number;
   transportationFromId?: number;
   transportationId: number;
@@ -28,6 +29,7 @@ class EnhancedHotelTerm implements Omit<HotelTerm, 'date'> {
     this.isActive = hotelTerm.isActive ?? false;
     this.parent = parent;
     this.price = hotelTerm.price;
+    this.service = hotelTerm.service;
     this.serviceId = hotelTerm.serviceId;
     this.transportationFromId = hotelTerm.transportationFromId;
     this.transportationId = hotelTerm.transportationId;
@@ -42,19 +44,6 @@ class EnhancedHotelTerm implements Omit<HotelTerm, 'date'> {
     const day = date[6] + date[7];
 
     return new Date(+year, +month - 1, +day);
-  }
-
-  decodeServiceId(): string {
-    const ids: { [id: number]: string } = {
-      403: 'raňajky',
-      404: 'polpenzia',
-      406: 'All Inclusive',
-      672: 'Ultra All Inclusive',
-      1043: 'All Inclusive Light',
-      1109: 'polpenzia ULTRA',
-    };
-
-    return ids[this.serviceId];
   }
 
   hasDays(from: number, to: number): boolean {
