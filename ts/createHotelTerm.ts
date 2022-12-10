@@ -12,6 +12,8 @@ export interface HotelTerm {
   price: number;
   service: string;
   serviceId: number;
+  transportation: string;
+  transportationFrom?: string; // undefined
   transportationFromId?: number; // undefined
   transportationId: number;
   url?: string; // undefined
@@ -30,7 +32,8 @@ function createHotelTerm(): HotelTerm {
     price: 500,
     service: 'Ultra All Inclusive',
     serviceId: 672,
-    transportationId: 199,
+    transportation: 'airplane',
+    transportationId: 201,
   };
 }
 

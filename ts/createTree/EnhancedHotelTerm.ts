@@ -16,6 +16,8 @@ class EnhancedHotelTerm implements Omit<HotelTerm, 'date'> {
   price: number;
   service: string;
   serviceId: number;
+  transportation: string;
+  transportationFrom?: string;
   transportationFromId?: number;
   transportationId: number;
   url?: string;
@@ -31,6 +33,8 @@ class EnhancedHotelTerm implements Omit<HotelTerm, 'date'> {
     this.price = hotelTerm.price;
     this.service = hotelTerm.service;
     this.serviceId = hotelTerm.serviceId;
+    this.transportation = hotelTerm.transportation;
+    this.transportationFrom = hotelTerm.transportationFrom;
     this.transportationFromId = hotelTerm.transportationFromId;
     this.transportationId = hotelTerm.transportationId;
     this.url = hotelTerm.url;
