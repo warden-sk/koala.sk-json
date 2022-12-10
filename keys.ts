@@ -21,14 +21,18 @@ const keys = {
   p: 'parentId',
   q: 'photoId',
   r: 'price',
-  s: 'serviceId',
-  t: 'stars',
-  u: 'terms',
-  v: 'transportationFromId',
-  w: 'transportationId',
-  x: 'type',
-  y: 'url',
-  z: 'videoId',
+  s: 'service',
+  t: 'serviceId',
+  u: 'stars',
+  v: 'terms',
+  w: 'transportation',
+  x: 'transportationFrom',
+  y: 'transportationFromId',
+  z: 'transportationId',
+  //
+  ab: 'type',
+  ac: 'url',
+  ad: 'videoId',
 } as const;
 
 export default keys;
