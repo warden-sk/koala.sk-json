@@ -13,7 +13,7 @@ export interface HotelTerm {
   serviceId: number;
   transportationFromId?: number; // undefined
   transportationId: number;
-  url: string;
+  url?: string;
 }
 
 let id = 0;
@@ -30,7 +30,7 @@ function createHotelTerm(): HotelTerm {
     serviceId: 403,
     // transportationFromId
     transportationId: 199,
-    url: '',
+    // url
   };
 }
 

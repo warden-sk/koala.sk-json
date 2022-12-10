@@ -17,7 +17,7 @@ class EnhancedHotelTerm implements Omit<HotelTerm, 'date'> {
   serviceId: number;
   transportationFromId?: number;
   transportationId: number;
-  url: string;
+  url?: string;
 
   constructor(hotelTerm: HotelTerm, parent?: EnhancedHotel) {
     this.code = hotelTerm.code;
