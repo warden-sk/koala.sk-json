@@ -17,7 +17,7 @@ class EnhancedHotel implements Omit<Hotel, 'terms'> {
   photoId: number;
   stars: number;
   terms: EnhancedHotelTerm[];
-  type: number;
+  type: string;
   url: string;
   videoId?: string;
 
@@ -39,21 +39,6 @@ class EnhancedHotel implements Omit<Hotel, 'terms'> {
 
   breadcrumbs<T>(destination: EnhancedDestination | undefined, on: (destination: EnhancedDestination) => T): T[] {
     return destination ? [...this.breadcrumbs(destination.parent, on), on(destination)] : [];
-  }
-
-  decodeType(): string {
-    const types: { [type: number]: string } = {
-      3: 'hotel',
-      4: 'penzión',
-      11: 'hotelový komplex',
-      13: 'pavilóny',
-      15: 'vilky hotela',
-      17: 'dependance hotela',
-      48: 'apartmány',
-      51: 'turistický hotel',
-    };
-
-    return types[this.type];
   }
 
   hasCategory = (category: number): boolean => {

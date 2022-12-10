@@ -17,7 +17,7 @@ export interface Hotel {
   photoId: number;
   stars: number;
   terms: HotelTerm[];
-  type: number;
+  type: string;
   url: string;
   videoId?: string; // undefined
 }
@@ -29,17 +29,13 @@ function createHotel(): Hotel {
     category: 1,
     equipment: [],
     id: id++,
-    // isNew
-    // latitude
-    // longitude
     name: 'Hotel',
     parentId: 0,
     photoId: 0,
     stars: 5,
     terms: [createHotelTerm()],
-    type: 3,
-    url: 'test',
-    // videoId
+    type: 'hotel',
+    url: 'hotel',
   };
 }
 

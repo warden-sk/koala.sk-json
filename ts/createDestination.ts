@@ -27,13 +27,10 @@ function createDestination(hotelsLength: number): Destination {
     destinations: [],
     hotels: Array.from({ length: hotelsLength }, createHotel),
     id: id++,
-    // isActive
-    // latitude
     level: 0,
-    // longitude
     name: 'Destination',
     parentId: 0,
-    url: 'test',
+    url: 'destination',
   };
 }
 
