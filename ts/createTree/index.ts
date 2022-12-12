@@ -36,20 +36,22 @@ export class Tree {
     this.destinations = destinations.map(destination => new EnhancedDestination(destination));
   }
 
-  searchHotels({
-    category,
-    date,
-    days,
-    destinationId,
-    hasDiscount,
-    hotelId,
-    price,
-    s,
-    serviceId,
-    stars,
-    transportationId,
-    url,
-  }: SearchInput = {}): EnhancedHotel[] {
+  searchHotels(searchInput: SearchInput = {}): EnhancedHotel[] {
+    const {
+      category,
+      date,
+      days,
+      destinationId,
+      hasDiscount,
+      hotelId,
+      price,
+      s,
+      serviceId,
+      stars,
+      transportationId,
+      url,
+    } = searchInput;
+
     const filterConditions: FilterConditions = {
       hotel: [
         // (1) development
@@ -81,11 +83,12 @@ export class Tree {
         hotelTerm =>
           serviceId
             ? Array.isArray(serviceId)
-              ? serviceId.findIndex(hotelTerm.hasServiceId) !== -1
+              ? serviceId.findIndex(n => hotelTerm.hasServiceId(n)) !== -1
               : hotelTerm.hasServiceId(serviceId)
             : true,
         // has transportationId
-        hotelTerm => (transportationId ? transportationId.findIndex(hotelTerm.hasTransportationId) !== -1 : true),
+        hotelTerm =>
+          transportationId ? transportationId.findIndex(n => hotelTerm.hasTransportationId(n)) !== -1 : true,
       ],
     };
 
@@ -96,7 +99,7 @@ export class Tree {
           hotel =>
             filterConditions.hotel.every(filterCondition => filterCondition(hotel)) &&
             hotel.terms.every(hotelTerm =>
-              filterConditions.hotelTerm.every(filterCondition => filterCondition(hotelTerm))
+              filterConditions.hotelTerm.some(filterCondition => filterCondition(hotelTerm))
             )
         )
         .map(hotel => {
