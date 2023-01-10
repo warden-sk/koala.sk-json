@@ -49,6 +49,10 @@ class EnhancedHotel implements Omit<Hotel, 'terms'> {
     return this.category === category;
   };
 
+  hasEquipmentId = (equipmentId: number): boolean => {
+    return this.equipment.indexOf(equipmentId) !== -1;
+  };
+
   hasStars = (stars: number): boolean => {
     return this.stars === stars || this.stars === stars + 0.5;
   };

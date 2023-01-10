@@ -26,7 +26,7 @@ let id = 0;
 
 function createHotel(): Hotel {
   return {
-    category: 1,
+    category: 401,
     equipment: [],
     id: id++,
     name: 'Hotel',
