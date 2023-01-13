@@ -24,6 +24,7 @@ export interface SearchInput {
   price?: [from: number, to: number];
   serviceId?: number[];
   stars?: number[];
+  transportationFromId?: number[];
   transportationId?: number[];
   url?: string;
   //--------------------------------------------------------------------------------------------------------------------
@@ -50,6 +51,7 @@ export class Tree {
       s,
       serviceId,
       stars,
+      transportationFromId,
       transportationId,
       url,
     } = searchInput;
@@ -89,6 +91,11 @@ export class Tree {
             ? Array.isArray(serviceId)
               ? serviceId.findIndex(n => hotelTerm.hasServiceId(n)) !== -1
               : hotelTerm.hasServiceId(serviceId)
+            : true,
+        // has hasTransportationFromId
+        hotelTerm =>
+          transportationFromId
+            ? transportationFromId.findIndex(n => hotelTerm.hasTransportationFromId(n)) !== -1
             : true,
         // has transportationId
         hotelTerm =>

@@ -66,6 +66,10 @@ class EnhancedHotelTerm implements Omit<HotelTerm, 'date'> {
     return this.serviceId === serviceId;
   }
 
+  hasTransportationFromId(transportationFromId: number): boolean {
+    return this.transportationFromId === transportationFromId;
+  }
+
   hasTransportationId(transportationId: number): boolean {
     return this.transportationId === transportationId;
   }
