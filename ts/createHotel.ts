@@ -9,7 +9,6 @@ export interface Hotel {
   category: number;
   equipment: number[];
   id: number;
-  isNew?: boolean; // undefined
   latitude?: number; // undefined
   longitude?: number; // undefined
   name: string;

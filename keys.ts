@@ -13,7 +13,7 @@ const keys = {
   h: 'hotels',
   i: 'id',
   j: 'isActive',
-  k: 'isNew',
+  // k: '',
   l: 'latitude',
   m: 'level',
   n: 'longitude',

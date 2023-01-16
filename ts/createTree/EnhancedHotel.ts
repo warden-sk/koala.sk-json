@@ -10,7 +10,6 @@ class EnhancedHotel implements Omit<Hotel, 'terms'> {
   category: number;
   equipment: number[];
   id: number;
-  isNew: boolean;
   latitude: number;
   longitude: number;
   name: string;
@@ -27,7 +26,6 @@ class EnhancedHotel implements Omit<Hotel, 'terms'> {
     this.category = hotel.category;
     this.equipment = hotel.equipment;
     this.id = hotel.id;
-    this.isNew = hotel.isNew ?? false;
     this.latitude = hotel.latitude ?? 0;
     this.longitude = hotel.longitude ?? 0;
     this.name = hotel.name;
