@@ -7,6 +7,8 @@ import EnhancedDestination from './EnhancedDestination';
 import type EnhancedHotel from './EnhancedHotel';
 import type EnhancedHotelTerm from './EnhancedHotelTerm';
 import EnhancedRegExp from '../../../private/helpers/EnhancedRegExp';
+import getDestinationsFromDestination from '../../../private/2023/DestinationSelector/helpers/getDestinationsFromDestination';
+import { pernik } from '../../../private/2023/DestinationSelector';
 
 export interface FilterConditions {
   hotel: ((hotel: EnhancedHotel) => boolean)[];
@@ -56,14 +58,24 @@ export class Tree {
       url,
     } = searchInput;
 
+    // dokončiť
+    const destinations = [
+      ...this.destinations,
+      ...this.destinations.flatMap(destination => getDestinationsFromDestination(destination)),
+    ].filter(destination => (destinationId ?? []).indexOf(destination.id) !== -1);
+
+    const dOf = pernik(destinations).map(destination => destination.id);
+
+    const destinationId2 = dOf.length > 0 ? dOf : undefined;
+
     const filterConditions: FilterConditions = {
       hotel: [
         // (1) development
         hotel =>
-          destinationId
+          destinationId2
             ? hotel
                 .breadcrumbs(hotel.parent, destination => destination.id)
-                .findIndex(breadcrumb => destinationId.findIndex(id => id === breadcrumb) !== -1) !== -1
+                .findIndex(breadcrumb => destinationId2.findIndex(id => id === breadcrumb) !== -1) !== -1
             : true,
         // has category
         hotel => (category ? category.findIndex(hotel.hasCategory) !== -1 : true),
