@@ -125,12 +125,15 @@ export class Tree {
               filterConditions.hotelTerm.some(filterCondition => filterCondition(hotelTerm))
             )
         )
+        // TODO
         .map(hotel => {
-          hotel.terms = hotel.terms
+          const hotel2 = Object.assign(Object.create(Object.getPrototypeOf(hotel)), hotel);
+
+          hotel2.terms = [...hotel2.terms]
             .filter(hotelTerm => filterConditions.hotelTerm.every(filterCondition => filterCondition(hotelTerm)))
             .sort((l, r) => (l.price > r.price ? 1 : -1));
 
-          return hotel;
+          return hotel2;
         })
     );
 
