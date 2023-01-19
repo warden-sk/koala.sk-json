@@ -2,14 +2,15 @@
  * Copyright 2023 Marek Kobida
  */
 
+import type { Hotel } from '../createHotel';
 import type EnhancedDestination from './EnhancedDestination';
 import EnhancedHotelTerm from './EnhancedHotelTerm';
-import type { Hotel } from '../createHotel';
 
 class EnhancedHotel implements Omit<Hotel, 'terms'> {
   category: number;
   equipment: number[];
   id: number;
+  json: Hotel;
   latitude: number;
   longitude: number;
   name: string;
@@ -26,6 +27,7 @@ class EnhancedHotel implements Omit<Hotel, 'terms'> {
     this.category = hotel.category;
     this.equipment = hotel.equipment;
     this.id = hotel.id;
+    this.json = hotel;
     this.latitude = hotel.latitude ?? 0;
     this.longitude = hotel.longitude ?? 0;
     this.name = hotel.name;

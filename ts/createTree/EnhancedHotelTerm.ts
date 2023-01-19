@@ -2,8 +2,8 @@
  * Copyright 2023 Marek Kobida
  */
 
-import type EnhancedHotel from './EnhancedHotel';
 import type { HotelTerm } from '../createHotelTerm';
+import type EnhancedHotel from './EnhancedHotel';
 
 class EnhancedHotelTerm implements Omit<HotelTerm, 'date'> {
   code: number;
@@ -12,6 +12,7 @@ class EnhancedHotelTerm implements Omit<HotelTerm, 'date'> {
   discount: number;
   id: number;
   isActive: boolean;
+  json: HotelTerm;
   parent?: EnhancedHotel;
   price: number;
   service: string;
@@ -29,6 +30,7 @@ class EnhancedHotelTerm implements Omit<HotelTerm, 'date'> {
     this.discount = hotelTerm.discount ?? 0;
     this.id = hotelTerm.id;
     this.isActive = hotelTerm.isActive ?? false;
+    this.json = hotelTerm;
     this.parent = parent;
     this.price = hotelTerm.price;
     this.service = hotelTerm.service;
