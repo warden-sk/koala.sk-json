@@ -115,13 +115,6 @@ export class Tree {
       ],
     };
 
-    if (searchInput && searchInput.date) {
-      console.log(
-        'dátum vyhľadávania',
-        searchInput.date.map(d => new Date(d).toString())
-      );
-    }
-
     const hotels = this.destinations.flatMap(destination =>
       destination
         .hotels(true)
@@ -135,10 +128,6 @@ export class Tree {
         // TODO
         .map(hotel => {
           const hotel2: EnhancedHotel = Object.assign(Object.create(Object.getPrototypeOf(hotel)), hotel);
-
-          if (/Alba Resort/.test(hotel.name)) {
-            console.log('🏨', hotel.name, hotel.terms);
-          }
 
           hotel2.terms = hotel2.terms
             .filter(hotelTerm => filterConditions.hotelTerm.every(filterCondition => filterCondition(hotelTerm)))
