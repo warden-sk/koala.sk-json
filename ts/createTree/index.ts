@@ -2,13 +2,13 @@
  * Copyright 2023 Marek Kobida
  */
 
+import { pernik } from '../../../private/2023/DestinationSelector';
+import getDestinationsFromDestination from '../../../private/2023/DestinationSelector/helpers/getDestinationsFromDestination';
+import EnhancedRegExp from '../../../private/helpers/EnhancedRegExp';
 import type { Destination } from '../createDestination';
 import EnhancedDestination from './EnhancedDestination';
 import type EnhancedHotel from './EnhancedHotel';
 import type EnhancedHotelTerm from './EnhancedHotelTerm';
-import EnhancedRegExp from '../../../private/helpers/EnhancedRegExp';
-import getDestinationsFromDestination from '../../../private/2023/DestinationSelector/helpers/getDestinationsFromDestination';
-import { pernik } from '../../../private/2023/DestinationSelector';
 
 export interface FilterConditions {
   hotel: ((hotel: EnhancedHotel) => boolean)[];
@@ -90,7 +90,7 @@ export class Tree {
       ],
       hotelTerm: [
         // (2) development
-        hotelTerm => (date ? +hotelTerm.date[0] > date[0] && +hotelTerm.date[1] < date[1] : true),
+        hotelTerm => (date ? +hotelTerm.date[0] >= date[0] && +hotelTerm.date[1] <= date[1] : true),
         // has days
         hotelTerm => (days ? hotelTerm.hasDays(days[0], days[1]) : true),
         // has discount
@@ -115,7 +115,14 @@ export class Tree {
       ],
     };
 
-    let hotels = this.destinations.flatMap(destination =>
+    if (searchInput && searchInput.date) {
+      console.log(
+        'dátum vyhľadávania',
+        searchInput.date.map(d => new Date(d).toString())
+      );
+    }
+
+    const hotels = this.destinations.flatMap(destination =>
       destination
         .hotels(true)
         .filter(
@@ -127,9 +134,13 @@ export class Tree {
         )
         // TODO
         .map(hotel => {
-          const hotel2 = Object.assign(Object.create(Object.getPrototypeOf(hotel)), hotel);
+          const hotel2: EnhancedHotel = Object.assign(Object.create(Object.getPrototypeOf(hotel)), hotel);
 
-          hotel2.terms = [...hotel2.terms]
+          if (/Alba Resort/.test(hotel.name)) {
+            console.log('🏨', hotel.name, hotel.terms);
+          }
+
+          hotel2.terms = hotel2.terms
             .filter(hotelTerm => filterConditions.hotelTerm.every(filterCondition => filterCondition(hotelTerm)))
             .sort((l, r) => (l.price > r.price ? 1 : -1));
 
@@ -147,18 +158,18 @@ export class Tree {
       const DOWN = '\u2193';
 
       if (left === 'price' && right === UP) {
-        hotels = hotels.sort((l, r) => {
-          const lFirst = l.terms?.[0]?.price;
-          const rFirst = r.terms?.[0]?.price;
+        return hotels.sort((l, r) => {
+          const lFirst = l.terms[0]?.price;
+          const rFirst = r.terms[0]?.price;
 
           return !!lFirst ? (lFirst > rFirst ? 1 : -1) : 1;
         });
       }
 
       if (left === 'price' && right === DOWN) {
-        hotels = hotels.sort((l, r) => {
-          const lFirst = l.terms?.[0]?.price;
-          const rFirst = r.terms?.[0]?.price;
+        return hotels.sort((l, r) => {
+          const lFirst = l.terms[0]?.price;
+          const rFirst = r.terms[0]?.price;
 
           return !!lFirst ? (lFirst < rFirst ? 1 : -1) : 1;
         });
