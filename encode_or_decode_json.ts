@@ -14,13 +14,13 @@ export type T = O | T[] | boolean | number | string | null;
 // @ts-ignore
 function encode_or_decode_json(json, keys) {
   if (Array.isArray(json)) {
-    return json.map(encode_or_decode_json);
+    return json.map($ => encode_or_decode_json($, keys));
   }
 
   if (isObject(json)) {
     return Object.keys(json).reduce(($, key) => {
       // @ts-ignore
-      $[keys[key] ?? key] = encode_or_decode_json(json[key]);
+      $[keys[key] ?? key] = encode_or_decode_json(json[key], keys);
 
       return $;
     }, {});
