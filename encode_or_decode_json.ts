@@ -3,13 +3,16 @@
  */
 
 import isObject from './isObject';
-import KEYS from './keys';
+import Dictionary from '../Dictionary';
+import koala_decoded_keys from '../Dictionary/koala_decoded_keys';
 
 interface O {
   [key: string]: T;
 }
 
 export type T = O | T[] | boolean | number | string | null;
+
+const dictionary = new Dictionary(koala_decoded_keys);
 
 // @ts-ignore
 function encode_or_decode_json(json, keys) {
@@ -31,13 +34,13 @@ function encode_or_decode_json(json, keys) {
 
 // @ts-ignore
 export function decode_json(json) {
-  return encode_or_decode_json(json, KEYS);
+  return encode_or_decode_json(
+    json,
+    Object.keys(dictionary.dictionary).reduce(($, key) => ({ ...$, [dictionary.dictionary[key]]: key }), {})
+  );
 }
 
 // @ts-ignore
 export function encode_json(json) {
-  return encode_or_decode_json(
-    json,
-    Object.keys(KEYS).reduce(($, key) => ({ ...$, [KEYS[key as 'a']]: key }), {})
-  );
+  return encode_or_decode_json(json, dictionary.dictionary);
 }
