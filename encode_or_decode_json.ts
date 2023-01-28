@@ -3,8 +3,8 @@
  */
 
 import isObject from './isObject';
-import Dictionary from '../Dictionary';
-import koala_decoded_keys from '../Dictionary/koala_decoded_keys';
+import Dictionary from '../packages/Dictionary';
+import koala_decoded_keys from '../packages/Dictionary/koala_decoded_keys';
 
 interface O {
   [key: string]: T;
