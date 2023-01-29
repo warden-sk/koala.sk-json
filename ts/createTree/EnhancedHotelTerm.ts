@@ -15,6 +15,12 @@ class EnhancedHotelTerm implements Omit<HotelTerm, 'date'> {
   json: HotelTerm;
   parent?: EnhancedHotel;
   price: number;
+  room: {
+    adultCount: number;
+    childAge: [number, number];
+    personCount: number;
+    roomCount: number;
+  };
   service: string;
   serviceId: number;
   transportation: string;
@@ -33,6 +39,12 @@ class EnhancedHotelTerm implements Omit<HotelTerm, 'date'> {
     this.json = hotelTerm;
     this.parent = parent;
     this.price = hotelTerm.price;
+    this.room = {
+      adultCount: hotelTerm.room.adultCount,
+      childAge: hotelTerm.room.childAge,
+      personCount: hotelTerm.room.personCount,
+      roomCount: hotelTerm.room.roomCount,
+    };
     this.service = hotelTerm.service;
     this.serviceId = hotelTerm.serviceId;
     this.transportation = hotelTerm.transportation;

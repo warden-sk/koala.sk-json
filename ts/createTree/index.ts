@@ -2,8 +2,8 @@
  * Copyright 2023 Marek Kobida
  */
 
-import { pernik } from '../../../private/2023/DestinationSelector';
-import getDestinationsFromDestination from '../../../private/2023/DestinationSelector/helpers/getDestinationsFromDestination';
+import { pernik } from '../../../packages/2023/DestinationSelector';
+import getDestinationsFromDestination from '../../../packages/2023/DestinationSelector/helpers/getDestinationsFromDestination';
 import EnhancedRegExp from '../../../private/helpers/EnhancedRegExp';
 import type { Destination } from '../createDestination';
 import EnhancedDestination from './EnhancedDestination';
@@ -34,9 +34,11 @@ export interface SearchInput {
 }
 
 export class Tree {
+  $?: { createdAt: number; hash: string; size: number; version: string };
   destinations: EnhancedDestination[];
 
-  constructor(destinations: Destination[]) {
+  constructor(destinations: Destination[], $?: { createdAt: number; hash: string; size: number; version: string }) {
+    this.$ = $;
     this.destinations = destinations.map(destination => new EnhancedDestination(destination));
   }
 
@@ -120,18 +122,27 @@ export class Tree {
         .hotels(true)
         .filter(
           hotel =>
-            filterConditions.hotel.every(filterCondition => filterCondition(hotel)) &&
-            hotel.terms.every(hotelTerm =>
-              filterConditions.hotelTerm.some(filterCondition => filterCondition(hotelTerm))
-            )
+            filterConditions.hotel.every(filterCondition => {
+              return filterCondition(hotel);
+            }) &&
+            hotel.terms.every(hotelTerm => {
+              return filterConditions.hotelTerm.some(filterCondition => {
+                return filterCondition(hotelTerm);
+              });
+            })
         )
-        // TODO
         .map(hotel => {
           const hotel2: EnhancedHotel = Object.assign(Object.create(Object.getPrototypeOf(hotel)), hotel);
 
           hotel2.terms = hotel2.terms
-            .filter(hotelTerm => filterConditions.hotelTerm.every(filterCondition => filterCondition(hotelTerm)))
-            .sort((l, r) => (l.price > r.price ? 1 : -1));
+            .filter(hotelTerm => {
+              return filterConditions.hotelTerm.every(filterCondition => {
+                return filterCondition(hotelTerm);
+              });
+            })
+            .sort((l, r) => {
+              return l.price > r.price ? 1 : -1;
+            });
 
           return hotel2;
         })
@@ -169,8 +180,11 @@ export class Tree {
   }
 }
 
-function createTree(destinations: Destination[]): Tree {
-  return new Tree(destinations);
+function createTree(
+  destinations: Destination[],
+  $?: { createdAt: number; hash: string; size: number; version: string }
+): Tree {
+  return new Tree(destinations, $);
 }
 
 export default createTree;
