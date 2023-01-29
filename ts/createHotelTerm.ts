@@ -10,6 +10,12 @@ export interface HotelTerm {
   id: number;
   isActive?: boolean; // undefined
   price: number;
+  room: {
+    adultCount: number;
+    childAge: [number, number];
+    personCount: number;
+    roomCount: number;
+  };
   service: string;
   serviceId: number;
   transportation: string;
@@ -30,6 +36,12 @@ function createHotelTerm(): HotelTerm {
     id: id++,
     isActive: true,
     price: 500,
+    room: {
+      adultCount: 0,
+      childAge: [0, 0],
+      personCount: 0,
+      roomCount: 0,
+    },
     service: 'Ultra All Inclusive',
     serviceId: 672,
     transportation: 'airplane',
