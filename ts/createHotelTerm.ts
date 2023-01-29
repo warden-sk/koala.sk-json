@@ -5,7 +5,7 @@
 export interface HotelTerm {
   code: number;
   date: [from: number, to: number];
-  days: number;
+  dayCount: number;
   discount?: number; // undefined
   id: number;
   isActive?: boolean; // undefined
@@ -31,7 +31,7 @@ function createHotelTerm(): HotelTerm {
   return {
     code: 1234,
     date: [19700101, 19700101],
-    days: 0,
+    dayCount: 0,
     discount: 50,
     id: id++,
     isActive: true,

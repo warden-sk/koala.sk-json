@@ -14,7 +14,7 @@ export interface Hotel {
   name: string;
   parentId: number;
   photoId: number;
-  stars: number;
+  starCount: number;
   terms: HotelTerm[];
   type: string;
   url: string;
@@ -31,7 +31,7 @@ function createHotel(): Hotel {
     name: 'Hotel',
     parentId: 0,
     photoId: 0,
-    stars: 5,
+    starCount: 5,
     terms: [createHotelTerm()],
     type: 'hotel',
     url: 'hotel',

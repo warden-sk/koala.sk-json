@@ -8,7 +8,7 @@ import type EnhancedHotel from './EnhancedHotel';
 class EnhancedHotelTerm implements Omit<HotelTerm, 'date'> {
   code: number;
   date: [from: Date, to: Date];
-  days: number;
+  dayCount: number;
   discount: number;
   id: number;
   isActive: boolean;
@@ -32,7 +32,7 @@ class EnhancedHotelTerm implements Omit<HotelTerm, 'date'> {
   constructor(hotelTerm: HotelTerm, parent?: EnhancedHotel) {
     this.code = hotelTerm.code;
     this.date = [this.decodeDate(hotelTerm.date[0]), this.decodeDate(hotelTerm.date[1])];
-    this.days = hotelTerm.days;
+    this.dayCount = hotelTerm.dayCount;
     this.discount = hotelTerm.discount ?? 0;
     this.id = hotelTerm.id;
     this.isActive = hotelTerm.isActive ?? false;
@@ -65,7 +65,7 @@ class EnhancedHotelTerm implements Omit<HotelTerm, 'date'> {
   }
 
   hasDays(from: number, to: number): boolean {
-    return this.days >= from && this.days <= to;
+    return this.dayCount >= from && this.dayCount <= to;
   }
 
   hasDiscount(): boolean {

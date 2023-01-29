@@ -17,7 +17,7 @@ class EnhancedHotel implements Omit<Hotel, 'terms'> {
   parent?: EnhancedDestination;
   parentId: number;
   photoId: number;
-  stars: number;
+  starCount: number;
   terms: EnhancedHotelTerm[];
   type: string;
   url: string;
@@ -34,7 +34,7 @@ class EnhancedHotel implements Omit<Hotel, 'terms'> {
     this.parent = parent;
     this.parentId = hotel.parentId;
     this.photoId = hotel.photoId;
-    this.stars = hotel.stars;
+    this.starCount = hotel.starCount;
     this.terms = hotel.terms.map(hotelTerm => new EnhancedHotelTerm(hotelTerm, this));
     this.type = hotel.type;
     this.url = hotel.url;
@@ -54,7 +54,7 @@ class EnhancedHotel implements Omit<Hotel, 'terms'> {
   };
 
   hasStars = (stars: number): boolean => {
-    return this.stars === stars || this.stars === stars + 0.5;
+    return this.starCount === stars || this.starCount === stars + 0.5;
   };
 
   hasTerms(): boolean {
