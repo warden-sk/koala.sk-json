@@ -4,7 +4,7 @@
 
 import isObject from './isObject';
 import Dictionary from '../packages/dictionary';
-import koala_decoded_keys from '../packages/dictionary/koala_decoded_keys';
+import koala_decoded_keys from './koala_decoded_keys';
 
 interface O {
   [key: string]: T;
