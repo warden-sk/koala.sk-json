@@ -13,8 +13,10 @@ export interface HotelTerm {
   room: {
     adultCount: number;
     childAge: [number, number];
+    id: string;
     personCount: number;
     roomCount: number;
+    type: string;
   };
   service: string;
   serviceId: number;
@@ -39,8 +41,10 @@ function createHotelTerm(): HotelTerm {
     room: {
       adultCount: 0,
       childAge: [0, 0],
+      id: '',
       personCount: 0,
       roomCount: 0,
+      type: '',
     },
     service: 'Ultra All Inclusive',
     serviceId: 672,
