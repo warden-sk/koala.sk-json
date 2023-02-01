@@ -36,11 +36,11 @@ function encode_or_decode_json(json, keys) {
 export function decode_json(json) {
   return encode_or_decode_json(
     json,
-    Object.keys(dictionary.dictionary).reduce(($, key) => ({ ...$, [dictionary.dictionary[key]]: key }), {})
+    Object.keys(dictionary.getDictionary()).reduce(($, key) => ({ ...$, [dictionary.getKey(key)]: key }), {})
   );
 }
 
 // @ts-ignore
 export function encode_json(json) {
-  return encode_or_decode_json(json, dictionary.dictionary);
+  return encode_or_decode_json(json, dictionary.getDictionary());
 }
