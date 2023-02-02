@@ -18,8 +18,10 @@ class EnhancedHotelTerm implements Omit<HotelTerm, 'date'> {
   room: {
     adultCount: number;
     childAge: [number, number];
+    id: string;
     personCount: number;
     roomCount: number;
+    type: string;
   };
   service: string;
   serviceId: number;
@@ -42,8 +44,10 @@ class EnhancedHotelTerm implements Omit<HotelTerm, 'date'> {
     this.room = {
       adultCount: hotelTerm.room.adultCount,
       childAge: hotelTerm.room.childAge,
+      id: hotelTerm.room.id,
       personCount: hotelTerm.room.personCount,
       roomCount: hotelTerm.room.roomCount,
+      type: hotelTerm.room.type,
     };
     this.service = hotelTerm.service;
     this.serviceId = hotelTerm.serviceId;
