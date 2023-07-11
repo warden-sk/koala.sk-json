@@ -4,6 +4,8 @@
 
 import { pernik } from '../../../packages/2023/DestinationSelector';
 import getDestinationsFromDestination from '../../../packages/2023/DestinationSelector/helpers/getDestinationsFromDestination';
+import getFilterConditions from '../../../private/components/Filter/FilterChildrenHelpers/getFilterConditions';
+import deleteSoldOutTermsFromHotels from '../../../private/components/HotelSelection/deleteSoldOutTermsFromHotels';
 import EnhancedRegExp from '../../../private/helpers/EnhancedRegExp';
 import type { Destination } from '../createDestination';
 import EnhancedDestination from './EnhancedDestination';
@@ -16,6 +18,8 @@ export interface FilterConditions {
 }
 
 export interface SearchInput {
+  query?: string;
+  //
   category?: number[];
   date?: [from: number, to: number];
   days?: [from: number, to: number];
@@ -42,8 +46,10 @@ export class Tree {
     this.destinations = destinations.map(destination => new EnhancedDestination(destination));
   }
 
-  searchHotels(searchInput: SearchInput = {}): EnhancedHotel[] {
+  searchHotels(searchInput: SearchInput = {}, skipSoldOut = true): EnhancedHotel[] {
     const {
+      query,
+      //
       category,
       date,
       days,
@@ -146,7 +152,51 @@ export class Tree {
 
           return hotel2;
         })
+        .map(hotel => {
+          const hotel2: EnhancedHotel = Object.assign(Object.create(Object.getPrototypeOf(hotel)), hotel);
+
+          if (query) {
+            hotel2.terms = hotel2.terms.filter(
+              term =>
+                getFilterConditions[0](term, query) ||
+                (getFilterConditions[1](term, query) && getFilterConditions[2](term, query)) ||
+                getFilterConditions[3](term, query)
+            );
+          }
+
+          return hotel2;
+        })
     );
+
+    function defaultSort(htls) {
+      return (
+        htls
+          // dokončiť
+          .filter(hotel => hotel.terms.length > 0)
+          .sort((l, r) => {
+            const lFirst = l.terms[0];
+            const rFirst = r.terms[0];
+
+            if (+lFirst.date[0] > +rFirst.date[0]) {
+              return 1;
+            }
+
+            if (+lFirst.date[0] < +rFirst.date[0]) {
+              return -1;
+            }
+          })
+      );
+    }
+
+    // toto je dôležité
+
+    function omitSoldOutHotels(arr: EnhancedHotel[]): EnhancedHotel[] {
+      if (skipSoldOut) {
+        return deleteSoldOutTermsFromHotels(arr);
+      }
+
+      return arr;
+    }
 
     // TODO
     if (s) {
@@ -158,25 +208,27 @@ export class Tree {
       const DOWN = '\u2193';
 
       if (left === 'price' && right === UP) {
-        return hotels.sort((l, r) => {
+        return omitSoldOutHotels(hotels).sort((l, r) => {
           const lFirst = l.terms[0]?.price;
           const rFirst = r.terms[0]?.price;
 
           return !!lFirst ? (lFirst > rFirst ? 1 : -1) : 1;
         });
-      }
-
-      if (left === 'price' && right === DOWN) {
-        return hotels.sort((l, r) => {
+      } else if (left === 'price' && right === DOWN) {
+        return omitSoldOutHotels(hotels).sort((l, r) => {
           const lFirst = l.terms[0]?.price;
           const rFirst = r.terms[0]?.price;
 
           return !!lFirst ? (lFirst < rFirst ? 1 : -1) : 1;
         });
+      } else if (left === 'date' && right === '\u2191') {
+        return defaultSort(omitSoldOutHotels(hotels));
       }
+    } else {
+      return defaultSort(omitSoldOutHotels(hotels));
     }
 
-    return hotels;
+    return omitSoldOutHotels(hotels);
   }
 }
 
